@@ -38,7 +38,8 @@ def get_dates_dataframe() -> pd.DataFrame:
     columns = [
         "date", "gregorian", "japanese_date", "weekday_jp",
         "weekday_reading", "weekday_en", "era_jp",
-        "kanji", "kanji_reading", "kanji_meaning", "jlpt"
+        "kanji", "kanji_reading", "kanji_meaning", "jlpt",
+        "updated_at"
     ]
     if DATES_CSV.exists() and DATES_CSV.stat().st_size > 0:
         try:
@@ -72,20 +73,14 @@ def step_1_csv(date_info: Dict[str, Any], kanji_info: Dict[str, Any]) -> bool:
         "kanji": kanji_info["kanji"],
         "kanji_reading": kanji_info["reading_raw"],
         "kanji_meaning": kanji_info["meaning"],
-        "jlpt": kanji_info.get("jlpt", "N5")
+        "jlpt": kanji_info.get("jlpt", "N5"),
+        "updated_at": date_info.get("updated_at_formatted", date_info["updated_at"])
     }
 
     if not df.empty and (df["date"] == iso_date).any():
         idx = df.index[df["date"] == iso_date][0]
-        # Check if identical
-        is_same = True
         for col, val in new_row.items():
-            if str(df.at[idx, col]) != str(val):
-                is_same = False
-                df.at[idx, col] = val
-        if is_same and DATES_CSV.exists():
-            print(f"[Step 1: CSV] Record for {iso_date} already exists and is up to date.")
-            return False
+            df.at[idx, col] = val
         print(f"[Step 1: CSV] Updated existing record for {iso_date}.")
     else:
         new_df = pd.DataFrame([new_row])
@@ -134,20 +129,6 @@ def step_2_json(date_info: Dict[str, Any], kanji_info: Dict[str, Any]) -> bool:
         },
         "updated_at": date_info["updated_at"]
     }
-
-    # Compare with existing
-    if TODAY_JSON.exists():
-        try:
-            with open(TODAY_JSON, "r", encoding="utf-8") as f:
-                existing = json.load(f)
-                if (existing.get("date") == today_data["date"] and
-                    existing.get("selected_kanji", {}).get("kanji") == today_data["selected_kanji"]["kanji"]):
-                    today_data["updated_at"] = existing.get("updated_at", today_data["updated_at"])
-                    if existing == today_data:
-                        print(f"[Step 2: JSON] Record for {today_data['date']} already exists and is up to date.")
-                        return False
-        except Exception:
-            pass
 
     with open(TODAY_JSON, "w", encoding="utf-8") as f:
         json.dump(today_data, f, ensure_ascii=False, indent=2)
@@ -238,7 +219,7 @@ def step_3_html(date_info: Dict[str, Any], kanji_info: Dict[str, Any]) -> bool:
             <span>録</span>
           </div>
           <div class="vertical-accent">一日一文字</div>
-          <div class="meta-edition">Vol. {date_info['year']} · No. {total_days_recorded}</div>
+          <div class="meta-edition">Vol. {date_info['year']} · No. {total_days_recorded} · 更新 {date_info['time_str']}</div>
         </div>
       </div>
     </header>
@@ -674,7 +655,7 @@ def step_5_kanji_svg_and_readme(date_info: Dict[str, Any], kanji_info: Dict[str,
 - **Total Days Recorded:** `{total_days}`
 - **Unique Kanji Studied:** `{unique_kanji}`
 - **Total Kanji Collection:** `{total_bank}` (Foundation N5 Collection)
-- **Timezone Anchor:** `Asia/Karachi`
+- **Timezone Anchor:** `Asia/Karachi` (Last synchronized: `{date_info.get('updated_at_formatted', date_info['iso_date'])}`)
 
 ---
 

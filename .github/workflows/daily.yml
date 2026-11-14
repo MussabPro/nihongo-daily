@@ -17,7 +17,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GH_PAT || secrets.PERSONAL_ACCESS_TOKEN || secrets.GITHUB_TOKEN }}
           fetch-depth: 0
 
       - name: Set up Python
@@ -31,12 +30,14 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Configure Git identity
-
+      - name: Configure Git identity from Secrets
+        env:
+          GIT_USER_NAME: ${{ secrets.GIT_USER_NAME }}
+          GIT_USER_EMAIL: ${{ secrets.GIT_USER_EMAIL }}
         run: |
-          git config --local user.name "MussabPro"
-          git config --local user.email "musssabomair16@gmail.com"
-          echo "Configured Git author as: MussabPro <musssabomair16@gmail.com>"
+          git config --global user.name "$GIT_USER_NAME"
+          git config --global user.email "$GIT_USER_EMAIL"
+          echo "Configured Git user as: $GIT_USER_NAME <$GIT_USER_EMAIL>"
 
       # Determine target date in Asia/Karachi for commit messages
       - name: Compute today's date in Asia/Karachi
@@ -49,8 +50,8 @@ jobs:
       - name: Step 1 - Update CSV
         run: |
           python scripts/main.py --step csv
-          if [ -n "$(git status --porcelain data/dates.csv)" ]; then
-            git add data/dates.csv
+          git add data/dates.csv
+          if ! git diff --cached --quiet; then
             git commit -m "[Daily] Update dates.csv for ${{ steps.karachi_date.outputs.date }}"
           else
             echo "No changes in data/dates.csv"
@@ -60,8 +61,8 @@ jobs:
       - name: Step 2 - Update JSON
         run: |
           python scripts/main.py --step json
-          if [ -n "$(git status --porcelain data/today.json)" ]; then
-            git add data/today.json
+          git add data/today.json
+          if ! git diff --cached --quiet; then
             git commit -m "[Daily] Update today.json for ${{ steps.karachi_date.outputs.date }}"
           else
             echo "No changes in data/today.json"
@@ -71,8 +72,8 @@ jobs:
       - name: Step 3 - Update HTML
         run: |
           python scripts/main.py --step html
-          if [ -n "$(git status --porcelain index.html)" ]; then
-            git add index.html
+          git add index.html
+          if ! git diff --cached --quiet; then
             git commit -m "[Daily] Update index.html for ${{ steps.karachi_date.outputs.date }}"
           else
             echo "No changes in index.html"
@@ -82,8 +83,8 @@ jobs:
       - name: Step 4 - Generate Date SVG
         run: |
           python scripts/main.py --step date-svg
-          if [ -n "$(git status --porcelain assets/today-date.svg)" ]; then
-            git add assets/today-date.svg
+          git add assets/today-date.svg
+          if ! git diff --cached --quiet; then
             git commit -m "[Daily] Generate today-date.svg for ${{ steps.karachi_date.outputs.date }}"
           else
             echo "No changes in assets/today-date.svg"
@@ -93,16 +94,8 @@ jobs:
       - name: Step 5 - Generate Kanji SVG & README
         run: |
           python scripts/main.py --step kanji-svg
-          CHANGES=""
-          if [ -n "$(git status --porcelain assets/daily-kanji.svg)" ]; then
-            git add assets/daily-kanji.svg
-            CHANGES="1"
-          fi
-          if [ -n "$(git status --porcelain README.md)" ]; then
-            git add README.md
-            CHANGES="1"
-          fi
-          if [ -n "$CHANGES" ]; then
+          git add assets/daily-kanji.svg README.md
+          if ! git diff --cached --quiet; then
             git commit -m "[Daily] Update daily-kanji.svg and README for ${{ steps.karachi_date.outputs.date }}"
           else
             echo "No changes in daily-kanji.svg or README.md"
@@ -111,5 +104,4 @@ jobs:
       # Push all commits made during the run
       - name: Push commits
         run: |
-          git pull --rebase origin main || true
           git push origin main

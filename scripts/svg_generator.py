@@ -38,6 +38,8 @@ def generate_date_svg(date_info: Dict[str, Any], output_path: Path = ASSETS_DIR 
     wafuu_month = escape(f"{date_info['wafuu_month_kanji']} ({date_info['wafuu_month_romaji']})")
     wafuu_meaning = escape(date_info["wafuu_month_meaning"])
     timezone_str = escape(date_info.get("timezone", "Asia/Karachi"))
+    time_str = escape(date_info.get("time_str", ""))
+    time_display = f"{timezone_str} · {iso_date} · {time_str}" if time_str else f"{timezone_str} · {iso_date}"
 
     svg_content = f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 380" width="100%" height="100%">
   <defs>
@@ -77,7 +79,7 @@ def generate_date_svg(date_info: Dict[str, Any], output_path: Path = ASSETS_DIR 
 
   <!-- Top Header Bar -->
   <text x="54" y="65" class="text-roman" font-size="13" letter-spacing="3" fill="#45566B" font-weight="700">NIHONGO DAILY · 日本語日録</text>
-  <text x="696" y="65" class="text-muted" font-size="11" text-anchor="end" letter-spacing="1">{timezone_str} · {iso_date}</text>
+  <text x="696" y="65" class="text-muted" font-size="11" text-anchor="end" letter-spacing="1">{time_display}</text>
   <line x1="54" y1="78" x2="696" y2="78" stroke="#DDD5C7" stroke-width="1"/>
 
   <!-- Left Column: Traditional Japanese Calendar -->

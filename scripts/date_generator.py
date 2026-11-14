@@ -103,11 +103,16 @@ def get_current_date(target_date: Optional[str] = None) -> Dict[str, Any]:
     gregorian_en = dt.strftime("%B %d, %Y")
     japanese_date = f"{year}年{month}月{day}日"
 
+    time_str = dt.strftime("%H:%M")
+    updated_at_formatted = dt.strftime("%Y-%m-%d %H:%M:%S PKT")
+
     return {
         "iso_date": iso_date,
         "year": year,
         "month": month,
         "day": day,
+        "time_str": time_str,
+        "updated_at_formatted": updated_at_formatted,
         "gregorian_en": gregorian_en,
         "japanese_date": japanese_date,
         "weekday_jp": wd_info["jp"],
