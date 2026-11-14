@@ -612,10 +612,23 @@ def step_5_kanji_svg_and_readme(date_info: Dict[str, Any], kanji_info: Dict[str,
 
 > An automated Japanese-inspired daily calendar, Kanji flashcard, vocabulary study, and learning journal. Updated every single day through GitHub Actions in `Asia/Karachi` time.
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/SVG-FFB13B?style=for-the-badge&logo=svg&logoColor=white" alt="SVG"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
+  <img src="https://img.shields.io/badge/CSV-217346?style=for-the-badge&logo=apacheparquet&logoColor=white" alt="CSV"/>
+  <img src="https://img.shields.io/badge/PDF-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="PDF"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+</p>
+
 [![Daily Update](https://github.com/mussab/nihongo-daily/actions/workflows/daily.yml/badge.svg)](https://github.com/mussab/nihongo-daily/actions/workflows/daily.yml)
 [![Pages Deployment](https://img.shields.io/badge/GitHub_Pages-Active-success?logo=github)](index.html)
 [![Timezone](https://img.shields.io/badge/Timezone-Asia%2FKarachi-45566B)](https://time.is/Karachi)
-[![JLPT Level](https://img.shields.io/badge/JLPT-N5-B64032)](kanji.md)
+[![JLPT Level](https://img.shields.io/badge/JLPT-N5-B64032)](materials/kanji.md)
 
 ---
 
@@ -671,6 +684,43 @@ The website and vector graphics are designed with a traditional Japanese station
 - **Hanko Stamps:** Authentic Japanese cinnabar seal stamps for daily authenticity.
 - **Interactive Calendar:** Monthly navigation highlighting recorded history.
 - **Non-Overwriting Journal:** LocalStorage and JSON-persisted daily notes.
+
+---
+
+## 📁 Repository Structure
+
+```
+nihongo-daily/
+│
+├── .github/
+│   └── workflows/
+│       └── daily.yml             # GitHub Actions workflow (5 daily commits)
+│
+├── materials/                    # Study source materials directory
+│   ├── kanji.md                  # Complete 93-Kanji N5 curriculum guide
+│   └── Under 100 Kanjis_v3.pdf   # Foundational Kanji study guide reference
+│
+├── scripts/
+│   ├── main.py                   # Automated pipeline runner (--step, --all)
+│   ├── date_generator.py         # Timezone & Japanese era calculations
+│   ├── kanji_generator.py        # Kanji parser & deterministic daily selector
+│   └── svg_generator.py          # Vector date & kanji stationery generators
+│
+├── data/
+│   ├── dates.csv                 # Cumulative history of daily records (Pandas)
+│   ├── today.json                # Today's structured JSON data
+│   ├── kanji_bank.json           # Parsed 93-Kanji dictionary database
+│   └── journal.json              # Preserved user reflections storage
+│
+├── assets/
+│   ├── today-date.svg            # Vector Japanese date calendar card
+│   ├── daily-kanji.svg           # Vector daily Kanji practice card
+│   └── style.css                 # Authentic Japanese editorial styling
+│
+├── index.html                    # Live web journal & calendar application
+├── README.md                     # Live repository dashboard
+└── requirements.txt              # Python dependencies
+```
 
 ---
 

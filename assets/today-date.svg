@@ -41,30 +41,30 @@
 
   <!-- Left Column: Traditional Japanese Calendar -->
   <!-- Japanese Era (Reiwa) -->
-  <text x="54" y="115" class="text-primary" font-size="20" font-weight="600" letter-spacing="2">令和8年11月14日</text>
-  <text x="54" y="136" class="text-muted" font-size="12" letter-spacing="1">和風月名：霜月 (Shimotsuki) · Month of Frost</text>
+  <text x="54" y="112" class="text-primary" font-size="20" font-weight="600" letter-spacing="2">令和8年11月14日</text>
+  <text x="54" y="133" class="text-muted" font-size="12" letter-spacing="1">和風月名：霜月 (Shimotsuki) · Month of Frost</text>
 
   <!-- Large Day Numeral & Traditional Day Kanji -->
-  <g transform="translate(54, 150)">
-    <!-- Big Day Number -->
-    <text x="0" y="125" class="text-roman" font-size="125" font-weight="700" fill="#25251F">14</text>
-    <!-- Traditional Day Kanji next to it -->
-    <text x="170" y="218" class="text-primary" font-size="24" font-weight="600" letter-spacing="2" fill="#77736A">十四日</text>
-    <text x="170" y="245" class="text-roman" font-size="18" fill="#45566B" font-style="italic">November 14, 2026</text>
+  <g transform="translate(54, 140)">
+    <!-- Big Day Number (elevated up for balanced vertical alignment) -->
+    <text x="0" y="105" class="text-roman" font-size="115" font-weight="700" fill="#25251F">14</text>
+    <!-- Traditional Day Kanji & English Date aligned beside the numeral -->
+    <text x="165" y="58" class="text-primary" font-size="24" font-weight="600" letter-spacing="2" fill="#77736A">十四日</text>
+    <text x="165" y="92" class="text-roman" font-size="18" fill="#45566B" font-style="italic">November 14, 2026</text>
   </g>
 
   <!-- Middle Divider -->
-  <line x1="430" y1="100" x2="430" y2="330" stroke="#DDD5C7" stroke-width="1" stroke-dasharray="3 3"/>
+  <line x1="430" y1="95" x2="430" y2="305" stroke="#DDD5C7" stroke-width="1" stroke-dasharray="3 3"/>
 
   <!-- Right Column: Weekday & Authentic Hanko Stamp -->
   <!-- Weekday display -->
-  <g transform="translate(460, 110)">
+  <g transform="translate(460, 105)">
     <text x="0" y="18" class="text-muted" font-size="11" letter-spacing="2">WEEKDAY · 曜日</text>
-    <text x="0" y="68" class="text-primary" font-size="46" font-weight="900" letter-spacing="3" fill="#B64032">土曜日</text>
-    <text x="2" y="94" class="text-muted" font-size="14" letter-spacing="2">（どようび） · Saturday</text>
+    <text x="0" y="66" class="text-primary" font-size="46" font-weight="900" letter-spacing="3" fill="#B64032">土曜日</text>
+    <text x="2" y="92" class="text-muted" font-size="14" letter-spacing="2">（どようび） · Saturday</text>
 
     <!-- Traditional Hanko (Vermilion Seal Stamp) -->
-    <g transform="translate(160, 120)">
+    <g transform="translate(160, 110)">
       <!-- Outer rounded stamp box -->
       <rect x="0" y="0" width="70" height="70" rx="10" ry="10" fill="none" stroke="#B64032" stroke-width="2.5" opacity="0.9"/>
       <rect x="4" y="4" width="62" height="62" rx="7" ry="7" fill="none" stroke="#B64032" stroke-width="0.8" opacity="0.5"/>
@@ -74,10 +74,10 @@
     </g>
 
     <!-- Small traditional note -->
-    <text x="0" y="165" class="text-muted" font-size="11" letter-spacing="1">日日是好日</text>
-    <text x="0" y="182" class="text-muted" font-size="10" font-style="italic">"Every day is a good day"</text>
+    <text x="0" y="155" class="text-muted" font-size="11" letter-spacing="1">日日是好日</text>
+    <text x="0" y="172" class="text-muted" font-size="10" font-style="italic">"Every day is a good day"</text>
   </g>
 
   <!-- Bottom Accent Line -->
-  <line x1="54" y1="335" x2="696" y2="335" stroke="#DDD5C7" stroke-width="1"/>
+  <line x1="54" y1="315" x2="696" y2="315" stroke="#DDD5C7" stroke-width="1"/>
 </svg>

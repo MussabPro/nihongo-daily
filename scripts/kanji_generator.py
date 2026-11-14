@@ -15,7 +15,8 @@ from typing import List, Dict, Any, Optional
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 DATA_DIR = BASE_DIR / "data"
-KANJI_MD_PATH = BASE_DIR / "kanji.md"
+MATERIALS_DIR = BASE_DIR / "materials"
+KANJI_MD_PATH = MATERIALS_DIR / "kanji.md" if (MATERIALS_DIR / "kanji.md").exists() else BASE_DIR / "kanji.md"
 KANJI_BANK_JSON = DATA_DIR / "kanji_bank.json"
 
 # Fixed reference epoch for deterministic day offset
@@ -224,3 +225,4 @@ if __name__ == "__main__":
     today_kanji = get_daily_kanji("2026-11-14")
     print("\nSelected Kanji for 2026-11-14:")
     pprint.pprint(today_kanji)
+
