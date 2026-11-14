@@ -638,6 +638,8 @@ def step_5_kanji_svg_and_readme(date_info: Dict[str, Any], kanji_info: Dict[str,
   <img src="assets/today-date.svg" alt="Today's Japanese Date" width="680"/>
 </div>
 
+<br/>
+
 | Attribute | Details |
 | :--- | :--- |
 | **Gregorian Date** | {date_info['gregorian_en']} (`{date_info['iso_date']}`) |

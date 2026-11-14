@@ -28,6 +28,8 @@
   <img src="assets/today-date.svg" alt="Today's Japanese Date" width="680"/>
 </div>
 
+<br/>
+
 | Attribute | Details |
 | :--- | :--- |
 | **Gregorian Date** | November 14, 2026 (`2026-11-14`) |
