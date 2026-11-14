@@ -90,8 +90,8 @@ def generate_date_svg(date_info: Dict[str, Any], output_path: Path = ASSETS_DIR 
     <!-- Big Day Number (elevated up for balanced vertical alignment) -->
     <text x="0" y="105" class="text-roman" font-size="115" font-weight="700" fill="#25251F">{day_num}</text>
     <!-- Traditional Day Kanji & English Date aligned beside the numeral -->
-    <text x="165" y="58" class="text-primary" font-size="24" font-weight="600" letter-spacing="2" fill="#77736A">{day_kanji}</text>
-    <text x="165" y="92" class="text-roman" font-size="18" fill="#45566B" font-style="italic">{gregorian_en}</text>
+    <text x="165" y="88" class="text-primary" font-size="24" font-weight="600" letter-spacing="2" fill="#77736A">{day_kanji}</text>
+    <text x="165" y="122" class="text-roman" font-size="18" fill="#45566B" font-style="italic">{gregorian_en}</text>
   </g>
 
   <!-- Middle Divider -->
