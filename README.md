@@ -152,7 +152,7 @@ python scripts/main.py --step date-svg
 python scripts/main.py --step kanji-svg
 ```
 
-### Enabling GitHub Pages & GitHub Actions
+### Enabling GitHub Pages, Actions & Personal Account Commits
 
 1. **Push to GitHub:**
    ```bash
@@ -160,10 +160,15 @@ python scripts/main.py --step kanji-svg
    git commit -m "Initial commit of nihongo-daily"
    git push -u origin main
    ```
-2. **Enable Workflow Permissions:**
+2. **Configure Repository Secrets (for your personal commit credit):**
+   Go to your repository **Settings** > **Secrets and variables** > **Actions** and add:
+   * `GIT_USER_NAME`: Your GitHub username or name (e.g., `Mussab`)
+   * `GIT_USER_EMAIL`: Your GitHub account email address (e.g., your primary or `@users.noreply.github.com` email)
+   * `GH_PAT`: A Personal Access Token (classic with `repo` scope, or fine-grained with Contents read/write) so the commits are attributed to your personal account and contribute to your activity graph.
+3. **Enable Workflow Permissions:**
    - Go to **Settings** > **Actions** > **General** > **Workflow permissions**.
    - Select **Read and write permissions** and check **Allow GitHub Actions to create and approve pull requests**.
-3. **Enable GitHub Pages:**
+4. **Enable GitHub Pages:**
    - Go to **Settings** > **Pages**.
    - Under **Build and deployment**, select **Deploy from a branch**.
    - Set Branch to `main`, folder to `/ (root)`, and click **Save**.
