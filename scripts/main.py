@@ -140,11 +140,12 @@ def step_2_json(date_info: Dict[str, Any], kanji_info: Dict[str, Any]) -> bool:
         try:
             with open(TODAY_JSON, "r", encoding="utf-8") as f:
                 existing = json.load(f)
-                # Compare primary fields
                 if (existing.get("date") == today_data["date"] and
                     existing.get("selected_kanji", {}).get("kanji") == today_data["selected_kanji"]["kanji"]):
-                    # If updated_at is within same day and everything matches, write only if needed
-                    pass
+                    today_data["updated_at"] = existing.get("updated_at", today_data["updated_at"])
+                    if existing == today_data:
+                        print(f"[Step 2: JSON] Record for {today_data['date']} already exists and is up to date.")
+                        return False
         except Exception:
             pass
 
