@@ -1,0 +1,112 @@
+name: Daily Nihongo Update
+
+on:
+  schedule:
+    # 19:05 UTC corresponds to 00:05 AM in Asia/Karachi (UTC+5)
+    - cron: '5 19 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  daily-update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Configure Git identity
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      # Determine target date in Asia/Karachi for commit messages
+      - name: Compute today's date in Asia/Karachi
+        id: karachi_date
+        run: |
+          TODAY_STR=$(python -c "from scripts.date_generator import get_current_date; print(get_current_date()['iso_date'])")
+          echo "date=$TODAY_STR" >> $GITHUB_OUTPUT
+
+      # Commit 1: Update CSV (data/dates.csv)
+      - name: Step 1 - Update CSV
+        run: |
+          python scripts/main.py --step csv
+          if [ -n "$(git status --porcelain data/dates.csv)" ]; then
+            git add data/dates.csv
+            git commit -m "[Daily] Update dates.csv for ${{ steps.karachi_date.outputs.date }}"
+          else
+            echo "No changes in data/dates.csv"
+          fi
+
+      # Commit 2: Update JSON (data/today.json)
+      - name: Step 2 - Update JSON
+        run: |
+          python scripts/main.py --step json
+          if [ -n "$(git status --porcelain data/today.json)" ]; then
+            git add data/today.json
+            git commit -m "[Daily] Update today.json for ${{ steps.karachi_date.outputs.date }}"
+          else
+            echo "No changes in data/today.json"
+          fi
+
+      # Commit 3: Update HTML (index.html)
+      - name: Step 3 - Update HTML
+        run: |
+          python scripts/main.py --step html
+          if [ -n "$(git status --porcelain index.html)" ]; then
+            git add index.html
+            git commit -m "[Daily] Update index.html for ${{ steps.karachi_date.outputs.date }}"
+          else
+            echo "No changes in index.html"
+          fi
+
+      # Commit 4: Generate Date SVG (assets/today-date.svg)
+      - name: Step 4 - Generate Date SVG
+        run: |
+          python scripts/main.py --step date-svg
+          if [ -n "$(git status --porcelain assets/today-date.svg)" ]; then
+            git add assets/today-date.svg
+            git commit -m "[Daily] Generate today-date.svg for ${{ steps.karachi_date.outputs.date }}"
+          else
+            echo "No changes in assets/today-date.svg"
+          fi
+
+      # Commit 5: Generate Kanji SVG & README (assets/daily-kanji.svg & README.md)
+      - name: Step 5 - Generate Kanji SVG & README
+        run: |
+          python scripts/main.py --step kanji-svg
+          CHANGES=""
+          if [ -n "$(git status --porcelain assets/daily-kanji.svg)" ]; then
+            git add assets/daily-kanji.svg
+            CHANGES="1"
+          fi
+          if [ -n "$(git status --porcelain README.md)" ]; then
+            git add README.md
+            CHANGES="1"
+          fi
+          if [ -n "$CHANGES" ]; then
+            git commit -m "[Daily] Update daily-kanji.svg and README for ${{ steps.karachi_date.outputs.date }}"
+          else
+            echo "No changes in daily-kanji.svg or README.md"
+          fi
+
+      # Push all commits made during the run
+      - name: Push commits
+        run: |
+          git pull --rebase origin main || true
+          git push origin main

@@ -1,0 +1,3432 @@
+[
+  {
+    "id": 1,
+    "kanji": "日",
+    "reading_raw": "にち (Nichi)",
+    "hiragana": "にち",
+    "katakana": "ニチ",
+    "romaji": "Nichi",
+    "meaning": "Day",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "日よう日",
+        "reading": "にちようび",
+        "katakana": "ニチヨウビ",
+        "romaji": "Nichiyoubi",
+        "meaning": "Sunday"
+      },
+      {
+        "kanji_form": "日ほん",
+        "reading": "にほん",
+        "katakana": "ニホン",
+        "romaji": "Nihon",
+        "meaning": "Japan"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "日よう日",
+      "reading": "にちようび",
+      "katakana": "ニチヨウビ",
+      "romaji": "Nichiyoubi",
+      "meaning": "Sunday"
+    },
+    "raw_related": "<u>にち</u>よう<u>び</u> (Nichiyoubi - Sunday), <u>に</u>ほん (Nihon - Japan)",
+    "raw_studied": "日よう日 (Nichiyoubi), 日ほん (Nihon)"
+  },
+  {
+    "id": 2,
+    "kanji": "月",
+    "reading_raw": "つき (Tsuki)",
+    "hiragana": "つき",
+    "katakana": "ツキ",
+    "romaji": "Tsuki",
+    "meaning": "Moon",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "月",
+        "reading": "つき",
+        "katakana": "ツキ",
+        "romaji": "Tsuki",
+        "meaning": "Moon"
+      },
+      {
+        "kanji_form": "一月",
+        "reading": "いちがつ",
+        "katakana": "イチガツ",
+        "romaji": "Ichigatsu",
+        "meaning": "January"
+      },
+      {
+        "kanji_form": "四ヶ月",
+        "reading": "よんかがつ",
+        "katakana": "ヨンカガツ",
+        "romaji": "Yonkagatsu",
+        "meaning": "4 months"
+      },
+      {
+        "kanji_form": "月よう日",
+        "reading": "げつようび",
+        "katakana": "ゲツヨウビ",
+        "romaji": "Getsuyoubi",
+        "meaning": "Monday"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "月",
+      "reading": "つき",
+      "katakana": "ツキ",
+      "romaji": "Tsuki",
+      "meaning": "Moon"
+    },
+    "raw_related": "<u>つき</u> (Tsuki - Moon), いち<u>がつ</u> (Ichigatsu - January), よんか<u>がつ</u> (Yonkagatsu - 4 months), <u>げつ</u>ようび (Getsuyoubi - Monday)",
+    "raw_studied": "月 (Tsuki), 一月 (Ichigatsu), 四ヶ月 (Yonkagatsu), 月よう日 (Getsuyoubi)"
+  },
+  {
+    "id": 3,
+    "kanji": "木",
+    "reading_raw": "き (Ki)",
+    "hiragana": "き",
+    "katakana": "キ",
+    "romaji": "Ki",
+    "meaning": "Tree",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "木",
+        "reading": "き",
+        "katakana": "キ",
+        "romaji": "Ki",
+        "meaning": "Tree"
+      },
+      {
+        "kanji_form": "木よう日",
+        "reading": "もくようび",
+        "katakana": "モクヨウビ",
+        "romaji": "Mokuyoubi",
+        "meaning": "Thursday"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "木",
+      "reading": "き",
+      "katakana": "キ",
+      "romaji": "Ki",
+      "meaning": "Tree"
+    },
+    "raw_related": "<u>き</u> (Ki - Tree), <u>もく</u>ようび (Mokuyoubi - Thursday)",
+    "raw_studied": "木 (Ki), 木よう日 (Mokuyoubi)"
+  },
+  {
+    "id": 4,
+    "kanji": "山",
+    "reading_raw": "やま (Yama)",
+    "hiragana": "やま",
+    "katakana": "ヤマ",
+    "romaji": "Yama",
+    "meaning": "Mountain",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "山",
+        "reading": "やま",
+        "katakana": "ヤマ",
+        "romaji": "Yama",
+        "meaning": "Mountain"
+      },
+      {
+        "kanji_form": "ふじ山",
+        "reading": "ふじさん",
+        "katakana": "フジサン",
+        "romaji": "Fujisan",
+        "meaning": "Mt. Fuji"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "山",
+      "reading": "やま",
+      "katakana": "ヤマ",
+      "romaji": "Yama",
+      "meaning": "Mountain"
+    },
+    "raw_related": "<u>やま</u> (Yama - Mountain), ふじ<u>さん</u> (Fujisan - Mt. Fuji)",
+    "raw_studied": "山 (Yama), ふじ山 (Fujisan)"
+  },
+  {
+    "id": 5,
+    "kanji": "川",
+    "reading_raw": "かわ (Kawa)",
+    "hiragana": "かわ",
+    "katakana": "カワ",
+    "romaji": "Kawa",
+    "meaning": "River",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "川",
+        "reading": "かわ",
+        "katakana": "カワ",
+        "romaji": "Kawa",
+        "meaning": "River"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "川",
+      "reading": "かわ",
+      "katakana": "カワ",
+      "romaji": "Kawa",
+      "meaning": "River"
+    },
+    "raw_related": "<u>かわ</u> (Kawa - River)",
+    "raw_studied": "川 (Kawa)"
+  },
+  {
+    "id": 6,
+    "kanji": "田",
+    "reading_raw": "た (Ta)",
+    "hiragana": "た",
+    "katakana": "タ",
+    "romaji": "Ta",
+    "meaning": "Rice field",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "田んぼ",
+        "reading": "たんぼ",
+        "katakana": "タンボ",
+        "romaji": "Tanbo",
+        "meaning": "Rice field"
+      },
+      {
+        "kanji_form": "田中",
+        "reading": "たなか",
+        "katakana": "タナカ",
+        "romaji": "Tanaka",
+        "meaning": "Tanaka (surname)"
+      },
+      {
+        "kanji_form": "山田",
+        "reading": "やまだ",
+        "katakana": "ヤマダ",
+        "romaji": "Yamada",
+        "meaning": "Yamada (surname)"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "田んぼ",
+      "reading": "たんぼ",
+      "katakana": "タンボ",
+      "romaji": "Tanbo",
+      "meaning": "Rice field"
+    },
+    "raw_related": "<u>たん</u>ぼ (Tanbo - Rice field), <u>た</u>なか (Tanaka - Tanaka (surname)), やま<u>だ</u> (Yamada - Yamada (surname))",
+    "raw_studied": "田んぼ (Tanbo), 田中 (Tanaka), 山田 (Yamada)"
+  },
+  {
+    "id": 7,
+    "kanji": "人",
+    "reading_raw": "ひと (Hito)",
+    "hiragana": "ひと",
+    "katakana": "ヒト",
+    "romaji": "Hito",
+    "meaning": "Person",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "人",
+        "reading": "ひと",
+        "katakana": "ヒト",
+        "romaji": "Hito",
+        "meaning": "Person"
+      },
+      {
+        "kanji_form": "日ほん人",
+        "reading": "にほんじん",
+        "katakana": "ニホンジン",
+        "romaji": "Nihonjin",
+        "meaning": "Japanese person"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "人",
+      "reading": "ひと",
+      "katakana": "ヒト",
+      "romaji": "Hito",
+      "meaning": "Person"
+    },
+    "raw_related": "<u>ひと</u> (Hito - Person), にほん<u>じん</u> (Nihonjin - Japanese person)",
+    "raw_studied": "人 (Hito), 日ほん人 (Nihonjin)"
+  },
+  {
+    "id": 8,
+    "kanji": "口",
+    "reading_raw": "くち (Kuchi)",
+    "hiragana": "くち",
+    "katakana": "クチ",
+    "romaji": "Kuchi",
+    "meaning": "Mouth",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "口",
+        "reading": "くち",
+        "katakana": "クチ",
+        "romaji": "Kuchi",
+        "meaning": "Mouth"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "口",
+      "reading": "くち",
+      "katakana": "クチ",
+      "romaji": "Kuchi",
+      "meaning": "Mouth"
+    },
+    "raw_related": "<u>くち</u> (Kuchi - Mouth)",
+    "raw_studied": "口 (Kuchi)"
+  },
+  {
+    "id": 9,
+    "kanji": "車",
+    "reading_raw": "くるま (Kuruma)",
+    "hiragana": "くるま",
+    "katakana": "クルマ",
+    "romaji": "Kuruma",
+    "meaning": "Car",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "車",
+        "reading": "くるま",
+        "katakana": "クルマ",
+        "romaji": "Kuruma",
+        "meaning": "Car"
+      },
+      {
+        "kanji_form": "でん車",
+        "reading": "でんしゃ",
+        "katakana": "デンシャ",
+        "romaji": "Densha",
+        "meaning": "Train"
+      },
+      {
+        "kanji_form": "じてん車",
+        "reading": "じてんしゃ",
+        "katakana": "ジテンシャ",
+        "romaji": "Jidensha",
+        "meaning": "Bicycle"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "車",
+      "reading": "くるま",
+      "katakana": "クルマ",
+      "romaji": "Kuruma",
+      "meaning": "Car"
+    },
+    "raw_related": "<u>くるま</u> (Kuruma - Car), でん<u>しゃ</u> (Densha - Train), じてん<u>しゃ</u> (Jidensha - Bicycle)",
+    "raw_studied": "車 (Kuruma), でん車 (Densha), じてん車 (Jidensha)"
+  },
+  {
+    "id": 10,
+    "kanji": "門",
+    "reading_raw": "もん (Mon)",
+    "hiragana": "もん",
+    "katakana": "モン",
+    "romaji": "Mon",
+    "meaning": "Gate",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "門",
+        "reading": "もん",
+        "katakana": "モン",
+        "romaji": "Mon",
+        "meaning": "Gate"
+      },
+      {
+        "kanji_form": "せん門",
+        "reading": "せんもん",
+        "katakana": "センモン",
+        "romaji": "Senmon",
+        "meaning": "Specialty / Major"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "門",
+      "reading": "もん",
+      "katakana": "モン",
+      "romaji": "Mon",
+      "meaning": "Gate"
+    },
+    "raw_related": "<u>もん</u> (Mon - Gate), せん<u>もん</u> (Senmon - Specialty / Major)",
+    "raw_studied": "門 (Mon), せん門 (Senmon)"
+  },
+  {
+    "id": 11,
+    "kanji": "火",
+    "reading_raw": "か (Ka)",
+    "hiragana": "か",
+    "katakana": "カ",
+    "romaji": "Ka",
+    "meaning": "Fire",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "火よう日",
+        "reading": "かようび",
+        "katakana": "カヨウビ",
+        "romaji": "Kayoubi",
+        "meaning": "Tuesday"
+      },
+      {
+        "kanji_form": "火",
+        "reading": "ひ",
+        "katakana": "ヒ",
+        "romaji": "Hi",
+        "meaning": "Fire"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "火よう日",
+      "reading": "かようび",
+      "katakana": "カヨウビ",
+      "romaji": "Kayoubi",
+      "meaning": "Tuesday"
+    },
+    "raw_related": "<u>か</u>ようび (Kayoubi - Tuesday), <u>ひ</u> (Hi - Fire)",
+    "raw_studied": "火よう日 (Kayoubi), 火 (Hi)"
+  },
+  {
+    "id": 12,
+    "kanji": "水",
+    "reading_raw": "すい (Sui)",
+    "hiragana": "すい",
+    "katakana": "スイ",
+    "romaji": "Sui",
+    "meaning": "Water",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "水よう日",
+        "reading": "すいようび",
+        "katakana": "スイヨウビ",
+        "romaji": "Suiyoubi",
+        "meaning": "Wednesday"
+      },
+      {
+        "kanji_form": "水",
+        "reading": "みず",
+        "katakana": "ミズ",
+        "romaji": "Mizu",
+        "meaning": "Water"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "水よう日",
+      "reading": "すいようび",
+      "katakana": "スイヨウビ",
+      "romaji": "Suiyoubi",
+      "meaning": "Wednesday"
+    },
+    "raw_related": "<u>すい</u>ようび (Suiyoubi - Wednesday), <u>みず</u> (Mizu - Water)",
+    "raw_studied": "水よう日 (Suiyoubi), 水 (Mizu)"
+  },
+  {
+    "id": 13,
+    "kanji": "金",
+    "reading_raw": "きん (Kin)",
+    "hiragana": "きん",
+    "katakana": "キン",
+    "romaji": "Kin",
+    "meaning": "Gold / Money",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "金よう日",
+        "reading": "きんようび",
+        "katakana": "キンヨウビ",
+        "romaji": "Kinyoubi",
+        "meaning": "Friday"
+      },
+      {
+        "kanji_form": "お金",
+        "reading": "おかね",
+        "katakana": "オカネ",
+        "romaji": "Okane",
+        "meaning": "Money"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "金よう日",
+      "reading": "きんようび",
+      "katakana": "キンヨウビ",
+      "romaji": "Kinyoubi",
+      "meaning": "Friday"
+    },
+    "raw_related": "<u>きん</u>ようび (Kinyoubi - Friday), お<u>かね</u> (Okane - Money)",
+    "raw_studied": "金よう日 (Kinyoubi), お金 (Okane)"
+  },
+  {
+    "id": 14,
+    "kanji": "土",
+    "reading_raw": "ど (Do)",
+    "hiragana": "ど",
+    "katakana": "ド",
+    "romaji": "Do",
+    "meaning": "Soil / Earth",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "土よう日",
+        "reading": "どようび",
+        "katakana": "ドヨウビ",
+        "romaji": "Doyoubi",
+        "meaning": "Saturday"
+      },
+      {
+        "kanji_form": "土",
+        "reading": "つち",
+        "katakana": "ツチ",
+        "romaji": "Tsuchi",
+        "meaning": "Ground"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "土よう日",
+      "reading": "どようび",
+      "katakana": "ドヨウビ",
+      "romaji": "Doyoubi",
+      "meaning": "Saturday"
+    },
+    "raw_related": "<u>ど</u>ようび (Doyoubi - Saturday), <u>つち</u> (Tsuchi - Ground)",
+    "raw_studied": "土よう日 (Doyoubi), 土 (Tsuchi)"
+  },
+  {
+    "id": 15,
+    "kanji": "子",
+    "reading_raw": "こ (Ko)",
+    "hiragana": "こ",
+    "katakana": "コ",
+    "romaji": "Ko",
+    "meaning": "Child",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "子ども",
+        "reading": "こども",
+        "katakana": "コドモ",
+        "romaji": "Kodomo",
+        "meaning": "Child / Children"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "子ども",
+      "reading": "こども",
+      "katakana": "コドモ",
+      "romaji": "Kodomo",
+      "meaning": "Child / Children"
+    },
+    "raw_related": "<u>こ</u>ども (Kodomo - Child / Children)",
+    "raw_studied": "子ども (Kodomo)"
+  },
+  {
+    "id": 16,
+    "kanji": "女",
+    "reading_raw": "おんな (Onna)",
+    "hiragana": "おんな",
+    "katakana": "オンナ",
+    "romaji": "Onna",
+    "meaning": "Woman",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "女",
+        "reading": "おんな",
+        "katakana": "オンナ",
+        "romaji": "Onna",
+        "meaning": "Woman"
+      },
+      {
+        "kanji_form": "女の人",
+        "reading": "おんなのひと",
+        "katakana": "オンナノヒト",
+        "romaji": "Onna no hito",
+        "meaning": "Female person"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "女",
+      "reading": "おんな",
+      "katakana": "オンナ",
+      "romaji": "Onna",
+      "meaning": "Woman"
+    },
+    "raw_related": "<u>おんな</u> (Onna - Woman), <u>おんな</u>のひと (Onna no hito - Female person)",
+    "raw_studied": "女 (Onna), 女の人 (Onna no hito)"
+  },
+  {
+    "id": 17,
+    "kanji": "学",
+    "reading_raw": "がく (Gaku)",
+    "hiragana": "がく",
+    "katakana": "ガク",
+    "romaji": "Gaku",
+    "meaning": "Study / Learn",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "学せい",
+        "reading": "がくせい",
+        "katakana": "ガクセイ",
+        "romaji": "Gakusei",
+        "meaning": "Student"
+      },
+      {
+        "kanji_form": "大学",
+        "reading": "だいがく",
+        "katakana": "ダイガク",
+        "romaji": "Daigaku",
+        "meaning": "University"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "学せい",
+      "reading": "がくせい",
+      "katakana": "ガクセイ",
+      "romaji": "Gakusei",
+      "meaning": "Student"
+    },
+    "raw_related": "<u>がく</u>せい (Gakusei - Student), だい<u>がく</u> (Daigaku - University)",
+    "raw_studied": "学せい (Gakusei), 大学 (Daigaku)"
+  },
+  {
+    "id": 18,
+    "kanji": "生",
+    "reading_raw": "せい (Sei)",
+    "hiragana": "せい",
+    "katakana": "セイ",
+    "romaji": "Sei",
+    "meaning": "Life / Birth",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "学生",
+        "reading": "がくせい",
+        "katakana": "ガクセイ",
+        "romaji": "Gakusei",
+        "meaning": "Student"
+      },
+      {
+        "kanji_form": "先生",
+        "reading": "せんせい",
+        "katakana": "センセイ",
+        "romaji": "Sensei",
+        "meaning": "Teacher"
+      },
+      {
+        "kanji_form": "生まれる",
+        "reading": "うまれる",
+        "katakana": "ウマレル",
+        "romaji": "Umareru",
+        "meaning": "To be born"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "学生",
+      "reading": "がくせい",
+      "katakana": "ガクセイ",
+      "romaji": "Gakusei",
+      "meaning": "Student"
+    },
+    "raw_related": "がく<u>せい</u> (Gakusei - Student), せん<u>せい</u> (Sensei - Teacher), <u>う</u>まれる (Umareru - To be born)",
+    "raw_studied": "学生 (Gakusei), 先生 (Sensei), 生まれる (Umareru)"
+  },
+  {
+    "id": 19,
+    "kanji": "先",
+    "reading_raw": "せん (Sen)",
+    "hiragana": "せん",
+    "katakana": "セン",
+    "romaji": "Sen",
+    "meaning": "Previous / Ahead",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "先生",
+        "reading": "せんせい",
+        "katakana": "センセイ",
+        "romaji": "Sensei",
+        "meaning": "Teacher"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "先生",
+      "reading": "せんせい",
+      "katakana": "センセイ",
+      "romaji": "Sensei",
+      "meaning": "Teacher"
+    },
+    "raw_related": "<u>せん</u>せい (Sensei - Teacher)",
+    "raw_studied": "先生 (Sensei)"
+  },
+  {
+    "id": 20,
+    "kanji": "私",
+    "reading_raw": "わたし (Watashi)",
+    "hiragana": "わたし",
+    "katakana": "ワタシ",
+    "romaji": "Watashi",
+    "meaning": "I / Me",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "私",
+        "reading": "わたし",
+        "katakana": "ワタシ",
+        "romaji": "Watashi",
+        "meaning": "I / Me"
+      },
+      {
+        "kanji_form": "私りつ",
+        "reading": "しりつ",
+        "katakana": "シリツ",
+        "romaji": "Shiritsu",
+        "meaning": "Private (institution)"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "私",
+      "reading": "わたし",
+      "katakana": "ワタシ",
+      "romaji": "Watashi",
+      "meaning": "I / Me"
+    },
+    "raw_related": "<u>わたし</u> (Watashi - I / Me), <u>し</u>りつ (Shiritsu - Private (institution))",
+    "raw_studied": "私 (Watashi), 私りつ (Shiritsu)"
+  },
+  {
+    "id": 21,
+    "kanji": "一",
+    "reading_raw": "いち (Ichi)",
+    "hiragana": "いち",
+    "katakana": "イチ",
+    "romaji": "Ichi",
+    "meaning": "One",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "一人",
+        "reading": "ひとり",
+        "katakana": "ヒトリ",
+        "romaji": "Hitori",
+        "meaning": "One person"
+      },
+      {
+        "kanji_form": "一つ",
+        "reading": "ひとつ",
+        "katakana": "ヒトツ",
+        "romaji": "Hitotsu",
+        "meaning": "One item"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "一人",
+      "reading": "ひとり",
+      "katakana": "ヒトリ",
+      "romaji": "Hitori",
+      "meaning": "One person"
+    },
+    "raw_related": "<u>ひと</u>り (Hitori - One person), <u>ひと</u>つ (Hitotsu - One item)",
+    "raw_studied": "一人 (Hitori), 一つ (Hitotsu)"
+  },
+  {
+    "id": 22,
+    "kanji": "二",
+    "reading_raw": "に (Ni)",
+    "hiragana": "に",
+    "katakana": "ニ",
+    "romaji": "Ni",
+    "meaning": "Two",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "二人",
+        "reading": "ふたり",
+        "katakana": "フタリ",
+        "romaji": "Futari",
+        "meaning": "Two people"
+      },
+      {
+        "kanji_form": "二つ",
+        "reading": "ふたつ",
+        "katakana": "フタツ",
+        "romaji": "Futatsu",
+        "meaning": "Two items"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "二人",
+      "reading": "ふたり",
+      "katakana": "フタリ",
+      "romaji": "Futari",
+      "meaning": "Two people"
+    },
+    "raw_related": "<u>ふた</u>り (Futari - Two people), <u>ふた</u>つ (Futatsu - Two items)",
+    "raw_studied": "二人 (Futari), 二つ (Futatsu)"
+  },
+  {
+    "id": 23,
+    "kanji": "三",
+    "reading_raw": "さん (San)",
+    "hiragana": "さん",
+    "katakana": "サン",
+    "romaji": "San",
+    "meaning": "Three",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "三日",
+        "reading": "みっか",
+        "katakana": "ミッカ",
+        "romaji": "Mikka",
+        "meaning": "3rd day / 3 days"
+      },
+      {
+        "kanji_form": "三つ",
+        "reading": "みっつ",
+        "katakana": "ミッツ",
+        "romaji": "Mittsu",
+        "meaning": "Three items"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "三日",
+      "reading": "みっか",
+      "katakana": "ミッカ",
+      "romaji": "Mikka",
+      "meaning": "3rd day / 3 days"
+    },
+    "raw_related": "<u>みっ</u>か (Mikka - 3rd day / 3 days), <u>みっ</u>つ (Mittsu - Three items)",
+    "raw_studied": "三日 (Mikka), 三つ (Mittsu)"
+  },
+  {
+    "id": 24,
+    "kanji": "四",
+    "reading_raw": "よん (Yon)",
+    "hiragana": "よん",
+    "katakana": "ヨン",
+    "romaji": "Yon",
+    "meaning": "Four",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "四日",
+        "reading": "よっか",
+        "katakana": "ヨッカ",
+        "romaji": "Yokka",
+        "meaning": "4th day / 4 days"
+      },
+      {
+        "kanji_form": "四月",
+        "reading": "しがつ",
+        "katakana": "シガツ",
+        "romaji": "Shigatsu",
+        "meaning": "April"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "四日",
+      "reading": "よっか",
+      "katakana": "ヨッカ",
+      "romaji": "Yokka",
+      "meaning": "4th day / 4 days"
+    },
+    "raw_related": "<u>よっ</u>か (Yokka - 4th day / 4 days), <u>し</u>がつ (Shigatsu - April)",
+    "raw_studied": "四日 (Yokka), 四月 (Shigatsu)"
+  },
+  {
+    "id": 25,
+    "kanji": "六",
+    "reading_raw": "ろく (Roku)",
+    "hiragana": "ろく",
+    "katakana": "ロク",
+    "romaji": "Roku",
+    "meaning": "Six",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "六日",
+        "reading": "むいか",
+        "katakana": "ムイカ",
+        "romaji": "Muika",
+        "meaning": "6th day / 6 days"
+      },
+      {
+        "kanji_form": "六つ",
+        "reading": "むっつ",
+        "katakana": "ムッツ",
+        "romaji": "Muttsu",
+        "meaning": "Six items"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "六日",
+      "reading": "むいか",
+      "katakana": "ムイカ",
+      "romaji": "Muika",
+      "meaning": "6th day / 6 days"
+    },
+    "raw_related": "<u>むい</u>か (Muika - 6th day / 6 days), <u>むっ</u>つ (Muttsu - Six items)",
+    "raw_studied": "六日 (Muika), 六つ (Muttsu)"
+  },
+  {
+    "id": 26,
+    "kanji": "七",
+    "reading_raw": "なな (Nana)",
+    "hiragana": "なな",
+    "katakana": "ナナ",
+    "romaji": "Nana",
+    "meaning": "Seven",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "七日",
+        "reading": "なのか",
+        "katakana": "ナノカ",
+        "romaji": "Nanoka",
+        "meaning": "7th day / 7 days"
+      },
+      {
+        "kanji_form": "七つ",
+        "reading": "ななつ",
+        "katakana": "ナナツ",
+        "romaji": "Nanatsu",
+        "meaning": "Seven items"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "七日",
+      "reading": "なのか",
+      "katakana": "ナノカ",
+      "romaji": "Nanoka",
+      "meaning": "7th day / 7 days"
+    },
+    "raw_related": "<u>なの</u>か (Nanoka - 7th day / 7 days), <u>なな</u>つ (Nanatsu - Seven items)",
+    "raw_studied": "七日 (Nanoka), 七つ (Nanatsu)"
+  },
+  {
+    "id": 27,
+    "kanji": "八",
+    "reading_raw": "はち (Hachi)",
+    "hiragana": "はち",
+    "katakana": "ハチ",
+    "romaji": "Hachi",
+    "meaning": "Eight",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "八日",
+        "reading": "ようか",
+        "katakana": "ヨウカ",
+        "romaji": "Yooka",
+        "meaning": "8th day / 8 days"
+      },
+      {
+        "kanji_form": "八つ",
+        "reading": "やっつ",
+        "katakana": "ヤッツ",
+        "romaji": "Yattsu",
+        "meaning": "Eight items"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "八日",
+      "reading": "ようか",
+      "katakana": "ヨウカ",
+      "romaji": "Yooka",
+      "meaning": "8th day / 8 days"
+    },
+    "raw_related": "<u>よう</u>か (Yooka - 8th day / 8 days), <u>やっ</u>つ (Yattsu - Eight items)",
+    "raw_studied": "八日 (Yooka), 八つ (Yattsu)"
+  },
+  {
+    "id": 28,
+    "kanji": "十",
+    "reading_raw": "じゅう (Juu)",
+    "hiragana": "じゅう",
+    "katakana": "ジュウ",
+    "romaji": "Juu",
+    "meaning": "Ten",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "十日",
+        "reading": "とおか",
+        "katakana": "トオカ",
+        "romaji": "Tooka",
+        "meaning": "10th day / 10 days"
+      },
+      {
+        "kanji_form": "十",
+        "reading": "とお",
+        "katakana": "トオ",
+        "romaji": "Too",
+        "meaning": "Ten items"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "十日",
+      "reading": "とおか",
+      "katakana": "トオカ",
+      "romaji": "Tooka",
+      "meaning": "10th day / 10 days"
+    },
+    "raw_related": "<u>とお</u>か (Tooka - 10th day / 10 days), <u>とお</u> (Too - Ten items)",
+    "raw_studied": "十日 (Tooka), 十 (Too)"
+  },
+  {
+    "id": 29,
+    "kanji": "百",
+    "reading_raw": "ひゃく (Hyaku)",
+    "hiragana": "ひゃく",
+    "katakana": "ヒャク",
+    "romaji": "Hyaku",
+    "meaning": "Hundred",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "三百",
+        "reading": "さんびゃく",
+        "katakana": "サンビャク",
+        "romaji": "Sanbyaku",
+        "meaning": "300"
+      },
+      {
+        "kanji_form": "八百",
+        "reading": "はっぴゃく",
+        "katakana": "ハッピャク",
+        "romaji": "Happyaku",
+        "meaning": "800"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "三百",
+      "reading": "さんびゃく",
+      "katakana": "サンビャク",
+      "romaji": "Sanbyaku",
+      "meaning": "300"
+    },
+    "raw_related": "さん<u>びゃく</u> (Sanbyaku - 300), はっ<u>ぴゃく</u> (Happyaku - 800)",
+    "raw_studied": "三百 (Sanbyaku), 八百 (Happyaku)"
+  },
+  {
+    "id": 30,
+    "kanji": "千",
+    "reading_raw": "せん (Sen)",
+    "hiragana": "せん",
+    "katakana": "セン",
+    "romaji": "Sen",
+    "meaning": "Thousand",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "三千",
+        "reading": "さんぜん",
+        "katakana": "サンゼン",
+        "romaji": "Sanzen",
+        "meaning": "3000"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "三千",
+      "reading": "さんぜん",
+      "katakana": "サンゼン",
+      "romaji": "Sanzen",
+      "meaning": "3000"
+    },
+    "raw_related": "さん<u>ぜん</u> (Sanzen - 3000)",
+    "raw_studied": "三千 (Sanzen)"
+  },
+  {
+    "id": 31,
+    "kanji": "年",
+    "reading_raw": "ねん (Nen)",
+    "hiragana": "ねん",
+    "katakana": "ネン",
+    "romaji": "Nen",
+    "meaning": "Year",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "らい年",
+        "reading": "らいねん",
+        "katakana": "ライネン",
+        "romaji": "Rainen",
+        "meaning": "Next year"
+      },
+      {
+        "kanji_form": "こ年",
+        "reading": "ことし",
+        "katakana": "コトシ",
+        "romaji": "Kotoshi",
+        "meaning": "This year"
+      },
+      {
+        "kanji_form": "年上",
+        "reading": "としうえ",
+        "katakana": "トシウエ",
+        "romaji": "Toshiue",
+        "meaning": "Older / Senior"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "らい年",
+      "reading": "らいねん",
+      "katakana": "ライネン",
+      "romaji": "Rainen",
+      "meaning": "Next year"
+    },
+    "raw_related": "らい<u>ねん</u> (Rainen - Next year), こ<u>とし</u> (Kotoshi - This year), <u>とし</u>うえ (Toshiue - Older / Senior)",
+    "raw_studied": "らい年 (Rainen), こ年 (Kotoshi), 年上 (Toshiue)"
+  },
+  {
+    "id": 32,
+    "kanji": "上",
+    "reading_raw": "うえ (Ue)",
+    "hiragana": "うえ",
+    "katakana": "ウエ",
+    "romaji": "Ue",
+    "meaning": "Up / Above",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "上がる",
+        "reading": "あがる",
+        "katakana": "アガル",
+        "romaji": "Agaru",
+        "meaning": "To rise"
+      },
+      {
+        "kanji_form": "年上",
+        "reading": "としうえ",
+        "katakana": "トシウエ",
+        "romaji": "Toshiue",
+        "meaning": "Older / Senior"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "上がる",
+      "reading": "あがる",
+      "katakana": "アガル",
+      "romaji": "Agaru",
+      "meaning": "To rise"
+    },
+    "raw_related": "<u>あ</u>がる (Agaru - To rise), とし<u>うえ</u> (Toshiue - Older / Senior)",
+    "raw_studied": "上がる (Agaru), 年上 (Toshiue)"
+  },
+  {
+    "id": 33,
+    "kanji": "下",
+    "reading_raw": "した (Shita)",
+    "hiragana": "した",
+    "katakana": "シタ",
+    "romaji": "Shita",
+    "meaning": "Down / Below",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "下がる",
+        "reading": "さがる",
+        "katakana": "サガル",
+        "romaji": "Sagaru",
+        "meaning": "To decrease"
+      },
+      {
+        "kanji_form": "年下",
+        "reading": "としした",
+        "katakana": "トシシタ",
+        "romaji": "Toshishita",
+        "meaning": "Younger / Junior"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "下がる",
+      "reading": "さがる",
+      "katakana": "サガル",
+      "romaji": "Sagaru",
+      "meaning": "To decrease"
+    },
+    "raw_related": "<u>さ</u>がる (Sagaru - To decrease), とし<u>した</u> (Toshishita - Younger / Junior)",
+    "raw_studied": "下がる (Sagaru), 年下 (Toshishita)"
+  },
+  {
+    "id": 34,
+    "kanji": "中",
+    "reading_raw": "なか (Naka)",
+    "hiragana": "なか",
+    "katakana": "ナカ",
+    "romaji": "Naka",
+    "meaning": "Inside / Middle",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "中",
+        "reading": "なか",
+        "katakana": "ナカ",
+        "romaji": "Naka",
+        "meaning": "Inside"
+      },
+      {
+        "kanji_form": "一日中",
+        "reading": "いちにちじゅう",
+        "katakana": "イチニチジュウ",
+        "romaji": "Ichinichijuu",
+        "meaning": "All day long"
+      },
+      {
+        "kanji_form": "中しん",
+        "reading": "ちゅうしん",
+        "katakana": "チュウシン",
+        "romaji": "Chuushin",
+        "meaning": "Center"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "中",
+      "reading": "なか",
+      "katakana": "ナカ",
+      "romaji": "Naka",
+      "meaning": "Inside"
+    },
+    "raw_related": "<u>なか</u> (Naka - Inside), いちにち<u>じゅう</u> (Ichinichijuu - All day long), <u>ちゅう</u>しん (Chuushin - Center)",
+    "raw_studied": "中 (Naka), 一日中 (Ichinichijuu), 中しん (Chuushin)"
+  },
+  {
+    "id": 35,
+    "kanji": "大",
+    "reading_raw": "おおきい (Ookii)",
+    "hiragana": "おおきい",
+    "katakana": "オオキイ",
+    "romaji": "Ookii",
+    "meaning": "Big / Large",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "大きい",
+        "reading": "おおきい",
+        "katakana": "オオキイ",
+        "romaji": "Ookii",
+        "meaning": "Big"
+      },
+      {
+        "kanji_form": "大学",
+        "reading": "だいがく",
+        "katakana": "ダイガク",
+        "romaji": "Daigaku",
+        "meaning": "University"
+      },
+      {
+        "kanji_form": "大へん",
+        "reading": "たいへん",
+        "katakana": "タイヘン",
+        "romaji": "Taihen",
+        "meaning": "Tough / Serious"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "大きい",
+      "reading": "おおきい",
+      "katakana": "オオキイ",
+      "romaji": "Ookii",
+      "meaning": "Big"
+    },
+    "raw_related": "<u>おお</u>きい (Ookii - Big), <u>だい</u>がく (Daigaku - University), <u>たい</u>へん (Taihen - Tough / Serious)",
+    "raw_studied": "大きい (Ookii), 大学 (Daigaku), 大へん (Taihen)"
+  },
+  {
+    "id": 36,
+    "kanji": "小",
+    "reading_raw": "ちいさい (Chiisai)",
+    "hiragana": "ちいさい",
+    "katakana": "チイサイ",
+    "romaji": "Chiisai",
+    "meaning": "Small / Little",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "小さい",
+        "reading": "ちいさい",
+        "katakana": "チイサイ",
+        "romaji": "Chiisai",
+        "meaning": "Small"
+      },
+      {
+        "kanji_form": "小学こう",
+        "reading": "しょうがっこう",
+        "katakana": "ショウガッコウ",
+        "romaji": "Shougakkou",
+        "meaning": "Elementary school"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "小さい",
+      "reading": "ちいさい",
+      "katakana": "チイサイ",
+      "romaji": "Chiisai",
+      "meaning": "Small"
+    },
+    "raw_related": "<u>ちい</u>さい (Chiisai - Small), <u>しょう</u>がっこう (Shougakkou - Elementary school)",
+    "raw_studied": "小さい (Chiisai), 小学こう (Shougakkou)"
+  },
+  {
+    "id": 37,
+    "kanji": "本",
+    "reading_raw": "ほん (Hon)",
+    "hiragana": "ほん",
+    "katakana": "ホン",
+    "romaji": "Hon",
+    "meaning": "Book / Origin",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "本",
+        "reading": "ほん",
+        "katakana": "ホン",
+        "romaji": "Hon",
+        "meaning": "Book"
+      },
+      {
+        "kanji_form": "日本",
+        "reading": "にほん",
+        "katakana": "ニホン",
+        "romaji": "Nihon",
+        "meaning": "Japan"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "本",
+      "reading": "ほん",
+      "katakana": "ホン",
+      "romaji": "Hon",
+      "meaning": "Book"
+    },
+    "raw_related": "<u>ほん</u> (Hon - Book), に<u>ほん</u> (Nihon - Japan)",
+    "raw_studied": "本 (Hon), 日本 (Nihon)"
+  },
+  {
+    "id": 38,
+    "kanji": "半",
+    "reading_raw": "はん (Han)",
+    "hiragana": "はん",
+    "katakana": "ハン",
+    "romaji": "Han",
+    "meaning": "Half",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "半分",
+        "reading": "はんぶん",
+        "katakana": "ハンブン",
+        "romaji": "Hanbun",
+        "meaning": "Half"
+      },
+      {
+        "kanji_form": "三じ半",
+        "reading": "さんじはん",
+        "katakana": "サンジハン",
+        "romaji": "Sanjihan",
+        "meaning": "Half past three"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "半分",
+      "reading": "はんぶん",
+      "katakana": "ハンブン",
+      "romaji": "Hanbun",
+      "meaning": "Half"
+    },
+    "raw_related": "<u>はん</u>ぶん (Hanbun - Half), さんじ<u>はん</u> (Sanjihan - Half past three)",
+    "raw_studied": "半分 (Hanbun), 三じ半 (Sanjihan)"
+  },
+  {
+    "id": 39,
+    "kanji": "分",
+    "reading_raw": "ふん (Fun)",
+    "hiragana": "ふん",
+    "katakana": "フン",
+    "romaji": "Fun",
+    "meaning": "Minute / Divide",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "分ける",
+        "reading": "わける",
+        "katakana": "ワケル",
+        "romaji": "Wakeru",
+        "meaning": "To divide"
+      },
+      {
+        "kanji_form": "三分",
+        "reading": "さんぷん",
+        "katakana": "サンプン",
+        "romaji": "Sanpun",
+        "meaning": "3 minutes"
+      },
+      {
+        "kanji_form": "半分",
+        "reading": "はんぶん",
+        "katakana": "ハンブン",
+        "romaji": "Hanbun",
+        "meaning": "Half"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "分ける",
+      "reading": "わける",
+      "katakana": "ワケル",
+      "romaji": "Wakeru",
+      "meaning": "To divide"
+    },
+    "raw_related": "<u>わ</u>ける (Wakeru - To divide), さん<u>ぷん</u> (Sanpun - 3 minutes), はん<u>ぶん</u> (Hanbun - Half)",
+    "raw_studied": "分ける (Wakeru), 三分 (Sanpun), 半分 (Hanbun)"
+  },
+  {
+    "id": 40,
+    "kanji": "力",
+    "reading_raw": "ちから (Chikara)",
+    "hiragana": "ちから",
+    "katakana": "チカラ",
+    "romaji": "Chikara",
+    "meaning": "Power / Strength",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "力",
+        "reading": "ちから",
+        "katakana": "チカラ",
+        "romaji": "Chikara",
+        "meaning": "Power"
+      },
+      {
+        "kanji_form": "たい力",
+        "reading": "たいりょく",
+        "katakana": "タイリョク",
+        "romaji": "Tairyoku",
+        "meaning": "Physical strength"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "力",
+      "reading": "ちから",
+      "katakana": "チカラ",
+      "romaji": "Chikara",
+      "meaning": "Power"
+    },
+    "raw_related": "<u>ちから</u> (Chikara - Power), たい<u>りょく</u> (Tairyoku - Physical strength)",
+    "raw_studied": "力 (Chikara), たい力 (Tairyoku)"
+  },
+  {
+    "id": 41,
+    "kanji": "何",
+    "reading_raw": "なに (Nani)",
+    "hiragana": "なに",
+    "katakana": "ナニ",
+    "romaji": "Nani",
+    "meaning": "What",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "何",
+        "reading": "なに",
+        "katakana": "ナニ",
+        "romaji": "Nani",
+        "meaning": "What"
+      },
+      {
+        "kanji_form": "何人",
+        "reading": "なんにん",
+        "katakana": "ナンニン",
+        "romaji": "Nannin",
+        "meaning": "How many people"
+      },
+      {
+        "kanji_form": "何じ",
+        "reading": "なんじ",
+        "katakana": "ナンジ",
+        "romaji": "Nanji",
+        "meaning": "What time"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "何",
+      "reading": "なに",
+      "katakana": "ナニ",
+      "romaji": "Nani",
+      "meaning": "What"
+    },
+    "raw_related": "<u>なに</u> (Nani - What), <u>なん</u>にん (Nannin - How many people), <u>なん</u>じ (Nanji - What time)",
+    "raw_studied": "何 (Nani), 何人 (Nannin), 何じ (Nanji)"
+  },
+  {
+    "id": 42,
+    "kanji": "明",
+    "reading_raw": "あかるい (Akarui)",
+    "hiragana": "あかるい",
+    "katakana": "アカルイ",
+    "romaji": "Akarui",
+    "meaning": "Bright",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "明るい",
+        "reading": "あかるい",
+        "katakana": "アカルイ",
+        "romaji": "Akarui",
+        "meaning": "Bright"
+      },
+      {
+        "kanji_form": "せつ明",
+        "reading": "せつめい",
+        "katakana": "セツメイ",
+        "romaji": "Setsumei",
+        "meaning": "Explanation"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "明るい",
+      "reading": "あかるい",
+      "katakana": "アカルイ",
+      "romaji": "Akarui",
+      "meaning": "Bright"
+    },
+    "raw_related": "<u>あか</u>るい (Akarui - Bright), せつ<u>めい</u> (Setsumei - Explanation)",
+    "raw_studied": "明るい (Akarui), せつ明 (Setsumei)"
+  },
+  {
+    "id": 43,
+    "kanji": "休",
+    "reading_raw": "やすむ (Yasumu)",
+    "hiragana": "やすむ",
+    "katakana": "ヤスム",
+    "romaji": "Yasumu",
+    "meaning": "Rest",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "休む",
+        "reading": "やすむ",
+        "katakana": "ヤスム",
+        "romaji": "Yasumu",
+        "meaning": "To rest"
+      },
+      {
+        "kanji_form": "休日",
+        "reading": "きゅうじつ",
+        "katakana": "キュウジツ",
+        "romaji": "Kyuujitsu",
+        "meaning": "Holiday / Rest day"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "休む",
+      "reading": "やすむ",
+      "katakana": "ヤスム",
+      "romaji": "Yasumu",
+      "meaning": "To rest"
+    },
+    "raw_related": "<u>やす</u>む (Yasumu - To rest), <u>きゅう</u>じつ (Kyuujitsu - Holiday / Rest day)",
+    "raw_studied": "休む (Yasumu), 休日 (Kyuujitsu)"
+  },
+  {
+    "id": 44,
+    "kanji": "体",
+    "reading_raw": "からだ (Karada)",
+    "hiragana": "からだ",
+    "katakana": "カラダ",
+    "romaji": "Karada",
+    "meaning": "Body",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "体",
+        "reading": "からだ",
+        "katakana": "カラダ",
+        "romaji": "Karada",
+        "meaning": "Body"
+      },
+      {
+        "kanji_form": "体力",
+        "reading": "たいりょく",
+        "katakana": "タイリョク",
+        "romaji": "Tairyoku",
+        "meaning": "Physical strength"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "体",
+      "reading": "からだ",
+      "katakana": "カラダ",
+      "romaji": "Karada",
+      "meaning": "Body"
+    },
+    "raw_related": "<u>からだ</u> (Karada - Body), <u>たい</u>りょく (Tairyoku - Physical strength)",
+    "raw_studied": "体 (Karada), 体力 (Tairyoku)"
+  },
+  {
+    "id": 45,
+    "kanji": "好",
+    "reading_raw": "すき (Suki)",
+    "hiragana": "すき",
+    "katakana": "スキ",
+    "romaji": "Suki",
+    "meaning": "Like",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "好き",
+        "reading": "すき",
+        "katakana": "スキ",
+        "romaji": "Suki",
+        "meaning": "To like"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "好き",
+      "reading": "すき",
+      "katakana": "スキ",
+      "romaji": "Suki",
+      "meaning": "To like"
+    },
+    "raw_related": "<u>す</u>き (Suki - To like)",
+    "raw_studied": "好き (Suki)"
+  },
+  {
+    "id": 46,
+    "kanji": "男",
+    "reading_raw": "おとこ (Otoko)",
+    "hiragana": "おとこ",
+    "katakana": "オトコ",
+    "romaji": "Otoko",
+    "meaning": "Man",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "男",
+        "reading": "おとこ",
+        "katakana": "オトコ",
+        "romaji": "Otoko",
+        "meaning": "Man"
+      },
+      {
+        "kanji_form": "男の子",
+        "reading": "おとこのこ",
+        "katakana": "オトコノコ",
+        "romaji": "Otoko no ko",
+        "meaning": "Boy"
+      },
+      {
+        "kanji_form": "男せい",
+        "reading": "だんせい",
+        "katakana": "ダンセイ",
+        "romaji": "Dansei",
+        "meaning": "Male"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "男",
+      "reading": "おとこ",
+      "katakana": "オトコ",
+      "romaji": "Otoko",
+      "meaning": "Man"
+    },
+    "raw_related": "<u>おとこ</u> (Otoko - Man), <u>おとこ</u>のこ (Otoko no ko - Boy), <u>だん</u>せい (Dansei - Male)",
+    "raw_studied": "男 (Otoko), 男の子 (Otoko no ko), 男せい (Dansei)"
+  },
+  {
+    "id": 47,
+    "kanji": "林",
+    "reading_raw": "はやし (Hayashi)",
+    "hiragana": "はやし",
+    "katakana": "ハヤシ",
+    "romaji": "Hayashi",
+    "meaning": "Woods",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "林",
+        "reading": "はやし",
+        "katakana": "ハヤシ",
+        "romaji": "Hayashi",
+        "meaning": "Woods"
+      },
+      {
+        "kanji_form": "しん林",
+        "reading": "しんりん",
+        "katakana": "シンリン",
+        "romaji": "Shinrin",
+        "meaning": "Forest"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "林",
+      "reading": "はやし",
+      "katakana": "ハヤシ",
+      "romaji": "Hayashi",
+      "meaning": "Woods"
+    },
+    "raw_related": "<u>はやし</u> (Hayashi - Woods), しん<u>りん</u> (Shinrin - Forest)",
+    "raw_studied": "林 (Hayashi), しん林 (Shinrin)"
+  },
+  {
+    "id": 48,
+    "kanji": "森",
+    "reading_raw": "もり (Mori)",
+    "hiragana": "もり",
+    "katakana": "モリ",
+    "romaji": "Mori",
+    "meaning": "Forest",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "森",
+        "reading": "もり",
+        "katakana": "モリ",
+        "romaji": "Mori",
+        "meaning": "Forest"
+      },
+      {
+        "kanji_form": "しん林",
+        "reading": "しんりん",
+        "katakana": "シンリン",
+        "romaji": "Shinrin",
+        "meaning": "Dense Forest"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "森",
+      "reading": "もり",
+      "katakana": "モリ",
+      "romaji": "Mori",
+      "meaning": "Forest"
+    },
+    "raw_related": "<u>もり</u> (Mori - Forest), <u>しん</u>りん (Shinrin - Dense Forest)",
+    "raw_studied": "森 (Mori), しん林 (Shinrin)"
+  },
+  {
+    "id": 49,
+    "kanji": "間",
+    "reading_raw": "あいだ (Aida)",
+    "hiragana": "あいだ",
+    "katakana": "アイダ",
+    "romaji": "Aida",
+    "meaning": "Between / Interval",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "間",
+        "reading": "あいだ",
+        "katakana": "アイダ",
+        "romaji": "Aida",
+        "meaning": "Between"
+      },
+      {
+        "kanji_form": "じ間",
+        "reading": "じかん",
+        "katakana": "ジカン",
+        "romaji": "Jikan",
+        "meaning": "Time / Hours"
+      },
+      {
+        "kanji_form": "しゅう間",
+        "reading": "しゅうかん",
+        "katakana": "シュウカン",
+        "romaji": "Shuukan",
+        "meaning": "Week / Duration"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "間",
+      "reading": "あいだ",
+      "katakana": "アイダ",
+      "romaji": "Aida",
+      "meaning": "Between"
+    },
+    "raw_related": "<u>あいだ</u> (Aida - Between), じ<u>かん</u> (Jikan - Time / Hours), しゅう<u>かん</u> (Shuukan - Week / Duration)",
+    "raw_studied": "間 (Aida), じ間 (Jikan), しゅう間 (Shuukan)"
+  },
+  {
+    "id": 50,
+    "kanji": "畑",
+    "reading_raw": "はたけ (Hatake)",
+    "hiragana": "はたけ",
+    "katakana": "ハタケ",
+    "romaji": "Hatake",
+    "meaning": "Cultivated field",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "畑",
+        "reading": "はたけ",
+        "katakana": "ハタケ",
+        "romaji": "Hatake",
+        "meaning": "Cultivated field"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "畑",
+      "reading": "はたけ",
+      "katakana": "ハタケ",
+      "romaji": "Hatake",
+      "meaning": "Cultivated field"
+    },
+    "raw_related": "<u>はたけ</u> (Hatake - Cultivated field)",
+    "raw_studied": "畑 (Hatake)"
+  },
+  {
+    "id": 51,
+    "kanji": "岩",
+    "reading_raw": "いわ (Iwa)",
+    "hiragana": "いわ",
+    "katakana": "イワ",
+    "romaji": "Iwa",
+    "meaning": "Rock",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "岩",
+        "reading": "いわ",
+        "katakana": "イワ",
+        "romaji": "Iwa",
+        "meaning": "Rock"
+      },
+      {
+        "kanji_form": "岩せき",
+        "reading": "がんせき",
+        "katakana": "ガンセキ",
+        "romaji": "Ganseki",
+        "meaning": "Rock / Stone"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "岩",
+      "reading": "いわ",
+      "katakana": "イワ",
+      "romaji": "Iwa",
+      "meaning": "Rock"
+    },
+    "raw_related": "<u>いわ</u> (Iwa - Rock), <u>がん</u>せき (Ganseki - Rock / Stone)",
+    "raw_studied": "岩 (Iwa), 岩せき (Ganseki)"
+  },
+  {
+    "id": 52,
+    "kanji": "目",
+    "reading_raw": "め (Me)",
+    "hiragana": "め",
+    "katakana": "メ",
+    "romaji": "Me",
+    "meaning": "Eye",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "目",
+        "reading": "め",
+        "katakana": "メ",
+        "romaji": "Me",
+        "meaning": "Eye"
+      },
+      {
+        "kanji_form": "目てき",
+        "reading": "もくてき",
+        "katakana": "モクテキ",
+        "romaji": "Mokuteki",
+        "meaning": "Purpose / Goal"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "目",
+      "reading": "め",
+      "katakana": "メ",
+      "romaji": "Me",
+      "meaning": "Eye"
+    },
+    "raw_related": "<u>め</u> (Me - Eye), <u>もく</u>てき (Mokuteki - Purpose / Goal)",
+    "raw_studied": "目 (Me), 目てき (Mokuteki)"
+  },
+  {
+    "id": 53,
+    "kanji": "耳",
+    "reading_raw": "みみ (Mimi)",
+    "hiragana": "みみ",
+    "katakana": "ミミ",
+    "romaji": "Mimi",
+    "meaning": "Ear",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "耳",
+        "reading": "みみ",
+        "katakana": "ミミ",
+        "romaji": "Mimi",
+        "meaning": "Ear"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "耳",
+      "reading": "みみ",
+      "katakana": "ミミ",
+      "romaji": "Mimi",
+      "meaning": "Ear"
+    },
+    "raw_related": "<u>みみ</u> (Mimi - Ear)",
+    "raw_studied": "耳 (Mimi)"
+  },
+  {
+    "id": 54,
+    "kanji": "手",
+    "reading_raw": "て (Te)",
+    "hiragana": "て",
+    "katakana": "テ",
+    "romaji": "Te",
+    "meaning": "Hand",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "手",
+        "reading": "て",
+        "katakana": "テ",
+        "romaji": "Te",
+        "meaning": "Hand"
+      },
+      {
+        "kanji_form": "上手",
+        "reading": "じょうず",
+        "katakana": "ジョウズ",
+        "romaji": "Jouzu",
+        "meaning": "Skillful"
+      },
+      {
+        "kanji_form": "手がみ",
+        "reading": "てがみ",
+        "katakana": "テガミ",
+        "romaji": "Tegami",
+        "meaning": "Letter"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "手",
+      "reading": "て",
+      "katakana": "テ",
+      "romaji": "Te",
+      "meaning": "Hand"
+    },
+    "raw_related": "<u>て</u> (Te - Hand), じょう<u>ず</u> (Jouzu - Skillful), <u>て</u>がみ (Tegami - Letter)",
+    "raw_studied": "手 (Te), 上手 (Jouzu), 手がみ (Tegami)"
+  },
+  {
+    "id": 55,
+    "kanji": "足",
+    "reading_raw": "あし (Ashi)",
+    "hiragana": "あし",
+    "katakana": "アシ",
+    "romaji": "Ashi",
+    "meaning": "Foot / Leg",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "足",
+        "reading": "あし",
+        "katakana": "アシ",
+        "romaji": "Ashi",
+        "meaning": "Leg / Foot"
+      },
+      {
+        "kanji_form": "一足",
+        "reading": "いっそく",
+        "katakana": "イッソク",
+        "romaji": "Issoku",
+        "meaning": "One pair (of shoes)"
+      },
+      {
+        "kanji_form": "足りる",
+        "reading": "たりる",
+        "katakana": "タリル",
+        "romaji": "Tariru",
+        "meaning": "To be sufficient"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "足",
+      "reading": "あし",
+      "katakana": "アシ",
+      "romaji": "Ashi",
+      "meaning": "Leg / Foot"
+    },
+    "raw_related": "<u>あし</u> (Ashi - Leg / Foot), いっ<u>そく</u> (Issoku - One pair (of shoes)), <u>た</u>りる (Tariru - To be sufficient)",
+    "raw_studied": "足 (Ashi), 一足 (Issoku), 足りる (Tariru)"
+  },
+  {
+    "id": 56,
+    "kanji": "雨",
+    "reading_raw": "あめ (Ame)",
+    "hiragana": "あめ",
+    "katakana": "アメ",
+    "romaji": "Ame",
+    "meaning": "Rain",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "雨",
+        "reading": "あめ",
+        "katakana": "アメ",
+        "romaji": "Ame",
+        "meaning": "Rain"
+      },
+      {
+        "kanji_form": "大雨",
+        "reading": "おおあめ",
+        "katakana": "オオアメ",
+        "romaji": "Ooame",
+        "meaning": "Heavy rain"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "雨",
+      "reading": "あめ",
+      "katakana": "アメ",
+      "romaji": "Ame",
+      "meaning": "Rain"
+    },
+    "raw_related": "<u>あめ</u> (Ame - Rain), おお<u>あめ</u> (Ooame - Heavy rain)",
+    "raw_studied": "雨 (Ame), 大雨 (Ooame)"
+  },
+  {
+    "id": 57,
+    "kanji": "竹",
+    "reading_raw": "たけ (Take)",
+    "hiragana": "たけ",
+    "katakana": "タケ",
+    "romaji": "Take",
+    "meaning": "Bamboo",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "竹",
+        "reading": "たけ",
+        "katakana": "タケ",
+        "romaji": "Take",
+        "meaning": "Bamboo"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "竹",
+      "reading": "たけ",
+      "katakana": "タケ",
+      "romaji": "Take",
+      "meaning": "Bamboo"
+    },
+    "raw_related": "<u>たけ</u> (Take - Bamboo)",
+    "raw_studied": "竹 (Take)"
+  },
+  {
+    "id": 58,
+    "kanji": "米",
+    "reading_raw": "こめ (Kome)",
+    "hiragana": "こめ",
+    "katakana": "コメ",
+    "romaji": "Kome",
+    "meaning": "Rice",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "米",
+        "reading": "こめ",
+        "katakana": "コメ",
+        "romaji": "Kome",
+        "meaning": "Rice"
+      },
+      {
+        "kanji_form": "ほく米",
+        "reading": "ほくべい",
+        "katakana": "ホクベイ",
+        "romaji": "Hokubei",
+        "meaning": "North America"
+      },
+      {
+        "kanji_form": "米こく",
+        "reading": "べいこく",
+        "katakana": "ベイコク",
+        "romaji": "Beikoku",
+        "meaning": "USA"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "米",
+      "reading": "こめ",
+      "katakana": "コメ",
+      "romaji": "Kome",
+      "meaning": "Rice"
+    },
+    "raw_related": "<u>こめ</u> (Kome - Rice), ほく<u>べい</u> (Hokubei - North America), <u>べい</u>こく (Beikoku - USA)",
+    "raw_studied": "米 (Kome), ほく米 (Hokubei), 米こく (Beikoku)"
+  },
+  {
+    "id": 59,
+    "kanji": "貝",
+    "reading_raw": "かい (Kai)",
+    "hiragana": "かい",
+    "katakana": "カイ",
+    "romaji": "Kai",
+    "meaning": "Shell",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "貝",
+        "reading": "かい",
+        "katakana": "カイ",
+        "romaji": "Kai",
+        "meaning": "Shell"
+      },
+      {
+        "kanji_form": "貝がら",
+        "reading": "かいがら",
+        "katakana": "カイガラ",
+        "romaji": "Kaigara",
+        "meaning": "Shellfish shell"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "貝",
+      "reading": "かい",
+      "katakana": "カイ",
+      "romaji": "Kai",
+      "meaning": "Shell"
+    },
+    "raw_related": "<u>かい</u> (Kai - Shell), <u>かい</u>がら (Kaigara - Shellfish shell)",
+    "raw_studied": "貝 (Kai), 貝がら (Kaigara)"
+  },
+  {
+    "id": 60,
+    "kanji": "石",
+    "reading_raw": "いし (Ishi)",
+    "hiragana": "いし",
+    "katakana": "イシ",
+    "romaji": "Ishi",
+    "meaning": "Stone",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "石",
+        "reading": "いし",
+        "katakana": "イシ",
+        "romaji": "Ishi",
+        "meaning": "Stone"
+      },
+      {
+        "kanji_form": "石ゆ",
+        "reading": "せきゆ",
+        "katakana": "セキユ",
+        "romaji": "Sekiyu",
+        "meaning": "Petroleum / Oil"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "石",
+      "reading": "いし",
+      "katakana": "イシ",
+      "romaji": "Ishi",
+      "meaning": "Stone"
+    },
+    "raw_related": "<u>いし</u> (Ishi - Stone), <u>せき</u>ゆ (Sekiyu - Petroleum / Oil)",
+    "raw_studied": "石 (Ishi), 石ゆ (Sekiyu)"
+  },
+  {
+    "id": 61,
+    "kanji": "糸",
+    "reading_raw": "いと (Ito)",
+    "hiragana": "いと",
+    "katakana": "イト",
+    "romaji": "Ito",
+    "meaning": "Thread",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "糸",
+        "reading": "いと",
+        "katakana": "イト",
+        "romaji": "Ito",
+        "meaning": "Thread"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "糸",
+      "reading": "いと",
+      "katakana": "イト",
+      "romaji": "Ito",
+      "meaning": "Thread"
+    },
+    "raw_related": "<u>いと</u> (Ito - Thread)",
+    "raw_studied": "糸 (Ito)"
+  },
+  {
+    "id": 62,
+    "kanji": "花",
+    "reading_raw": "はな (Hana)",
+    "hiragana": "はな",
+    "katakana": "ハナ",
+    "romaji": "Hana",
+    "meaning": "Flower",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "花",
+        "reading": "はな",
+        "katakana": "ハナ",
+        "romaji": "Hana",
+        "meaning": "Flower"
+      },
+      {
+        "kanji_form": "花火",
+        "reading": "はなび",
+        "katakana": "ハナビ",
+        "romaji": "Hanabi",
+        "meaning": "Fireworks"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "花",
+      "reading": "はな",
+      "katakana": "ハナ",
+      "romaji": "Hana",
+      "meaning": "Flower"
+    },
+    "raw_related": "<u>はな</u> (Hana - Flower), <u>はな</u>び (Hanabi - Fireworks)",
+    "raw_studied": "花 (Hana), 花火 (Hanabi)"
+  },
+  {
+    "id": 63,
+    "kanji": "茶",
+    "reading_raw": "ちゃ (Cha)",
+    "hiragana": "ちゃ",
+    "katakana": "チャ",
+    "romaji": "Cha",
+    "meaning": "Tea",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "お茶",
+        "reading": "おちゃ",
+        "katakana": "オチャ",
+        "romaji": "Ocha",
+        "meaning": "Tea"
+      },
+      {
+        "kanji_form": "きっ茶てん",
+        "reading": "きっさてん",
+        "katakana": "キッサテン",
+        "romaji": "Kissaten",
+        "meaning": "Coffee shop / Cafe"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "お茶",
+      "reading": "おちゃ",
+      "katakana": "オチャ",
+      "romaji": "Ocha",
+      "meaning": "Tea"
+    },
+    "raw_related": "お<u>ちゃ</u> (Ocha - Tea), きっ<u>さ</u>てん (Kissaten - Coffee shop / Cafe)",
+    "raw_studied": "お茶 (Ocha), きっ茶てん (Kissaten)"
+  },
+  {
+    "id": 64,
+    "kanji": "肉",
+    "reading_raw": "にく (Niku)",
+    "hiragana": "にく",
+    "katakana": "ニク",
+    "romaji": "Niku",
+    "meaning": "Meat",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "肉",
+        "reading": "にく",
+        "katakana": "ニク",
+        "romaji": "Niku",
+        "meaning": "Meat"
+      },
+      {
+        "kanji_form": "ぎゅう肉",
+        "reading": "ぎゅうにく",
+        "katakana": "ギュウニク",
+        "romaji": "Gyuuniku",
+        "meaning": "Beef"
+      },
+      {
+        "kanji_form": "肉体",
+        "reading": "にくたい",
+        "katakana": "ニクタイ",
+        "romaji": "Nikutai",
+        "meaning": "Physical body"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "肉",
+      "reading": "にく",
+      "katakana": "ニク",
+      "romaji": "Niku",
+      "meaning": "Meat"
+    },
+    "raw_related": "<u>にく</u> (Niku - Meat), ぎゅう<u>にく</u> (Gyuuniku - Beef), <u>にく</u>たい (Nikutai - Physical body)",
+    "raw_studied": "肉 (Niku), ぎゅう肉 (Gyuuniku), 肉体 (Nikutai)"
+  },
+  {
+    "id": 65,
+    "kanji": "文",
+    "reading_raw": "ぶん (Bun)",
+    "hiragana": "ぶん",
+    "katakana": "ブン",
+    "romaji": "Bun",
+    "meaning": "Sentence / Literature",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "文",
+        "reading": "ぶん",
+        "katakana": "ブン",
+        "romaji": "Bun",
+        "meaning": "Sentence"
+      },
+      {
+        "kanji_form": "文学",
+        "reading": "ぶんがく",
+        "katakana": "ブンガク",
+        "romaji": "Bungaku",
+        "meaning": "Literature"
+      },
+      {
+        "kanji_form": "文ぶしょう",
+        "reading": "もんぶしょう",
+        "katakana": "モンブショウ",
+        "romaji": "Monbushou",
+        "meaning": "Ministry of Education"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "文",
+      "reading": "ぶん",
+      "katakana": "ブン",
+      "romaji": "Bun",
+      "meaning": "Sentence"
+    },
+    "raw_related": "<u>ぶん</u> (Bun - Sentence), <u>ぶん</u>がく (Bungaku - Literature), <u>もん</u>ぶしょう (Monbushou - Ministry of Education)",
+    "raw_studied": "文 (Bun), 文学 (Bungaku), 文ぶしょう (Monbushou)"
+  },
+  {
+    "id": 66,
+    "kanji": "字",
+    "reading_raw": "じ (Ji)",
+    "hiragana": "じ",
+    "katakana": "ジ",
+    "romaji": "Ji",
+    "meaning": "Character / Letter",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "かん字",
+        "reading": "かんじ",
+        "katakana": "カンジ",
+        "romaji": "Kanji",
+        "meaning": "Kanji character"
+      },
+      {
+        "kanji_form": "も字",
+        "reading": "もじ",
+        "katakana": "モジ",
+        "romaji": "Moji",
+        "meaning": "Letter / Character"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "かん字",
+      "reading": "かんじ",
+      "katakana": "カンジ",
+      "romaji": "Kanji",
+      "meaning": "Kanji character"
+    },
+    "raw_related": "かん<u>じ</u> (Kanji - Kanji character), も<u>じ</u> (Moji - Letter / Character)",
+    "raw_studied": "かん字 (Kanji), も字 (Moji)"
+  },
+  {
+    "id": 67,
+    "kanji": "物",
+    "reading_raw": "もの (Mono)",
+    "hiragana": "もの",
+    "katakana": "モノ",
+    "romaji": "Mono",
+    "meaning": "Thing",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "物",
+        "reading": "もの",
+        "katakana": "モノ",
+        "romaji": "Mono",
+        "meaning": "Thing"
+      },
+      {
+        "kanji_form": "生物",
+        "reading": "せいぶつ",
+        "katakana": "セイブツ",
+        "romaji": "Seibutsu",
+        "meaning": "Living organism"
+      },
+      {
+        "kanji_form": "に物",
+        "reading": "にもつ",
+        "katakana": "ニモツ",
+        "romaji": "Nimotsu",
+        "meaning": "Luggage"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "物",
+      "reading": "もの",
+      "katakana": "モノ",
+      "romaji": "Mono",
+      "meaning": "Thing"
+    },
+    "raw_related": "<u>もの</u> (Mono - Thing), せい<u>ぶつ</u> (Seibutsu - Living organism), に<u>もつ</u> (Nimotsu - Luggage)",
+    "raw_studied": "物 (Mono), 生物 (Seibutsu), に物 (Nimotsu)"
+  },
+  {
+    "id": 68,
+    "kanji": "牛",
+    "reading_raw": "うし (Ushi)",
+    "hiragana": "うし",
+    "katakana": "ウシ",
+    "romaji": "Ushi",
+    "meaning": "Cow",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "牛",
+        "reading": "うし",
+        "katakana": "ウシ",
+        "romaji": "Ushi",
+        "meaning": "Cow"
+      },
+      {
+        "kanji_form": "牛肉",
+        "reading": "ぎゅうにく",
+        "katakana": "ギュウニク",
+        "romaji": "Gyuuniku",
+        "meaning": "Beef"
+      },
+      {
+        "kanji_form": "牛にゅう",
+        "reading": "ぎゅうにゅう",
+        "katakana": "ギュウニュウ",
+        "romaji": "Gyuunyuu",
+        "meaning": "Milk"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "牛",
+      "reading": "うし",
+      "katakana": "ウシ",
+      "romaji": "Ushi",
+      "meaning": "Cow"
+    },
+    "raw_related": "<u>うし</u> (Ushi - Cow), <u>ぎゅう</u>にく (Gyuuniku - Beef), <u>ぎゅう</u>にゅう (Gyuunyuu - Milk)",
+    "raw_studied": "牛 (Ushi), 牛肉 (Gyuuniku), 牛にゅう (Gyuunyuu)"
+  },
+  {
+    "id": 69,
+    "kanji": "馬",
+    "reading_raw": "うま (Uma)",
+    "hiragana": "うま",
+    "katakana": "ウマ",
+    "romaji": "Uma",
+    "meaning": "Horse",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "馬",
+        "reading": "うま",
+        "katakana": "ウマ",
+        "romaji": "Uma",
+        "meaning": "Horse"
+      },
+      {
+        "kanji_form": "じょう馬",
+        "reading": "じょうば",
+        "katakana": "ジョウバ",
+        "romaji": "Jouba",
+        "meaning": "Horseback riding"
+      },
+      {
+        "kanji_form": "馬力",
+        "reading": "ばりき",
+        "katakana": "バリキ",
+        "romaji": "Bariki",
+        "meaning": "Horsepower"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "馬",
+      "reading": "うま",
+      "katakana": "ウマ",
+      "romaji": "Uma",
+      "meaning": "Horse"
+    },
+    "raw_related": "<u>うま</u> (Uma - Horse), じょう<u>ば</u> (Jouba - Horseback riding), <u>ば</u>りき (Bariki - Horsepower)",
+    "raw_studied": "馬 (Uma), じょう馬 (Jouba), 馬力 (Bariki)"
+  },
+  {
+    "id": 70,
+    "kanji": "鳥",
+    "reading_raw": "とり (Tori)",
+    "hiragana": "とり",
+    "katakana": "トリ",
+    "romaji": "Tori",
+    "meaning": "Bird",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "鳥",
+        "reading": "とり",
+        "katakana": "トリ",
+        "romaji": "Tori",
+        "meaning": "Bird"
+      },
+      {
+        "kanji_form": "はく鳥",
+        "reading": "はくちょう",
+        "katakana": "ハクチョウ",
+        "romaji": "Hakuchou",
+        "meaning": "Swan"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "鳥",
+      "reading": "とり",
+      "katakana": "トリ",
+      "romaji": "Tori",
+      "meaning": "Bird"
+    },
+    "raw_related": "<u>とり</u> (Tori - Bird), はく<u>ちょう</u> (Hakuchou - Swan)",
+    "raw_studied": "鳥 (Tori), はく鳥 (Hakuchou)"
+  },
+  {
+    "id": 71,
+    "kanji": "魚",
+    "reading_raw": "さかな (Sakana)",
+    "hiragana": "さかな",
+    "katakana": "サカナ",
+    "romaji": "Sakana",
+    "meaning": "Fish",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "魚",
+        "reading": "さかな",
+        "katakana": "サカナ",
+        "romaji": "Sakana",
+        "meaning": "Fish"
+      },
+      {
+        "kanji_form": "金魚",
+        "reading": "きんぎょ",
+        "katakana": "キンギョ",
+        "romaji": "Kingyo",
+        "meaning": "Goldfish"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "魚",
+      "reading": "さかな",
+      "katakana": "サカナ",
+      "romaji": "Sakana",
+      "meaning": "Fish"
+    },
+    "raw_related": "<u>さかな</u> (Sakana - Fish), きん<u>ぎょ</u> (Kingyo - Goldfish)",
+    "raw_studied": "魚 (Sakana), 金魚 (Kingyo)"
+  },
+  {
+    "id": 72,
+    "kanji": "新",
+    "reading_raw": "あたらしい (Atarashii)",
+    "hiragana": "あたらしい",
+    "katakana": "アタラシイ",
+    "romaji": "Atarashii",
+    "meaning": "New",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "新しい",
+        "reading": "あたらしい",
+        "katakana": "アタラシイ",
+        "romaji": "Atarashii",
+        "meaning": "New"
+      },
+      {
+        "kanji_form": "新ぶん",
+        "reading": "しんぶん",
+        "katakana": "シンブン",
+        "romaji": "Shinbun",
+        "meaning": "Newspaper"
+      },
+      {
+        "kanji_form": "新車",
+        "reading": "しんしゃ",
+        "katakana": "シンシャ",
+        "romaji": "Shinsha",
+        "meaning": "New car"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "新しい",
+      "reading": "あたらしい",
+      "katakana": "アタラシイ",
+      "romaji": "Atarashii",
+      "meaning": "New"
+    },
+    "raw_related": "<u>あたら</u>しい (Atarashii - New), <u>しん</u>ぶん (Shinbun - Newspaper), <u>しん</u>しゃ (Shinsha - New car)",
+    "raw_studied": "新しい (Atarashii), 新ぶん (Shinbun), 新車 (Shinsha)"
+  },
+  {
+    "id": 73,
+    "kanji": "古",
+    "reading_raw": "ふるい (Furui)",
+    "hiragana": "ふるい",
+    "katakana": "フルイ",
+    "romaji": "Furui",
+    "meaning": "Old",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "古い",
+        "reading": "ふるい",
+        "katakana": "フルイ",
+        "romaji": "Furui",
+        "meaning": "Old"
+      },
+      {
+        "kanji_form": "中古",
+        "reading": "ちゅうこ",
+        "katakana": "チュウコ",
+        "romaji": "Chuuko",
+        "meaning": "Used / Second-hand"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "古い",
+      "reading": "ふるい",
+      "katakana": "フルイ",
+      "romaji": "Furui",
+      "meaning": "Old"
+    },
+    "raw_related": "<u>ふる</u>い (Furui - Old), ちゅう<u>こ</u> (Chuuko - Used / Second-hand)",
+    "raw_studied": "古い (Furui), 中古 (Chuuko)"
+  },
+  {
+    "id": 74,
+    "kanji": "長",
+    "reading_raw": "ながい (Nagai)",
+    "hiragana": "ながい",
+    "katakana": "ナガイ",
+    "romaji": "Nagai",
+    "meaning": "Long",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "長い",
+        "reading": "ながい",
+        "katakana": "ナガイ",
+        "romaji": "Nagai",
+        "meaning": "Long"
+      },
+      {
+        "kanji_form": "しゃ長",
+        "reading": "しゃちょう",
+        "katakana": "シャチョウ",
+        "romaji": "Shachou",
+        "meaning": "Company president"
+      },
+      {
+        "kanji_form": "長しょ",
+        "reading": "ちょうしょ",
+        "katakana": "チョウショ",
+        "romaji": "Chousho",
+        "meaning": "Strong point"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "長い",
+      "reading": "ながい",
+      "katakana": "ナガイ",
+      "romaji": "Nagai",
+      "meaning": "Long"
+    },
+    "raw_related": "<u>なが</u>い (Nagai - Long), しゃ<u>ちょう</u> (Shachou - Company president), <u>ちょう</u>しょ (Chousho - Strong point)",
+    "raw_studied": "長い (Nagai), しゃ長 (Shachou), 長しょ (Chousho)"
+  },
+  {
+    "id": 75,
+    "kanji": "短",
+    "reading_raw": "みじかい (Mijikai)",
+    "hiragana": "みじかい",
+    "katakana": "ミジカイ",
+    "romaji": "Mijikai",
+    "meaning": "Short",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "短い",
+        "reading": "みじかい",
+        "katakana": "ミジカイ",
+        "romaji": "Mijikai",
+        "meaning": "Short"
+      },
+      {
+        "kanji_form": "短大",
+        "reading": "たんだい",
+        "katakana": "タンダイ",
+        "romaji": "Tandai",
+        "meaning": "Junior college"
+      },
+      {
+        "kanji_form": "短しょ",
+        "reading": "たんしょ",
+        "katakana": "タンショ",
+        "romaji": "Tansho",
+        "meaning": "Weak point"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "短い",
+      "reading": "みじかい",
+      "katakana": "ミジカイ",
+      "romaji": "Mijikai",
+      "meaning": "Short"
+    },
+    "raw_related": "<u>みじか</u>い (Mijikai - Short), <u>たん</u>だい (Tandai - Junior college), <u>たん</u>しょ (Tansho - Weak point)",
+    "raw_studied": "短い (Mijikai), 短大 (Tandai), 短しょ (Tansho)"
+  },
+  {
+    "id": 76,
+    "kanji": "高",
+    "reading_raw": "たかい (Takai)",
+    "hiragana": "たかい",
+    "katakana": "タカイ",
+    "romaji": "Takai",
+    "meaning": "High / Expensive",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "高い",
+        "reading": "たかい",
+        "katakana": "タカイ",
+        "romaji": "Takai",
+        "meaning": "High / Expensive"
+      },
+      {
+        "kanji_form": "高こう",
+        "reading": "こうこう",
+        "katakana": "コウコウ",
+        "romaji": "Koukou",
+        "meaning": "High school"
+      },
+      {
+        "kanji_form": "高そく",
+        "reading": "こうそく",
+        "katakana": "コウソク",
+        "romaji": "Kousoku",
+        "meaning": "High speed"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "高い",
+      "reading": "たかい",
+      "katakana": "タカイ",
+      "romaji": "Takai",
+      "meaning": "High / Expensive"
+    },
+    "raw_related": "<u>たか</u>い (Takai - High / Expensive), <u>こう</u>こう (Koukou - High school), <u>こう</u>そく (Kousoku - High speed)",
+    "raw_studied": "高い (Takai), 高こう (Koukou), 高そく (Kousoku)"
+  },
+  {
+    "id": 77,
+    "kanji": "安",
+    "reading_raw": "やすい (Yasui)",
+    "hiragana": "やすい",
+    "katakana": "ヤスイ",
+    "romaji": "Yasui",
+    "meaning": "Cheap / Peaceful",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "安い",
+        "reading": "やすい",
+        "katakana": "ヤスイ",
+        "romaji": "Yasui",
+        "meaning": "Cheap"
+      },
+      {
+        "kanji_form": "安しん",
+        "reading": "あんしん",
+        "katakana": "アンシン",
+        "romaji": "Anshin",
+        "meaning": "Relief"
+      },
+      {
+        "kanji_form": "安ぜん",
+        "reading": "あんぜん",
+        "katakana": "アンゼン",
+        "romaji": "Anzen",
+        "meaning": "Safety"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "安い",
+      "reading": "やすい",
+      "katakana": "ヤスイ",
+      "romaji": "Yasui",
+      "meaning": "Cheap"
+    },
+    "raw_related": "<u>やす</u>い (Yasui - Cheap), <u>あん</u>しん (Anshin - Relief), <u>あん</u>ぜん (Anzen - Safety)",
+    "raw_studied": "安い (Yasui), 安しん (Anshin), 安ぜん (Anzen)"
+  },
+  {
+    "id": 78,
+    "kanji": "低",
+    "reading_raw": "ひくい (Hikui)",
+    "hiragana": "ひくい",
+    "katakana": "ヒクイ",
+    "romaji": "Hikui",
+    "meaning": "Low",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "低い",
+        "reading": "ひくい",
+        "katakana": "ヒクイ",
+        "romaji": "Hikui",
+        "meaning": "Low"
+      },
+      {
+        "kanji_form": "低下",
+        "reading": "ていか",
+        "katakana": "テイカ",
+        "romaji": "Teika",
+        "meaning": "Decline"
+      },
+      {
+        "kanji_form": "低おん",
+        "reading": "ていおん",
+        "katakana": "テイオン",
+        "romaji": "Teion",
+        "meaning": "Low temperature"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "低い",
+      "reading": "ひくい",
+      "katakana": "ヒクイ",
+      "romaji": "Hikui",
+      "meaning": "Low"
+    },
+    "raw_related": "<u>ひく</u>い (Hikui - Low), <u>てい</u>か (Teika - Decline), <u>てい</u>おん (Teion - Low temperature)",
+    "raw_studied": "低い (Hikui), 低下 (Teika), 低おん (Teion)"
+  },
+  {
+    "id": 79,
+    "kanji": "暗",
+    "reading_raw": "くらい (Kurai)",
+    "hiragana": "くらい",
+    "katakana": "クライ",
+    "romaji": "Kurai",
+    "meaning": "Dark",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "暗い",
+        "reading": "くらい",
+        "katakana": "クライ",
+        "romaji": "Kurai",
+        "meaning": "Dark"
+      },
+      {
+        "kanji_form": "暗しつ",
+        "reading": "あんしつ",
+        "katakana": "アンシツ",
+        "romaji": "Anshitsu",
+        "meaning": "Darkroom"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "暗い",
+      "reading": "くらい",
+      "katakana": "クライ",
+      "romaji": "Kurai",
+      "meaning": "Dark"
+    },
+    "raw_related": "<u>くら</u>い (Kurai - Dark), <u>あん</u>しつ (Anshitsu - Darkroom)",
+    "raw_studied": "暗い (Kurai), 暗しつ (Anshitsu)"
+  },
+  {
+    "id": 80,
+    "kanji": "多",
+    "reading_raw": "おおい (Ooi)",
+    "hiragana": "おおい",
+    "katakana": "オオイ",
+    "romaji": "Ooi",
+    "meaning": "Many",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "多い",
+        "reading": "おおい",
+        "katakana": "オオイ",
+        "romaji": "Ooi",
+        "meaning": "Many"
+      },
+      {
+        "kanji_form": "多少",
+        "reading": "たしょう",
+        "katakana": "タショウ",
+        "romaji": "Tashou",
+        "meaning": "More or less / A little"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "多い",
+      "reading": "おおい",
+      "katakana": "オオイ",
+      "romaji": "Ooi",
+      "meaning": "Many"
+    },
+    "raw_related": "<u>おお</u>い (Ooi - Many), <u>た</u>しょう (Tashou - More or less / A little)",
+    "raw_studied": "多い (Ooi), 多少 (Tashou)"
+  },
+  {
+    "id": 81,
+    "kanji": "少",
+    "reading_raw": "すくない (Sukunai)",
+    "hiragana": "すくない",
+    "katakana": "スクナイ",
+    "romaji": "Sukunai",
+    "meaning": "Few / Little",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "少ない",
+        "reading": "すくない",
+        "katakana": "スクナイ",
+        "romaji": "Sukunai",
+        "meaning": "Few"
+      },
+      {
+        "kanji_form": "少し",
+        "reading": "すこし",
+        "katakana": "スコシ",
+        "romaji": "Sukoshi",
+        "meaning": "A little"
+      },
+      {
+        "kanji_form": "少年",
+        "reading": "しょうねん",
+        "katakana": "ショウネン",
+        "romaji": "Shounen",
+        "meaning": "Young boy"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "少ない",
+      "reading": "すくない",
+      "katakana": "スクナイ",
+      "romaji": "Sukunai",
+      "meaning": "Few"
+    },
+    "raw_related": "<u>すく</u>ない (Sukunai - Few), <u>すこ</u>し (Sukoshi - A little), <u>しょう</u>ねん (Shounen - Young boy)",
+    "raw_studied": "少ない (Sukunai), 少し (Sukoshi), 少年 (Shounen)"
+  },
+  {
+    "id": 82,
+    "kanji": "行",
+    "reading_raw": "いく (Iku)",
+    "hiragana": "いく",
+    "katakana": "イク",
+    "romaji": "Iku",
+    "meaning": "Go",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "行く",
+        "reading": "いく",
+        "katakana": "イク",
+        "romaji": "Iku",
+        "meaning": "To go"
+      },
+      {
+        "kanji_form": "りょ行",
+        "reading": "りょこう",
+        "katakana": "リョコウ",
+        "romaji": "Ryokou",
+        "meaning": "Travel"
+      },
+      {
+        "kanji_form": "行じ",
+        "reading": "ぎょうじ",
+        "katakana": "ギョウジ",
+        "romaji": "Gyouji",
+        "meaning": "Event"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "行く",
+      "reading": "いく",
+      "katakana": "イク",
+      "romaji": "Iku",
+      "meaning": "To go"
+    },
+    "raw_related": "<u>い</u>く (Iku - To go), りょ<u>こう</u> (Ryokou - Travel), <u>ぎょう</u>じ (Gyouji - Event)",
+    "raw_studied": "行く (Iku), りょ行 (Ryokou), 行じ (Gyouji)"
+  },
+  {
+    "id": 83,
+    "kanji": "来",
+    "reading_raw": "くる (Kuru)",
+    "hiragana": "くる",
+    "katakana": "クル",
+    "romaji": "Kuru",
+    "meaning": "Come",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "来る",
+        "reading": "くる",
+        "katakana": "クル",
+        "romaji": "Kuru",
+        "meaning": "To come"
+      },
+      {
+        "kanji_form": "来年",
+        "reading": "らいねん",
+        "katakana": "ライネン",
+        "romaji": "Rainen",
+        "meaning": "Next year"
+      },
+      {
+        "kanji_form": "来月",
+        "reading": "らいげつ",
+        "katakana": "ライゲツ",
+        "romaji": "Raigetsu",
+        "meaning": "Next month"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "来る",
+      "reading": "くる",
+      "katakana": "クル",
+      "romaji": "Kuru",
+      "meaning": "To come"
+    },
+    "raw_related": "<u>く</u>る (Kuru - To come), <u>らい</u>ねん (Rainen - Next year), <u>らい</u>げつ (Raigetsu - Next month)",
+    "raw_studied": "来る (Kuru), 来年 (Rainen), 来月 (Raigetsu)"
+  },
+  {
+    "id": 84,
+    "kanji": "帰",
+    "reading_raw": "かえる (Kaeru)",
+    "hiragana": "かえる",
+    "katakana": "カエル",
+    "romaji": "Kaeru",
+    "meaning": "Return / Go home",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "帰る",
+        "reading": "かえる",
+        "katakana": "カエル",
+        "romaji": "Kaeru",
+        "meaning": "To return home"
+      },
+      {
+        "kanji_form": "帰こく",
+        "reading": "きこく",
+        "katakana": "キコク",
+        "romaji": "Kikoku",
+        "meaning": "Return to one's country"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "帰る",
+      "reading": "かえる",
+      "katakana": "カエル",
+      "romaji": "Kaeru",
+      "meaning": "To return home"
+    },
+    "raw_related": "<u>かえ</u>る (Kaeru - To return home), <u>き</u>こく (Kikoku - Return to one's country)",
+    "raw_studied": "帰る (Kaeru), 帰こく (Kikoku)"
+  },
+  {
+    "id": 85,
+    "kanji": "食",
+    "reading_raw": "たべる (Taberu)",
+    "hiragana": "たべる",
+    "katakana": "タベル",
+    "romaji": "Taberu",
+    "meaning": "Eat / Food",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "食べる",
+        "reading": "たべる",
+        "katakana": "タベル",
+        "romaji": "Taberu",
+        "meaning": "To eat"
+      },
+      {
+        "kanji_form": "食じ",
+        "reading": "しょくじ",
+        "katakana": "ショクジ",
+        "romaji": "Shokuji",
+        "meaning": "Meal"
+      },
+      {
+        "kanji_form": "ちょう食",
+        "reading": "ちょうしょく",
+        "katakana": "チョウショク",
+        "romaji": "Choushoku",
+        "meaning": "Breakfast"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "食べる",
+      "reading": "たべる",
+      "katakana": "タベル",
+      "romaji": "Taberu",
+      "meaning": "To eat"
+    },
+    "raw_related": "<u>た</u>べる (Taberu - To eat), <u>しょく</u>じ (Shokuji - Meal), ちょう<u>しょく</u> (Choushoku - Breakfast)",
+    "raw_studied": "食べる (Taberu), 食じ (Shokuji), ちょう食 (Choushoku)"
+  },
+  {
+    "id": 86,
+    "kanji": "飲",
+    "reading_raw": "のむ (Nomu)",
+    "hiragana": "のむ",
+    "katakana": "ノム",
+    "romaji": "Nomu",
+    "meaning": "Drink",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "飲む",
+        "reading": "のむ",
+        "katakana": "ノム",
+        "romaji": "Nomu",
+        "meaning": "To drink"
+      },
+      {
+        "kanji_form": "飲りょう",
+        "reading": "いんりょう",
+        "katakana": "インリョウ",
+        "romaji": "Inryou",
+        "meaning": "Beverage / Drink"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "飲む",
+      "reading": "のむ",
+      "katakana": "ノム",
+      "romaji": "Nomu",
+      "meaning": "To drink"
+    },
+    "raw_related": "<u>の</u>む (Nomu - To drink), <u>いん</u>りょう (Inryou - Beverage / Drink)",
+    "raw_studied": "飲む (Nomu), 飲りょう (Inryou)"
+  },
+  {
+    "id": 87,
+    "kanji": "見",
+    "reading_raw": "みる (Miru)",
+    "hiragana": "みる",
+    "katakana": "ミル",
+    "romaji": "Miru",
+    "meaning": "See / Look",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "見る",
+        "reading": "みる",
+        "katakana": "ミル",
+        "romaji": "Miru",
+        "meaning": "To see"
+      },
+      {
+        "kanji_form": "見せる",
+        "reading": "みせる",
+        "katakana": "ミセル",
+        "romaji": "Miseru",
+        "meaning": "To show"
+      },
+      {
+        "kanji_form": "い見",
+        "reading": "いけん",
+        "katakana": "イケン",
+        "romaji": "Iken",
+        "meaning": "Opinion"
+      },
+      {
+        "kanji_form": "見学",
+        "reading": "けんがく",
+        "katakana": "ケンガク",
+        "romaji": "Kengaku",
+        "meaning": "Field trip"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "見る",
+      "reading": "みる",
+      "katakana": "ミル",
+      "romaji": "Miru",
+      "meaning": "To see"
+    },
+    "raw_related": "<u>み</u>る (Miru - To see), <u>み</u>せる (Miseru - To show), い<u>けん</u> (Iken - Opinion), <u>けん</u>がく (Kengaku - Field trip)",
+    "raw_studied": "見る (Miru), 見せる (Miseru), い見 (Iken), 見学 (Kengaku)"
+  },
+  {
+    "id": 88,
+    "kanji": "聞",
+    "reading_raw": "きく (Kiku)",
+    "hiragana": "きく",
+    "katakana": "キク",
+    "romaji": "Kiku",
+    "meaning": "Hear / Listen",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "聞く",
+        "reading": "きく",
+        "katakana": "キク",
+        "romaji": "Kiku",
+        "meaning": "To hear / listen"
+      },
+      {
+        "kanji_form": "新聞",
+        "reading": "しんぶん",
+        "katakana": "シンブン",
+        "romaji": "Shinbun",
+        "meaning": "Newspaper"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "聞く",
+      "reading": "きく",
+      "katakana": "キク",
+      "romaji": "Kiku",
+      "meaning": "To hear / listen"
+    },
+    "raw_related": "<u>き</u>く (Kiku - To hear / listen), しん<u>ぶん</u> (Shinbun - Newspaper)",
+    "raw_studied": "聞く (Kiku), 新聞 (Shinbun)"
+  },
+  {
+    "id": 89,
+    "kanji": "読",
+    "reading_raw": "よむ (Yomu)",
+    "hiragana": "よむ",
+    "katakana": "ヨム",
+    "romaji": "Yomu",
+    "meaning": "Read",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "読む",
+        "reading": "よむ",
+        "katakana": "ヨム",
+        "romaji": "Yomu",
+        "meaning": "To read"
+      },
+      {
+        "kanji_form": "読しょ",
+        "reading": "どくしょ",
+        "katakana": "ドクショ",
+        "romaji": "Dokusho",
+        "meaning": "Reading books"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "読む",
+      "reading": "よむ",
+      "katakana": "ヨム",
+      "romaji": "Yomu",
+      "meaning": "To read"
+    },
+    "raw_related": "<u>よ</u>む (Yomu - To read), <u>どく</u>しょ (Dokusho - Reading books)",
+    "raw_studied": "読む (Yomu), 読しょ (Dokusho)"
+  },
+  {
+    "id": 90,
+    "kanji": "書",
+    "reading_raw": "かく (Kaku)",
+    "hiragana": "かく",
+    "katakana": "カク",
+    "romaji": "Kaku",
+    "meaning": "Write",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "書く",
+        "reading": "かく",
+        "katakana": "カク",
+        "romaji": "Kaku",
+        "meaning": "To write"
+      },
+      {
+        "kanji_form": "読書",
+        "reading": "どくしょ",
+        "katakana": "ドクショ",
+        "romaji": "Dokusho",
+        "meaning": "Reading books"
+      },
+      {
+        "kanji_form": "書どう",
+        "reading": "しょどう",
+        "katakana": "ショドウ",
+        "romaji": "Shodou",
+        "meaning": "Calligraphy"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "書く",
+      "reading": "かく",
+      "katakana": "カク",
+      "romaji": "Kaku",
+      "meaning": "To write"
+    },
+    "raw_related": "<u>か</u>く (Kaku - To write), どく<u>しょ</u> (Dokusho - Reading books), <u>しょ</u>どう (Shodou - Calligraphy)",
+    "raw_studied": "書く (Kaku), 読書 (Dokusho), 書どう (Shodou)"
+  },
+  {
+    "id": 91,
+    "kanji": "話",
+    "reading_raw": "はなす (Hanasu)",
+    "hiragana": "はなす",
+    "katakana": "ハナス",
+    "romaji": "Hanasu",
+    "meaning": "Talk / Speak",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "話す",
+        "reading": "はなす",
+        "katakana": "ハナス",
+        "romaji": "Hanasu",
+        "meaning": "To talk"
+      },
+      {
+        "kanji_form": "話",
+        "reading": "はなし",
+        "katakana": "ハナシ",
+        "romaji": "Hanashi",
+        "meaning": "Story"
+      },
+      {
+        "kanji_form": "かい話",
+        "reading": "かいわ",
+        "katakana": "カイワ",
+        "romaji": "Kaiwa",
+        "meaning": "Conversation"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "話す",
+      "reading": "はなす",
+      "katakana": "ハナス",
+      "romaji": "Hanasu",
+      "meaning": "To talk"
+    },
+    "raw_related": "<u>はな</u>す (Hanasu - To talk), <u>はなし</u> (Hanashi - Story), かい<u>わ</u> (Kaiwa - Conversation)",
+    "raw_studied": "話す (Hanasu), 話 (Hanashi), かい話 (Kaiwa)"
+  },
+  {
+    "id": 92,
+    "kanji": "買",
+    "reading_raw": "かう (Kau)",
+    "hiragana": "かう",
+    "katakana": "カウ",
+    "romaji": "Kau",
+    "meaning": "Buy",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "買う",
+        "reading": "かう",
+        "katakana": "カウ",
+        "romaji": "Kau",
+        "meaning": "To buy"
+      },
+      {
+        "kanji_form": "買物",
+        "reading": "かいもの",
+        "katakana": "カイモノ",
+        "romaji": "Kaimono",
+        "meaning": "Shopping"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "買う",
+      "reading": "かう",
+      "katakana": "カウ",
+      "romaji": "Kau",
+      "meaning": "To buy"
+    },
+    "raw_related": "<u>か</u>う (Kau - To buy), <u>かい</u>もの (Kaimono - Shopping)",
+    "raw_studied": "買う (Kau), 買物 (Kaimono)"
+  },
+  {
+    "id": 93,
+    "kanji": "教",
+    "reading_raw": "おしえる (Oshieru)",
+    "hiragana": "おしえる",
+    "katakana": "オシエル",
+    "romaji": "Oshieru",
+    "meaning": "Teach",
+    "jlpt": "N5",
+    "examples": [
+      {
+        "kanji_form": "教える",
+        "reading": "おしえる",
+        "katakana": "オシエル",
+        "romaji": "Oshieru",
+        "meaning": "To teach"
+      },
+      {
+        "kanji_form": "教しつ",
+        "reading": "きょうしつ",
+        "katakana": "キョウシツ",
+        "romaji": "Kyoushitsu",
+        "meaning": "Classroom"
+      },
+      {
+        "kanji_form": "教し",
+        "reading": "きょうし",
+        "katakana": "キョウシ",
+        "romaji": "Kyoushi",
+        "meaning": "Teacher"
+      }
+    ],
+    "featured_word": {
+      "kanji_form": "教える",
+      "reading": "おしえる",
+      "katakana": "オシエル",
+      "romaji": "Oshieru",
+      "meaning": "To teach"
+    },
+    "raw_related": "<u>おし</u>える (Oshieru - To teach), <u>きょう</u>しつ (Kyoushitsu - Classroom), <u>きょう</u>し (Kyoushi - Teacher)",
+    "raw_studied": "教える (Oshieru), 教しつ (Kyoushitsu), 教し (Kyoushi)"
+  }
+]

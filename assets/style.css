@@ -1,0 +1,706 @@
+/* ==========================================================================
+   Nihongo Daily (日本語日録) - Authentic Japanese Editorial Aesthetic
+   Palette:
+     Background:       #F5F0E6 (Warm Washi Paper)
+     Primary Text:     #25251F (Deep Sumi Ink)
+     Vermilion Accent: #B64032 (Cinnabar / Hanko Red - 朱色)
+     Secondary Accent: #45566B (Indigo Iron - 藍鉄)
+     Muted Text:       #77736A (Stone Gray)
+     Borders:          #DDD5C7 (Delicate Paper Crease)
+   ========================================================================== */
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@300;400;600;700;900&family=Noto+Sans+JP:wght@300;400;500;700&family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Shippori+Mincho:wght@400;700&display=swap');
+
+:root {
+  --bg-washi: #F5F0E6;
+  --bg-card: #FAF6ED;
+  --bg-card-alt: #F1ECE0;
+  --text-primary: #25251F;
+  --text-muted: #77736A;
+  --accent-vermilion: #B64032;
+  --accent-vermilion-soft: #F9EBE9;
+  --accent-indigo: #45566B;
+  --border-delicate: #DDD5C7;
+  --border-strong: #C9BFA8;
+  --font-serif-jp: 'Noto Serif JP', 'Shippori Mincho', 'Yu Mincho', 'Hiragino Mincho ProN', serif;
+  --font-sans-jp: 'Noto Sans JP', 'Hiragino Sans', sans-serif;
+  --font-roman-serif: 'Cormorant Garamond', 'Georgia', serif;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: var(--bg-washi);
+  background-image: 
+    radial-gradient(#E8E0D2 0.75px, transparent 0.75px),
+    linear-gradient(to right, rgba(221, 213, 199, 0.15) 1px, transparent 1px);
+  background-size: 24px 24px, 48px 48px;
+  color: var(--text-primary);
+  font-family: var(--font-sans-jp);
+  line-height: 1.7;
+  -webkit-font-smoothing: antialiased;
+  min-height: 100vh;
+}
+
+/* Container */
+.page-container {
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: 32px 24px 80px 24px;
+}
+
+/* Editorial Masthead */
+.masthead {
+  border-bottom: 2px solid var(--text-primary);
+  padding-bottom: 24px;
+  margin-bottom: 40px;
+  position: relative;
+}
+
+.masthead-inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 20px;
+}
+
+.masthead-titles {
+  flex: 1;
+}
+
+.publication-badge {
+  display: inline-block;
+  font-family: var(--font-roman-serif);
+  font-size: 0.85rem;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  color: var(--accent-indigo);
+  font-weight: 600;
+  margin-bottom: 6px;
+}
+
+.main-title {
+  font-family: var(--font-serif-jp);
+  font-size: 2.8rem;
+  font-weight: 900;
+  letter-spacing: 0.08em;
+  color: var(--text-primary);
+  line-height: 1.2;
+}
+
+.subtitle {
+  font-family: var(--font-roman-serif);
+  font-size: 1.2rem;
+  color: var(--text-muted);
+  font-style: italic;
+  margin-top: 4px;
+}
+
+.masthead-meta {
+  text-align: right;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 6px;
+}
+
+.vertical-accent {
+  writing-mode: vertical-rl;
+  font-family: var(--font-serif-jp);
+  font-size: 0.9rem;
+  letter-spacing: 0.3em;
+  color: var(--text-muted);
+  border-left: 1px solid var(--border-delicate);
+  padding-left: 12px;
+  height: 90px;
+}
+
+.hanko-stamp {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 52px;
+  height: 52px;
+  border: 2px solid var(--accent-vermilion);
+  border-radius: 8px;
+  color: var(--accent-vermilion);
+  font-family: var(--font-serif-jp);
+  font-weight: 900;
+  font-size: 0.95rem;
+  line-height: 1.1;
+  letter-spacing: 0.05em;
+  user-select: none;
+  background-color: rgba(182, 64, 50, 0.04);
+}
+
+.meta-edition {
+  font-family: var(--font-roman-serif);
+  font-size: 0.9rem;
+  color: var(--text-muted);
+  margin-top: 8px;
+}
+
+/* Grid Layout */
+.editorial-grid {
+  display: grid;
+  grid-template-columns: 1.15fr 0.85fr;
+  gap: 36px;
+}
+
+@media (max-width: 900px) {
+  .editorial-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Cards & Sections */
+.editorial-section {
+  background: var(--bg-card);
+  border: 1px solid var(--border-delicate);
+  padding: 32px;
+  position: relative;
+  margin-bottom: 32px;
+}
+
+.editorial-section::before {
+  content: "";
+  position: absolute;
+  top: 4px;
+  left: 4px;
+  right: 4px;
+  bottom: 4px;
+  border: 1px dashed rgba(221, 213, 199, 0.6);
+  pointer-events: none;
+}
+
+.section-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  border-bottom: 1px solid var(--border-delicate);
+  padding-bottom: 12px;
+  margin-bottom: 24px;
+}
+
+.section-title-group {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+}
+
+.section-title-jp {
+  font-family: var(--font-serif-jp);
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  letter-spacing: 0.05em;
+}
+
+.section-title-en {
+  font-family: var(--font-roman-serif);
+  font-size: 1rem;
+  letter-spacing: 0.15em;
+  color: var(--accent-indigo);
+  text-transform: uppercase;
+}
+
+.section-tag {
+  font-size: 0.75rem;
+  padding: 2px 8px;
+  border: 1px solid var(--border-strong);
+  color: var(--text-muted);
+  letter-spacing: 0.08em;
+}
+
+/* Date Hero Section */
+.date-hero-grid {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 28px;
+  align-items: center;
+  margin-bottom: 24px;
+}
+
+.big-day-display {
+  font-family: var(--font-roman-serif);
+  font-size: 6rem;
+  font-weight: 700;
+  line-height: 0.9;
+  color: var(--text-primary);
+  border-right: 1px solid var(--border-delicate);
+  padding-right: 28px;
+}
+
+.date-details {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.date-era-kanji {
+  font-family: var(--font-serif-jp);
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--accent-vermilion);
+  letter-spacing: 0.05em;
+}
+
+.date-gregorian-text {
+  font-family: var(--font-roman-serif);
+  font-size: 1.35rem;
+  color: var(--text-primary);
+}
+
+.date-weekday-text {
+  font-size: 1.05rem;
+  color: var(--accent-indigo);
+  font-weight: 600;
+}
+
+.wafuu-badge {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  margin-top: 4px;
+}
+
+/* Daily Kanji Feature */
+.kanji-feature-card {
+  display: grid;
+  grid-template-columns: 200px 1fr;
+  gap: 28px;
+  align-items: center;
+  background: var(--bg-card-alt);
+  border: 1px solid var(--border-delicate);
+  padding: 24px;
+  margin-bottom: 24px;
+}
+
+@media (max-width: 600px) {
+  .kanji-feature-card {
+    grid-template-columns: 1fr;
+  }
+}
+
+.kanji-char-box {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  background: #FAF7F2;
+  border: 1px solid var(--border-delicate);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.kanji-char-box::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 0;
+  right: 0;
+  border-top: 1px dashed #E6DEC9;
+}
+
+.kanji-char-box::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 50%;
+  border-left: 1px dashed #E6DEC9;
+}
+
+.kanji-huge-text {
+  font-family: var(--font-serif-jp);
+  font-size: 6.5rem;
+  font-weight: 900;
+  color: var(--text-primary);
+  line-height: 1;
+  z-index: 1;
+}
+
+.jlpt-badge {
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  background: var(--accent-vermilion);
+  color: #fff;
+  font-family: var(--font-roman-serif);
+  font-weight: 700;
+  font-size: 0.75rem;
+  letter-spacing: 0.1em;
+  padding: 2px 8px;
+  border-radius: 3px;
+  z-index: 2;
+}
+
+.kanji-info-col {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.kanji-meaning {
+  font-family: var(--font-roman-serif);
+  font-size: 2.2rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  line-height: 1.1;
+}
+
+.readings-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  align-items: baseline;
+}
+
+.kana-pill {
+  font-family: var(--font-serif-jp);
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: var(--accent-vermilion);
+}
+
+.romaji-pill {
+  font-family: var(--font-roman-serif);
+  font-size: 1.1rem;
+  color: var(--accent-indigo);
+  font-style: italic;
+}
+
+.katakana-pill {
+  font-size: 0.95rem;
+  color: var(--text-muted);
+}
+
+/* Vocabulary Study List */
+.vocab-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 16px;
+}
+
+.vocab-item {
+  display: grid;
+  grid-template-columns: 140px 140px 1fr auto;
+  align-items: center;
+  gap: 12px;
+  padding: 10px 14px;
+  background: #FAF7F2;
+  border-left: 3px solid var(--accent-indigo);
+  font-size: 0.95rem;
+}
+
+@media (max-width: 650px) {
+  .vocab-item {
+    grid-template-columns: 1fr;
+    gap: 4px;
+  }
+}
+
+.vocab-kanji {
+  font-family: var(--font-serif-jp);
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: var(--text-primary);
+}
+
+.vocab-reading {
+  font-family: var(--font-sans-jp);
+  color: var(--accent-vermilion);
+}
+
+.vocab-meaning {
+  font-family: var(--font-roman-serif);
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
+.btn-audio {
+  background: transparent;
+  border: 1px solid var(--border-delicate);
+  border-radius: 4px;
+  padding: 4px 8px;
+  cursor: pointer;
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  transition: all 0.2s ease;
+}
+
+.btn-audio:hover {
+  background: var(--bg-card-alt);
+  color: var(--accent-vermilion);
+  border-color: var(--accent-vermilion);
+}
+
+/* Calendar Section */
+.calendar-card {
+  margin-bottom: 24px;
+}
+
+.calendar-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 16px;
+}
+
+.calendar-month-title {
+  font-family: var(--font-serif-jp);
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--text-primary);
+}
+
+.calendar-nav-btn {
+  background: transparent;
+  border: 1px solid var(--border-delicate);
+  padding: 4px 12px;
+  font-size: 0.9rem;
+  cursor: pointer;
+  font-family: var(--font-serif-jp);
+  color: var(--text-primary);
+}
+
+.calendar-nav-btn:hover {
+  background: var(--bg-card-alt);
+}
+
+.calendar-grid-table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+.calendar-grid-table th {
+  padding: 8px 4px;
+  font-family: var(--font-serif-jp);
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  border-bottom: 1px solid var(--border-delicate);
+}
+
+.calendar-grid-table th.cal-sunday { color: var(--accent-vermilion); }
+.calendar-grid-table th.cal-saturday { color: var(--accent-indigo); }
+
+.calendar-grid-table td {
+  padding: 10px 4px;
+  font-size: 0.95rem;
+  font-family: var(--font-roman-serif);
+  border: 1px solid rgba(221, 213, 199, 0.4);
+  position: relative;
+  cursor: default;
+}
+
+.calendar-grid-table td.empty {
+  background: transparent;
+  border-color: transparent;
+}
+
+.calendar-grid-table td.today {
+  background: var(--accent-vermilion-soft);
+  font-weight: 700;
+  color: var(--accent-vermilion);
+  border: 1.5px solid var(--accent-vermilion);
+}
+
+.calendar-grid-table td.has-record {
+  cursor: pointer;
+  background: #F7F3E9;
+}
+
+.calendar-grid-table td.has-record::after {
+  content: "";
+  position: absolute;
+  bottom: 3px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 4px;
+  height: 4px;
+  border-radius: 50%;
+  background: var(--accent-vermilion);
+}
+
+/* Daily Journal */
+.journal-box {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.journal-textarea {
+  width: 100%;
+  min-height: 120px;
+  background: #FAF7F2;
+  border: 1px solid var(--border-delicate);
+  padding: 14px;
+  font-family: var(--font-sans-jp);
+  font-size: 0.95rem;
+  color: var(--text-primary);
+  line-height: 1.6;
+  resize: vertical;
+  outline: none;
+  background-image: repeating-linear-gradient(transparent, transparent 27px, #EBE3D3 28px);
+}
+
+.journal-textarea:focus {
+  border-color: var(--accent-indigo);
+}
+
+.journal-toolbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.btn-editorial {
+  background: var(--accent-indigo);
+  color: #fff;
+  border: none;
+  padding: 8px 18px;
+  font-family: var(--font-serif-jp);
+  font-size: 0.9rem;
+  cursor: pointer;
+  letter-spacing: 0.05em;
+  transition: opacity 0.2s;
+}
+
+.btn-editorial:hover {
+  opacity: 0.9;
+}
+
+.btn-secondary {
+  background: transparent;
+  border: 1px solid var(--border-delicate);
+  color: var(--text-muted);
+  padding: 7px 14px;
+  font-size: 0.85rem;
+  cursor: pointer;
+}
+
+.btn-secondary:hover {
+  background: var(--bg-card-alt);
+}
+
+.journal-saved-hint {
+  font-size: 0.8rem;
+  color: #4A7C59;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.journal-saved-hint.visible {
+  opacity: 1;
+}
+
+/* Learning Statistics & History */
+.stats-banner {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+  margin-bottom: 24px;
+  text-align: center;
+}
+
+.stat-item {
+  background: #FAF7F2;
+  border: 1px solid var(--border-delicate);
+  padding: 16px 8px;
+}
+
+.stat-number {
+  font-family: var(--font-roman-serif);
+  font-size: 2.4rem;
+  font-weight: 700;
+  color: var(--accent-vermilion);
+  line-height: 1;
+}
+
+.stat-label {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  margin-top: 4px;
+}
+
+/* History Cards Carousel / Grid */
+.history-cards-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+  gap: 12px;
+}
+
+.history-card {
+  background: #FAF7F2;
+  border: 1px solid var(--border-delicate);
+  padding: 12px 8px;
+  text-align: center;
+  transition: transform 0.15s ease;
+}
+
+.history-card:hover {
+  transform: translateY(-2px);
+  border-color: var(--accent-vermilion);
+}
+
+.history-kanji {
+  font-family: var(--font-serif-jp);
+  font-size: 2.2rem;
+  font-weight: 900;
+  color: var(--text-primary);
+}
+
+.history-reading {
+  font-size: 0.8rem;
+  color: var(--accent-vermilion);
+}
+
+.history-date {
+  font-family: var(--font-roman-serif);
+  font-size: 0.75rem;
+  color: var(--text-muted);
+}
+
+/* SVG Display Containers */
+.svg-wrapper {
+  width: 100%;
+  border: 1px solid var(--border-delicate);
+  overflow: hidden;
+  margin-bottom: 16px;
+  background: #FAF7F2;
+}
+
+.svg-wrapper svg,
+.svg-wrapper img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+/* Footer */
+.editorial-footer {
+  margin-top: 60px;
+  border-top: 1px solid var(--border-delicate);
+  padding-top: 24px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
+.footer-kanji-quote {
+  font-family: var(--font-serif-jp);
+  font-size: 0.95rem;
+  color: var(--text-primary);
+}
