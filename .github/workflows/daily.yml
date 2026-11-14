@@ -2,8 +2,8 @@ name: Daily Nihongo Update
 
 on:
   schedule:
-    # 20:19 UTC corresponds to 01:19 AM in Asia/Karachi (UTC+5)
-    - cron: "19 20 * * *"
+    - cron: "27 20 * * *"
+      timezone: "Asia/Karachi"
   workflow_dispatch:
 
 permissions:
