@@ -32,10 +32,10 @@
 
 | Attribute | Details |
 | :--- | :--- |
-| **Gregorian Date** | November 14, 2026 (`2026-11-14`) |
-| **Japanese Date** | 2026年11月14日 |
-| **Reiwa Era** | 令和8年11月14日 (令和八年 十一月十四日) |
-| **Weekday** | 土曜日（どようび · Saturday） |
+| **Gregorian Date** | November 15, 2026 (`2026-11-15`) |
+| **Japanese Date** | 2026年11月15日 |
+| **Reiwa Era** | 令和8年11月15日 (令和八年 十一月十五日) |
+| **Weekday** | 日曜日（にちようび · Sunday） |
 | **Traditional Month** | 霜月（Shimotsuki — Month of Frost） |
 
 ---
@@ -46,28 +46,26 @@
   <img src="assets/daily-kanji.svg" alt="Today's Daily Kanji" width="680"/>
 </div>
 
-### 見 — See / Look
+### 上 — Up / Above
 
-- **JLPT Level:** `N5` (Cycle Day 39 of 93)
-- **Reading:** `みる (Miru)`
-- **Hiragana:** `みる`
-- **Katakana:** `ミル`
-- **Romaji:** *Miru*
+- **JLPT Level:** `N5` (Cycle Day 40 of 93)
+- **Reading:** `うえ (Ue)`
+- **Hiragana:** `うえ`
+- **Katakana:** `ウエ`
+- **Romaji:** *Ue*
 
 #### 📖 Related Vocabulary &amp; Studied Forms
-- **見る** (`みる` / *Miru*): To see
-- **見せる** (`みせる` / *Miseru*): To show
-- **い見** (`いけん` / *Iken*): Opinion
-- **見学** (`けんがく` / *Kengaku*): Field trip
+- **上がる** (`あがる` / *Agaru*): To rise
+- **年上** (`としうえ` / *Toshiue*): Older / Senior
 
 ---
 
 ## 📊 Learning Statistics
 
-- **Total Days Recorded:** `1`
-- **Unique Kanji Studied:** `1`
+- **Total Days Recorded:** `2`
+- **Unique Kanji Studied:** `2`
 - **Total Kanji Collection:** `93` (Foundation N5 Collection)
-- **Timezone Anchor:** `Asia/Karachi` (Last synchronized: `2026-11-14 08:17:21 PKT`)
+- **Timezone Anchor:** `Asia/Karachi` (Last synchronized: `2026-11-15 01:44:34 PKT`)
 
 ---
 
