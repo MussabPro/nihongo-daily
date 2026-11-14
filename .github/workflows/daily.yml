@@ -31,19 +31,12 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Configure Git identity from Secrets
-        env:
-          CONFIG_NAME: ${{ secrets.GIT_USER_NAME || secrets.GH_USERNAME || github.actor }}
-          CONFIG_EMAIL: ${{ secrets.GIT_USER_EMAIL || secrets.GH_EMAIL }}
+      - name: Configure Git identity
+
         run: |
-          USER_NAME="${CONFIG_NAME}"
-          USER_EMAIL="${CONFIG_EMAIL}"
-          if [ -z "$USER_EMAIL" ]; then
-            USER_EMAIL="${{ github.actor }}@users.noreply.github.com"
-          fi
-          git config --local user.name "$USER_NAME"
-          git config --local user.email "$USER_EMAIL"
-          echo "Configured Git author as: $USER_NAME <$USER_EMAIL>"
+          git config --local user.name "MussabPro"
+          git config --local user.email "musssabomair16@gmail.com"
+          echo "Configured Git author as: MussabPro <musssabomair16@gmail.com>"
 
       # Determine target date in Asia/Karachi for commit messages
       - name: Compute today's date in Asia/Karachi
