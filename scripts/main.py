@@ -200,6 +200,7 @@ def step_3_html(date_info: Dict[str, Any], kanji_info: Dict[str, Any]) -> bool:
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>日本語日録 · Nihongo Daily ({date_info['gregorian_en']})</title>
   <meta name="description" content="Automated Japanese daily calendar, daily Kanji learning, vocabulary study, and reflection journal.">
+  <meta name="last-sync" content="{date_info['updated_at']}">
   <link rel="stylesheet" href="assets/style.css">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🇯🇵</text></svg>">
 </head>

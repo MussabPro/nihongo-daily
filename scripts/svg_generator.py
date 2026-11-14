@@ -41,7 +41,8 @@ def generate_date_svg(date_info: Dict[str, Any], output_path: Path = ASSETS_DIR 
     time_str = escape(date_info.get("time_str", ""))
     time_display = f"{timezone_str} · {iso_date} · {time_str}" if time_str else f"{timezone_str} · {iso_date}"
 
-    svg_content = f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 380" width="100%" height="100%">
+    svg_content = f"""<!-- Synchronized: {escape(date_info['updated_at'])} -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 380" width="100%" height="100%">
   <defs>
     <style>
       @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@400;600;900&amp;family=Noto+Sans+JP:wght@400;500&amp;family=Cormorant+Garamond:ital,wght@0,500;0,700;1,400&amp;display=swap');
@@ -156,7 +157,8 @@ def generate_kanji_svg(kanji_info: Dict[str, Any], date_info: Dict[str, Any], ou
     ex2_read = escape(examples[1]["reading"]) if len(examples) > 1 else ""
     ex2_mean = escape(examples[1]["meaning"]) if len(examples) > 1 else ""
 
-    svg_content = f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 380" width="100%" height="100%">
+    svg_content = f"""<!-- Synchronized: {escape(date_info['updated_at'])} -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 380" width="100%" height="100%">
   <defs>
     <style>
       @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@400;600;900&amp;family=Noto+Sans+JP:wght@400;500&amp;family=Cormorant+Garamond:ital,wght@0,500;0,700;1,400&amp;display=swap');
