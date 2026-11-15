@@ -1,51 +1,44 @@
 {
-  "date": "2026-11-15",
-  "gregorian": "November 15, 2026",
-  "japanese_date": "2026年11月15日",
-  "weekday": "日曜日",
-  "weekday_reading": "にちようび",
-  "weekday_en": "Sunday",
-  "era_date": "令和8年11月15日",
-  "era_traditional": "令和八年 十一月十五日",
+  "date": "2026-11-16",
+  "gregorian": "November 16, 2026",
+  "japanese_date": "2026年11月16日",
+  "weekday": "月曜日",
+  "weekday_reading": "げつようび",
+  "weekday_en": "Monday",
+  "era_date": "令和8年11月16日",
+  "era_traditional": "令和八年 十一月十六日",
   "wafuu_month": {
     "kanji": "霜月",
     "romaji": "Shimotsuki",
     "meaning": "Month of Frost"
   },
   "selected_kanji": {
-    "id": 32,
-    "kanji": "上",
-    "reading_raw": "うえ (Ue)",
-    "hiragana": "うえ",
-    "katakana": "ウエ",
-    "romaji": "Ue",
-    "meaning": "Up / Above",
+    "id": 19,
+    "kanji": "先",
+    "reading_raw": "せん (Sen)",
+    "hiragana": "せん",
+    "katakana": "セン",
+    "romaji": "Sen",
+    "meaning": "Previous / Ahead",
     "jlpt": "N5",
     "examples": [
       {
-        "kanji_form": "上がる",
-        "reading": "あがる",
-        "katakana": "アガル",
-        "romaji": "Agaru",
-        "meaning": "To rise"
-      },
-      {
-        "kanji_form": "年上",
-        "reading": "としうえ",
-        "katakana": "トシウエ",
-        "romaji": "Toshiue",
-        "meaning": "Older / Senior"
+        "kanji_form": "先生",
+        "reading": "せんせい",
+        "katakana": "センセイ",
+        "romaji": "Sensei",
+        "meaning": "Teacher"
       }
     ],
     "featured_word": {
-      "kanji_form": "上がる",
-      "reading": "あがる",
-      "katakana": "アガル",
-      "romaji": "Agaru",
-      "meaning": "To rise"
+      "kanji_form": "先生",
+      "reading": "せんせい",
+      "katakana": "センセイ",
+      "romaji": "Sensei",
+      "meaning": "Teacher"
     },
-    "cycle_day": 40,
+    "cycle_day": 41,
     "cycle_total": 93
   },
-  "updated_at": "2026-11-15T01:44:33.020785+05:00"
+  "updated_at": "2026-11-16T01:29:03.284645+05:00"
 }
