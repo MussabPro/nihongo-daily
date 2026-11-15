@@ -32,10 +32,10 @@
 
 | Attribute | Details |
 | :--- | :--- |
-| **Gregorian Date** | November 15, 2026 (`2026-11-15`) |
-| **Japanese Date** | 2026年11月15日 |
-| **Reiwa Era** | 令和8年11月15日 (令和八年 十一月十五日) |
-| **Weekday** | 日曜日（にちようび · Sunday） |
+| **Gregorian Date** | November 16, 2026 (`2026-11-16`) |
+| **Japanese Date** | 2026年11月16日 |
+| **Reiwa Era** | 令和8年11月16日 (令和八年 十一月十六日) |
+| **Weekday** | 月曜日（げつようび · Monday） |
 | **Traditional Month** | 霜月（Shimotsuki — Month of Frost） |
 
 ---
@@ -46,26 +46,25 @@
   <img src="assets/daily-kanji.svg" alt="Today's Daily Kanji" width="680"/>
 </div>
 
-### 上 — Up / Above
+### 先 — Previous / Ahead
 
-- **JLPT Level:** `N5` (Cycle Day 40 of 93)
-- **Reading:** `うえ (Ue)`
-- **Hiragana:** `うえ`
-- **Katakana:** `ウエ`
-- **Romaji:** *Ue*
+- **JLPT Level:** `N5` (Cycle Day 41 of 93)
+- **Reading:** `せん (Sen)`
+- **Hiragana:** `せん`
+- **Katakana:** `セン`
+- **Romaji:** *Sen*
 
 #### 📖 Related Vocabulary &amp; Studied Forms
-- **上がる** (`あがる` / *Agaru*): To rise
-- **年上** (`としうえ` / *Toshiue*): Older / Senior
+- **先生** (`せんせい` / *Sensei*): Teacher
 
 ---
 
 ## 📊 Learning Statistics
 
-- **Total Days Recorded:** `2`
-- **Unique Kanji Studied:** `2`
+- **Total Days Recorded:** `3`
+- **Unique Kanji Studied:** `3`
 - **Total Kanji Collection:** `93` (Foundation N5 Collection)
-- **Timezone Anchor:** `Asia/Karachi` (Last synchronized: `2026-11-15 01:44:34 PKT`)
+- **Timezone Anchor:** `Asia/Karachi` (Last synchronized: `2026-11-16 01:29:04 PKT`)
 
 ---
 
