@@ -1,4 +1,4 @@
-<!-- Synchronized: 2026-11-16T01:29:04.028446+05:00 -->
+<!-- Synchronized: 2026-11-17T04:48:43.398751+05:00 -->
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 380" width="100%" height="100%">
   <defs>
     <style>
@@ -36,7 +36,7 @@
 
   <!-- Top Banner -->
   <text x="54" y="65" class="text-roman" font-size="13" letter-spacing="3" fill="#B64032" font-weight="700">DAILY KANJI · 本日の漢字</text>
-  <text x="696" y="65" class="text-muted" font-size="11" text-anchor="end" letter-spacing="1">2026-11-16</text>
+  <text x="696" y="65" class="text-muted" font-size="11" text-anchor="end" letter-spacing="1">2026-11-17</text>
   <line x1="54" y1="78" x2="696" y2="78" stroke="#DDD5C7" stroke-width="1"/>
 
   <!-- Left Column: Prominent Kanji Character Presentation -->
@@ -48,7 +48,7 @@
     <line x1="0" y1="110" x2="190" y2="110" stroke="#E6DEC9" stroke-width="0.75" stroke-dasharray="3 3"/>
 
     <!-- Large Kanji -->
-    <text x="95" y="160" class="kanji-huge" font-size="120" text-anchor="middle">先</text>
+    <text x="95" y="160" class="kanji-huge" font-size="120" text-anchor="middle">字</text>
 
     <!-- JLPT Level Seal Badge -->
     <rect x="15" y="18" width="68" height="22" rx="4" fill="#B64032"/>
@@ -58,15 +58,15 @@
   <!-- Right Column: Kanji Readings, Meaning, and Vocabulary -->
   <g transform="translate(290, 110)">
     <!-- Primary Meaning (English) -->
-    <text x="0" y="24" class="text-roman" font-size="34" font-weight="700" fill="#25251F">Previous / Ahead</text>
+    <text x="0" y="24" class="text-roman" font-size="34" font-weight="700" fill="#25251F">Character / Letter</text>
 
     <!-- Readings -->
     <g transform="translate(0, 48)">
       <text x="0" y="16" class="text-muted" font-size="11" letter-spacing="1">READINGS · 読み方</text>
       <!-- Hiragana & Romaji -->
-      <text x="0" y="44" class="text-primary" font-size="24" font-weight="700" fill="#B64032">せん</text>
-      <text x="130" y="44" class="text-roman" font-size="18" fill="#45566B" font-style="italic">(Sen)</text>
-      <text x="250" y="44" class="text-primary" font-size="18" fill="#77736A">カタカナ: セン</text>
+      <text x="0" y="44" class="text-primary" font-size="24" font-weight="700" fill="#B64032">じ</text>
+      <text x="130" y="44" class="text-roman" font-size="18" fill="#45566B" font-style="italic">(Ji)</text>
+      <text x="250" y="44" class="text-primary" font-size="18" fill="#77736A">カタカナ: ジ</text>
     </g>
 
     <!-- Divider -->
@@ -78,9 +78,16 @@
 
       <!-- Word 1 -->
       <g transform="translate(0, 24)">
-        <text x="0" y="20" class="text-primary" font-size="18" font-weight="600">先生</text>
-        <text x="110" y="20" class="text-muted" font-size="13">[せんせい]</text>
-        <text x="210" y="20" class="text-roman" font-size="14" fill="#25251F" font-weight="600">Teacher</text>
+        <text x="0" y="20" class="text-primary" font-size="18" font-weight="600">かん字</text>
+        <text x="110" y="20" class="text-muted" font-size="13">[かんじ]</text>
+        <text x="210" y="20" class="text-roman" font-size="14" fill="#25251F" font-weight="600">Kanji character</text>
+      </g>
+
+      <!-- Word 2 -->
+      <g transform="translate(0, 52)">
+        <text x="0" y="20" class="text-primary" font-size="18" font-weight="600">も字</text>
+        <text x="110" y="20" class="text-muted" font-size="13">[もじ]</text>
+        <text x="210" y="20" class="text-roman" font-size="14" fill="#25251F" font-weight="600">Letter / Character</text>
       </g>
     </g>
 

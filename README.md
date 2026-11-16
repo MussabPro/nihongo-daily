@@ -32,10 +32,10 @@
 
 | Attribute | Details |
 | :--- | :--- |
-| **Gregorian Date** | November 16, 2026 (`2026-11-16`) |
-| **Japanese Date** | 2026年11月16日 |
-| **Reiwa Era** | 令和8年11月16日 (令和八年 十一月十六日) |
-| **Weekday** | 月曜日（げつようび · Monday） |
+| **Gregorian Date** | November 17, 2026 (`2026-11-17`) |
+| **Japanese Date** | 2026年11月17日 |
+| **Reiwa Era** | 令和8年11月17日 (令和八年 十一月十七日) |
+| **Weekday** | 火曜日（かようび · Tuesday） |
 | **Traditional Month** | 霜月（Shimotsuki — Month of Frost） |
 
 ---
@@ -46,25 +46,26 @@
   <img src="assets/daily-kanji.svg" alt="Today's Daily Kanji" width="680"/>
 </div>
 
-### 先 — Previous / Ahead
+### 字 — Character / Letter
 
-- **JLPT Level:** `N5` (Cycle Day 41 of 93)
-- **Reading:** `せん (Sen)`
-- **Hiragana:** `せん`
-- **Katakana:** `セン`
-- **Romaji:** *Sen*
+- **JLPT Level:** `N5` (Cycle Day 42 of 93)
+- **Reading:** `じ (Ji)`
+- **Hiragana:** `じ`
+- **Katakana:** `ジ`
+- **Romaji:** *Ji*
 
 #### 📖 Related Vocabulary &amp; Studied Forms
-- **先生** (`せんせい` / *Sensei*): Teacher
+- **かん字** (`かんじ` / *Kanji*): Kanji character
+- **も字** (`もじ` / *Moji*): Letter / Character
 
 ---
 
 ## 📊 Learning Statistics
 
-- **Total Days Recorded:** `3`
-- **Unique Kanji Studied:** `3`
+- **Total Days Recorded:** `4`
+- **Unique Kanji Studied:** `4`
 - **Total Kanji Collection:** `93` (Foundation N5 Collection)
-- **Timezone Anchor:** `Asia/Karachi` (Last synchronized: `2026-11-16 01:29:04 PKT`)
+- **Timezone Anchor:** `Asia/Karachi` (Last synchronized: `2026-11-17 04:48:43 PKT`)
 
 ---
 
