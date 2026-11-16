@@ -1,44 +1,51 @@
 {
-  "date": "2026-11-16",
-  "gregorian": "November 16, 2026",
-  "japanese_date": "2026年11月16日",
-  "weekday": "月曜日",
-  "weekday_reading": "げつようび",
-  "weekday_en": "Monday",
-  "era_date": "令和8年11月16日",
-  "era_traditional": "令和八年 十一月十六日",
+  "date": "2026-11-17",
+  "gregorian": "November 17, 2026",
+  "japanese_date": "2026年11月17日",
+  "weekday": "火曜日",
+  "weekday_reading": "かようび",
+  "weekday_en": "Tuesday",
+  "era_date": "令和8年11月17日",
+  "era_traditional": "令和八年 十一月十七日",
   "wafuu_month": {
     "kanji": "霜月",
     "romaji": "Shimotsuki",
     "meaning": "Month of Frost"
   },
   "selected_kanji": {
-    "id": 19,
-    "kanji": "先",
-    "reading_raw": "せん (Sen)",
-    "hiragana": "せん",
-    "katakana": "セン",
-    "romaji": "Sen",
-    "meaning": "Previous / Ahead",
+    "id": 66,
+    "kanji": "字",
+    "reading_raw": "じ (Ji)",
+    "hiragana": "じ",
+    "katakana": "ジ",
+    "romaji": "Ji",
+    "meaning": "Character / Letter",
     "jlpt": "N5",
     "examples": [
       {
-        "kanji_form": "先生",
-        "reading": "せんせい",
-        "katakana": "センセイ",
-        "romaji": "Sensei",
-        "meaning": "Teacher"
+        "kanji_form": "かん字",
+        "reading": "かんじ",
+        "katakana": "カンジ",
+        "romaji": "Kanji",
+        "meaning": "Kanji character"
+      },
+      {
+        "kanji_form": "も字",
+        "reading": "もじ",
+        "katakana": "モジ",
+        "romaji": "Moji",
+        "meaning": "Letter / Character"
       }
     ],
     "featured_word": {
-      "kanji_form": "先生",
-      "reading": "せんせい",
-      "katakana": "センセイ",
-      "romaji": "Sensei",
-      "meaning": "Teacher"
+      "kanji_form": "かん字",
+      "reading": "かんじ",
+      "katakana": "カンジ",
+      "romaji": "Kanji",
+      "meaning": "Kanji character"
     },
-    "cycle_day": 41,
+    "cycle_day": 42,
     "cycle_total": 93
   },
-  "updated_at": "2026-11-16T01:29:03.284645+05:00"
+  "updated_at": "2026-11-17T04:48:42.636045+05:00"
 }
