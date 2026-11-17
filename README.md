@@ -32,10 +32,10 @@
 
 | Attribute | Details |
 | :--- | :--- |
-| **Gregorian Date** | November 17, 2026 (`2026-11-17`) |
-| **Japanese Date** | 2026年11月17日 |
-| **Reiwa Era** | 令和8年11月17日 (令和八年 十一月十七日) |
-| **Weekday** | 火曜日（かようび · Tuesday） |
+| **Gregorian Date** | November 18, 2026 (`2026-11-18`) |
+| **Japanese Date** | 2026年11月18日 |
+| **Reiwa Era** | 令和8年11月18日 (令和八年 十一月十八日) |
+| **Weekday** | 水曜日（すいようび · Wednesday） |
 | **Traditional Month** | 霜月（Shimotsuki — Month of Frost） |
 
 ---
@@ -46,26 +46,25 @@
   <img src="assets/daily-kanji.svg" alt="Today's Daily Kanji" width="680"/>
 </div>
 
-### 字 — Character / Letter
+### 竹 — Bamboo
 
-- **JLPT Level:** `N5` (Cycle Day 42 of 93)
-- **Reading:** `じ (Ji)`
-- **Hiragana:** `じ`
-- **Katakana:** `ジ`
-- **Romaji:** *Ji*
+- **JLPT Level:** `N5` (Cycle Day 43 of 93)
+- **Reading:** `たけ (Take)`
+- **Hiragana:** `たけ`
+- **Katakana:** `タケ`
+- **Romaji:** *Take*
 
 #### 📖 Related Vocabulary &amp; Studied Forms
-- **かん字** (`かんじ` / *Kanji*): Kanji character
-- **も字** (`もじ` / *Moji*): Letter / Character
+- **竹** (`たけ` / *Take*): Bamboo
 
 ---
 
 ## 📊 Learning Statistics
 
-- **Total Days Recorded:** `4`
-- **Unique Kanji Studied:** `4`
+- **Total Days Recorded:** `5`
+- **Unique Kanji Studied:** `5`
 - **Total Kanji Collection:** `93` (Foundation N5 Collection)
-- **Timezone Anchor:** `Asia/Karachi` (Last synchronized: `2026-11-17 04:48:43 PKT`)
+- **Timezone Anchor:** `Asia/Karachi` (Last synchronized: `2026-11-18 04:03:54 PKT`)
 
 ---
 
