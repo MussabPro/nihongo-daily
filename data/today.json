@@ -1,51 +1,44 @@
 {
-  "date": "2026-11-17",
-  "gregorian": "November 17, 2026",
-  "japanese_date": "2026年11月17日",
-  "weekday": "火曜日",
-  "weekday_reading": "かようび",
-  "weekday_en": "Tuesday",
-  "era_date": "令和8年11月17日",
-  "era_traditional": "令和八年 十一月十七日",
+  "date": "2026-11-18",
+  "gregorian": "November 18, 2026",
+  "japanese_date": "2026年11月18日",
+  "weekday": "水曜日",
+  "weekday_reading": "すいようび",
+  "weekday_en": "Wednesday",
+  "era_date": "令和8年11月18日",
+  "era_traditional": "令和八年 十一月十八日",
   "wafuu_month": {
     "kanji": "霜月",
     "romaji": "Shimotsuki",
     "meaning": "Month of Frost"
   },
   "selected_kanji": {
-    "id": 66,
-    "kanji": "字",
-    "reading_raw": "じ (Ji)",
-    "hiragana": "じ",
-    "katakana": "ジ",
-    "romaji": "Ji",
-    "meaning": "Character / Letter",
+    "id": 57,
+    "kanji": "竹",
+    "reading_raw": "たけ (Take)",
+    "hiragana": "たけ",
+    "katakana": "タケ",
+    "romaji": "Take",
+    "meaning": "Bamboo",
     "jlpt": "N5",
     "examples": [
       {
-        "kanji_form": "かん字",
-        "reading": "かんじ",
-        "katakana": "カンジ",
-        "romaji": "Kanji",
-        "meaning": "Kanji character"
-      },
-      {
-        "kanji_form": "も字",
-        "reading": "もじ",
-        "katakana": "モジ",
-        "romaji": "Moji",
-        "meaning": "Letter / Character"
+        "kanji_form": "竹",
+        "reading": "たけ",
+        "katakana": "タケ",
+        "romaji": "Take",
+        "meaning": "Bamboo"
       }
     ],
     "featured_word": {
-      "kanji_form": "かん字",
-      "reading": "かんじ",
-      "katakana": "カンジ",
-      "romaji": "Kanji",
-      "meaning": "Kanji character"
+      "kanji_form": "竹",
+      "reading": "たけ",
+      "katakana": "タケ",
+      "romaji": "Take",
+      "meaning": "Bamboo"
     },
-    "cycle_day": 42,
+    "cycle_day": 43,
     "cycle_total": 93
   },
-  "updated_at": "2026-11-17T04:48:42.636045+05:00"
+  "updated_at": "2026-11-18T04:03:53.229233+05:00"
 }
