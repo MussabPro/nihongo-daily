@@ -1,44 +1,58 @@
 {
-  "date": "2026-11-18",
-  "gregorian": "November 18, 2026",
-  "japanese_date": "2026年11月18日",
-  "weekday": "水曜日",
-  "weekday_reading": "すいようび",
-  "weekday_en": "Wednesday",
-  "era_date": "令和8年11月18日",
-  "era_traditional": "令和八年 十一月十八日",
+  "date": "2026-11-19",
+  "gregorian": "November 19, 2026",
+  "japanese_date": "2026年11月19日",
+  "weekday": "木曜日",
+  "weekday_reading": "もくようび",
+  "weekday_en": "Thursday",
+  "era_date": "令和8年11月19日",
+  "era_traditional": "令和八年 十一月十九日",
   "wafuu_month": {
     "kanji": "霜月",
     "romaji": "Shimotsuki",
     "meaning": "Month of Frost"
   },
   "selected_kanji": {
-    "id": 57,
-    "kanji": "竹",
-    "reading_raw": "たけ (Take)",
-    "hiragana": "たけ",
-    "katakana": "タケ",
-    "romaji": "Take",
-    "meaning": "Bamboo",
+    "id": 39,
+    "kanji": "分",
+    "reading_raw": "ふん (Fun)",
+    "hiragana": "ふん",
+    "katakana": "フン",
+    "romaji": "Fun",
+    "meaning": "Minute / Divide",
     "jlpt": "N5",
     "examples": [
       {
-        "kanji_form": "竹",
-        "reading": "たけ",
-        "katakana": "タケ",
-        "romaji": "Take",
-        "meaning": "Bamboo"
+        "kanji_form": "分ける",
+        "reading": "わける",
+        "katakana": "ワケル",
+        "romaji": "Wakeru",
+        "meaning": "To divide"
+      },
+      {
+        "kanji_form": "三分",
+        "reading": "さんぷん",
+        "katakana": "サンプン",
+        "romaji": "Sanpun",
+        "meaning": "3 minutes"
+      },
+      {
+        "kanji_form": "半分",
+        "reading": "はんぶん",
+        "katakana": "ハンブン",
+        "romaji": "Hanbun",
+        "meaning": "Half"
       }
     ],
     "featured_word": {
-      "kanji_form": "竹",
-      "reading": "たけ",
-      "katakana": "タケ",
-      "romaji": "Take",
-      "meaning": "Bamboo"
+      "kanji_form": "分ける",
+      "reading": "わける",
+      "katakana": "ワケル",
+      "romaji": "Wakeru",
+      "meaning": "To divide"
     },
-    "cycle_day": 43,
+    "cycle_day": 44,
     "cycle_total": 93
   },
-  "updated_at": "2026-11-18T04:03:53.229233+05:00"
+  "updated_at": "2026-11-19T03:39:38.332075+05:00"
 }
