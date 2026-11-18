@@ -32,10 +32,10 @@
 
 | Attribute | Details |
 | :--- | :--- |
-| **Gregorian Date** | November 18, 2026 (`2026-11-18`) |
-| **Japanese Date** | 2026年11月18日 |
-| **Reiwa Era** | 令和8年11月18日 (令和八年 十一月十八日) |
-| **Weekday** | 水曜日（すいようび · Wednesday） |
+| **Gregorian Date** | November 19, 2026 (`2026-11-19`) |
+| **Japanese Date** | 2026年11月19日 |
+| **Reiwa Era** | 令和8年11月19日 (令和八年 十一月十九日) |
+| **Weekday** | 木曜日（もくようび · Thursday） |
 | **Traditional Month** | 霜月（Shimotsuki — Month of Frost） |
 
 ---
@@ -46,25 +46,27 @@
   <img src="assets/daily-kanji.svg" alt="Today's Daily Kanji" width="680"/>
 </div>
 
-### 竹 — Bamboo
+### 分 — Minute / Divide
 
-- **JLPT Level:** `N5` (Cycle Day 43 of 93)
-- **Reading:** `たけ (Take)`
-- **Hiragana:** `たけ`
-- **Katakana:** `タケ`
-- **Romaji:** *Take*
+- **JLPT Level:** `N5` (Cycle Day 44 of 93)
+- **Reading:** `ふん (Fun)`
+- **Hiragana:** `ふん`
+- **Katakana:** `フン`
+- **Romaji:** *Fun*
 
 #### 📖 Related Vocabulary &amp; Studied Forms
-- **竹** (`たけ` / *Take*): Bamboo
+- **分ける** (`わける` / *Wakeru*): To divide
+- **三分** (`さんぷん` / *Sanpun*): 3 minutes
+- **半分** (`はんぶん` / *Hanbun*): Half
 
 ---
 
 ## 📊 Learning Statistics
 
-- **Total Days Recorded:** `5`
-- **Unique Kanji Studied:** `5`
+- **Total Days Recorded:** `6`
+- **Unique Kanji Studied:** `6`
 - **Total Kanji Collection:** `93` (Foundation N5 Collection)
-- **Timezone Anchor:** `Asia/Karachi` (Last synchronized: `2026-11-18 04:03:54 PKT`)
+- **Timezone Anchor:** `Asia/Karachi` (Last synchronized: `2026-11-19 03:39:39 PKT`)
 
 ---
 
