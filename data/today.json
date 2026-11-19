@@ -1,58 +1,58 @@
 {
-  "date": "2026-11-19",
-  "gregorian": "November 19, 2026",
-  "japanese_date": "2026年11月19日",
-  "weekday": "木曜日",
-  "weekday_reading": "もくようび",
-  "weekday_en": "Thursday",
-  "era_date": "令和8年11月19日",
-  "era_traditional": "令和八年 十一月十九日",
+  "date": "2026-11-20",
+  "gregorian": "November 20, 2026",
+  "japanese_date": "2026年11月20日",
+  "weekday": "金曜日",
+  "weekday_reading": "きんようび",
+  "weekday_en": "Friday",
+  "era_date": "令和8年11月20日",
+  "era_traditional": "令和八年 十一月二十日",
   "wafuu_month": {
     "kanji": "霜月",
     "romaji": "Shimotsuki",
     "meaning": "Month of Frost"
   },
   "selected_kanji": {
-    "id": 39,
-    "kanji": "分",
-    "reading_raw": "ふん (Fun)",
-    "hiragana": "ふん",
-    "katakana": "フン",
-    "romaji": "Fun",
-    "meaning": "Minute / Divide",
+    "id": 65,
+    "kanji": "文",
+    "reading_raw": "ぶん (Bun)",
+    "hiragana": "ぶん",
+    "katakana": "ブン",
+    "romaji": "Bun",
+    "meaning": "Sentence / Literature",
     "jlpt": "N5",
     "examples": [
       {
-        "kanji_form": "分ける",
-        "reading": "わける",
-        "katakana": "ワケル",
-        "romaji": "Wakeru",
-        "meaning": "To divide"
+        "kanji_form": "文",
+        "reading": "ぶん",
+        "katakana": "ブン",
+        "romaji": "Bun",
+        "meaning": "Sentence"
       },
       {
-        "kanji_form": "三分",
-        "reading": "さんぷん",
-        "katakana": "サンプン",
-        "romaji": "Sanpun",
-        "meaning": "3 minutes"
+        "kanji_form": "文学",
+        "reading": "ぶんがく",
+        "katakana": "ブンガク",
+        "romaji": "Bungaku",
+        "meaning": "Literature"
       },
       {
-        "kanji_form": "半分",
-        "reading": "はんぶん",
-        "katakana": "ハンブン",
-        "romaji": "Hanbun",
-        "meaning": "Half"
+        "kanji_form": "文ぶしょう",
+        "reading": "もんぶしょう",
+        "katakana": "モンブショウ",
+        "romaji": "Monbushou",
+        "meaning": "Ministry of Education"
       }
     ],
     "featured_word": {
-      "kanji_form": "分ける",
-      "reading": "わける",
-      "katakana": "ワケル",
-      "romaji": "Wakeru",
-      "meaning": "To divide"
+      "kanji_form": "文",
+      "reading": "ぶん",
+      "katakana": "ブン",
+      "romaji": "Bun",
+      "meaning": "Sentence"
     },
-    "cycle_day": 44,
+    "cycle_day": 45,
     "cycle_total": 93
   },
-  "updated_at": "2026-11-19T03:39:38.332075+05:00"
+  "updated_at": "2026-11-20T03:43:40.562254+05:00"
 }
