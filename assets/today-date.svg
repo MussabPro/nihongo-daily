@@ -1,4 +1,4 @@
-<!-- Synchronized: 2026-11-19T03:39:39.119285+05:00 -->
+<!-- Synchronized: 2026-11-20T03:43:41.373085+05:00 -->
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 380" width="100%" height="100%">
   <defs>
     <style>
@@ -37,21 +37,21 @@
 
   <!-- Top Header Bar -->
   <text x="54" y="65" class="text-roman" font-size="13" letter-spacing="3" fill="#45566B" font-weight="700">NIHONGO DAILY · 日本語日録</text>
-  <text x="696" y="65" class="text-muted" font-size="11" text-anchor="end" letter-spacing="1">Asia/Karachi · 2026-11-19 · 03:39</text>
+  <text x="696" y="65" class="text-muted" font-size="11" text-anchor="end" letter-spacing="1">Asia/Karachi · 2026-11-20 · 03:43</text>
   <line x1="54" y1="78" x2="696" y2="78" stroke="#DDD5C7" stroke-width="1"/>
 
   <!-- Left Column: Traditional Japanese Calendar -->
   <!-- Japanese Era (Reiwa) -->
-  <text x="54" y="112" class="text-primary" font-size="20" font-weight="600" letter-spacing="2">令和8年11月19日</text>
+  <text x="54" y="112" class="text-primary" font-size="20" font-weight="600" letter-spacing="2">令和8年11月20日</text>
   <text x="54" y="133" class="text-muted" font-size="12" letter-spacing="1">和風月名：霜月 (Shimotsuki) · Month of Frost</text>
 
   <!-- Large Day Numeral & Traditional Day Kanji -->
   <g transform="translate(54, 140)">
     <!-- Big Day Number (elevated up for balanced vertical alignment) -->
-    <text x="0" y="125" class="text-roman" font-size="115" font-weight="700" fill="#25251F">19</text>
+    <text x="0" y="125" class="text-roman" font-size="115" font-weight="700" fill="#25251F">20</text>
     <!-- Traditional Day Kanji & English Date aligned beside the numeral -->
-    <text x="165" y="88" class="text-primary" font-size="24" font-weight="600" letter-spacing="2" fill="#77736A">十九日</text>
-    <text x="165" y="122" class="text-roman" font-size="18" fill="#45566B" font-style="italic">November 19, 2026</text>
+    <text x="165" y="88" class="text-primary" font-size="24" font-weight="600" letter-spacing="2" fill="#77736A">二十日</text>
+    <text x="165" y="122" class="text-roman" font-size="18" fill="#45566B" font-style="italic">November 20, 2026</text>
   </g>
 
   <!-- Middle Divider -->
@@ -61,8 +61,8 @@
   <!-- Weekday display -->
   <g transform="translate(460, 105)">
     <text x="0" y="18" class="text-muted" font-size="11" letter-spacing="2">WEEKDAY · 曜日</text>
-    <text x="0" y="66" class="text-primary" font-size="46" font-weight="900" letter-spacing="3" fill="#B64032">木曜日</text>
-    <text x="2" y="92" class="text-muted" font-size="14" letter-spacing="2">（もくようび） · Thursday</text>
+    <text x="0" y="66" class="text-primary" font-size="46" font-weight="900" letter-spacing="3" fill="#B64032">金曜日</text>
+    <text x="2" y="92" class="text-muted" font-size="14" letter-spacing="2">（きんようび） · Friday</text>
 
     <!-- Traditional Hanko (Vermilion Seal Stamp) -->
     <g transform="translate(160, 110)">
