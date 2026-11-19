@@ -32,10 +32,10 @@
 
 | Attribute | Details |
 | :--- | :--- |
-| **Gregorian Date** | November 19, 2026 (`2026-11-19`) |
-| **Japanese Date** | 2026年11月19日 |
-| **Reiwa Era** | 令和8年11月19日 (令和八年 十一月十九日) |
-| **Weekday** | 木曜日（もくようび · Thursday） |
+| **Gregorian Date** | November 20, 2026 (`2026-11-20`) |
+| **Japanese Date** | 2026年11月20日 |
+| **Reiwa Era** | 令和8年11月20日 (令和八年 十一月二十日) |
+| **Weekday** | 金曜日（きんようび · Friday） |
 | **Traditional Month** | 霜月（Shimotsuki — Month of Frost） |
 
 ---
@@ -46,27 +46,27 @@
   <img src="assets/daily-kanji.svg" alt="Today's Daily Kanji" width="680"/>
 </div>
 
-### 分 — Minute / Divide
+### 文 — Sentence / Literature
 
-- **JLPT Level:** `N5` (Cycle Day 44 of 93)
-- **Reading:** `ふん (Fun)`
-- **Hiragana:** `ふん`
-- **Katakana:** `フン`
-- **Romaji:** *Fun*
+- **JLPT Level:** `N5` (Cycle Day 45 of 93)
+- **Reading:** `ぶん (Bun)`
+- **Hiragana:** `ぶん`
+- **Katakana:** `ブン`
+- **Romaji:** *Bun*
 
 #### 📖 Related Vocabulary &amp; Studied Forms
-- **分ける** (`わける` / *Wakeru*): To divide
-- **三分** (`さんぷん` / *Sanpun*): 3 minutes
-- **半分** (`はんぶん` / *Hanbun*): Half
+- **文** (`ぶん` / *Bun*): Sentence
+- **文学** (`ぶんがく` / *Bungaku*): Literature
+- **文ぶしょう** (`もんぶしょう` / *Monbushou*): Ministry of Education
 
 ---
 
 ## 📊 Learning Statistics
 
-- **Total Days Recorded:** `6`
-- **Unique Kanji Studied:** `6`
+- **Total Days Recorded:** `7`
+- **Unique Kanji Studied:** `7`
 - **Total Kanji Collection:** `93` (Foundation N5 Collection)
-- **Timezone Anchor:** `Asia/Karachi` (Last synchronized: `2026-11-19 03:39:39 PKT`)
+- **Timezone Anchor:** `Asia/Karachi` (Last synchronized: `2026-11-20 03:43:41 PKT`)
 
 ---
 
