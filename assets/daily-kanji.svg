@@ -1,4 +1,4 @@
-<!-- Synchronized: 2026-11-20T03:43:41.760840+05:00 -->
+<!-- Synchronized: 2026-11-21T03:17:31.714304+05:00 -->
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 380" width="100%" height="100%">
   <defs>
     <style>
@@ -36,7 +36,7 @@
 
   <!-- Top Banner -->
   <text x="54" y="65" class="text-roman" font-size="13" letter-spacing="3" fill="#B64032" font-weight="700">DAILY KANJI · 本日の漢字</text>
-  <text x="696" y="65" class="text-muted" font-size="11" text-anchor="end" letter-spacing="1">2026-11-20</text>
+  <text x="696" y="65" class="text-muted" font-size="11" text-anchor="end" letter-spacing="1">2026-11-21</text>
   <line x1="54" y1="78" x2="696" y2="78" stroke="#DDD5C7" stroke-width="1"/>
 
   <!-- Left Column: Prominent Kanji Character Presentation -->
@@ -48,7 +48,7 @@
     <line x1="0" y1="110" x2="190" y2="110" stroke="#E6DEC9" stroke-width="0.75" stroke-dasharray="3 3"/>
 
     <!-- Large Kanji -->
-    <text x="95" y="160" class="kanji-huge" font-size="120" text-anchor="middle">文</text>
+    <text x="95" y="160" class="kanji-huge" font-size="120" text-anchor="middle">物</text>
 
     <!-- JLPT Level Seal Badge -->
     <rect x="15" y="18" width="68" height="22" rx="4" fill="#B64032"/>
@@ -58,15 +58,15 @@
   <!-- Right Column: Kanji Readings, Meaning, and Vocabulary -->
   <g transform="translate(290, 110)">
     <!-- Primary Meaning (English) -->
-    <text x="0" y="24" class="text-roman" font-size="34" font-weight="700" fill="#25251F">Sentence / Literature</text>
+    <text x="0" y="24" class="text-roman" font-size="34" font-weight="700" fill="#25251F">Thing</text>
 
     <!-- Readings -->
     <g transform="translate(0, 48)">
       <text x="0" y="16" class="text-muted" font-size="11" letter-spacing="1">READINGS · 読み方</text>
       <!-- Hiragana & Romaji -->
-      <text x="0" y="44" class="text-primary" font-size="24" font-weight="700" fill="#B64032">ぶん</text>
-      <text x="130" y="44" class="text-roman" font-size="18" fill="#45566B" font-style="italic">(Bun)</text>
-      <text x="250" y="44" class="text-primary" font-size="18" fill="#77736A">カタカナ: ブン</text>
+      <text x="0" y="44" class="text-primary" font-size="24" font-weight="700" fill="#B64032">もの</text>
+      <text x="130" y="44" class="text-roman" font-size="18" fill="#45566B" font-style="italic">(Mono)</text>
+      <text x="250" y="44" class="text-primary" font-size="18" fill="#77736A">カタカナ: モノ</text>
     </g>
 
     <!-- Divider -->
@@ -78,16 +78,16 @@
 
       <!-- Word 1 -->
       <g transform="translate(0, 24)">
-        <text x="0" y="20" class="text-primary" font-size="18" font-weight="600">文</text>
-        <text x="110" y="20" class="text-muted" font-size="13">[ぶん]</text>
-        <text x="210" y="20" class="text-roman" font-size="14" fill="#25251F" font-weight="600">Sentence</text>
+        <text x="0" y="20" class="text-primary" font-size="18" font-weight="600">物</text>
+        <text x="110" y="20" class="text-muted" font-size="13">[もの]</text>
+        <text x="210" y="20" class="text-roman" font-size="14" fill="#25251F" font-weight="600">Thing</text>
       </g>
 
       <!-- Word 2 -->
       <g transform="translate(0, 52)">
-        <text x="0" y="20" class="text-primary" font-size="18" font-weight="600">文学</text>
-        <text x="110" y="20" class="text-muted" font-size="13">[ぶんがく]</text>
-        <text x="210" y="20" class="text-roman" font-size="14" fill="#25251F" font-weight="600">Literature</text>
+        <text x="0" y="20" class="text-primary" font-size="18" font-weight="600">生物</text>
+        <text x="110" y="20" class="text-muted" font-size="13">[せいぶつ]</text>
+        <text x="210" y="20" class="text-roman" font-size="14" fill="#25251F" font-weight="600">Living organism</text>
       </g>
     </g>
 

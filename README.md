@@ -32,10 +32,10 @@
 
 | Attribute | Details |
 | :--- | :--- |
-| **Gregorian Date** | November 20, 2026 (`2026-11-20`) |
-| **Japanese Date** | 2026年11月20日 |
-| **Reiwa Era** | 令和8年11月20日 (令和八年 十一月二十日) |
-| **Weekday** | 金曜日（きんようび · Friday） |
+| **Gregorian Date** | November 21, 2026 (`2026-11-21`) |
+| **Japanese Date** | 2026年11月21日 |
+| **Reiwa Era** | 令和8年11月21日 (令和八年 十一月二十一日) |
+| **Weekday** | 土曜日（どようび · Saturday） |
 | **Traditional Month** | 霜月（Shimotsuki — Month of Frost） |
 
 ---
@@ -46,27 +46,27 @@
   <img src="assets/daily-kanji.svg" alt="Today's Daily Kanji" width="680"/>
 </div>
 
-### 文 — Sentence / Literature
+### 物 — Thing
 
-- **JLPT Level:** `N5` (Cycle Day 45 of 93)
-- **Reading:** `ぶん (Bun)`
-- **Hiragana:** `ぶん`
-- **Katakana:** `ブン`
-- **Romaji:** *Bun*
+- **JLPT Level:** `N5` (Cycle Day 46 of 93)
+- **Reading:** `もの (Mono)`
+- **Hiragana:** `もの`
+- **Katakana:** `モノ`
+- **Romaji:** *Mono*
 
 #### 📖 Related Vocabulary &amp; Studied Forms
-- **文** (`ぶん` / *Bun*): Sentence
-- **文学** (`ぶんがく` / *Bungaku*): Literature
-- **文ぶしょう** (`もんぶしょう` / *Monbushou*): Ministry of Education
+- **物** (`もの` / *Mono*): Thing
+- **生物** (`せいぶつ` / *Seibutsu*): Living organism
+- **に物** (`にもつ` / *Nimotsu*): Luggage
 
 ---
 
 ## 📊 Learning Statistics
 
-- **Total Days Recorded:** `7`
-- **Unique Kanji Studied:** `7`
+- **Total Days Recorded:** `8`
+- **Unique Kanji Studied:** `8`
 - **Total Kanji Collection:** `93` (Foundation N5 Collection)
-- **Timezone Anchor:** `Asia/Karachi` (Last synchronized: `2026-11-20 03:43:41 PKT`)
+- **Timezone Anchor:** `Asia/Karachi` (Last synchronized: `2026-11-21 03:17:31 PKT`)
 
 ---
 
