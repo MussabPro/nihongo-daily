@@ -1,58 +1,51 @@
 {
-  "date": "2026-11-21",
-  "gregorian": "November 21, 2026",
-  "japanese_date": "2026年11月21日",
-  "weekday": "土曜日",
-  "weekday_reading": "どようび",
-  "weekday_en": "Saturday",
-  "era_date": "令和8年11月21日",
-  "era_traditional": "令和八年 十一月二十一日",
+  "date": "2026-11-22",
+  "gregorian": "November 22, 2026",
+  "japanese_date": "2026年11月22日",
+  "weekday": "日曜日",
+  "weekday_reading": "にちようび",
+  "weekday_en": "Sunday",
+  "era_date": "令和8年11月22日",
+  "era_traditional": "令和八年 十一月二十二日",
   "wafuu_month": {
     "kanji": "霜月",
     "romaji": "Shimotsuki",
     "meaning": "Month of Frost"
   },
   "selected_kanji": {
-    "id": 67,
-    "kanji": "物",
-    "reading_raw": "もの (Mono)",
-    "hiragana": "もの",
-    "katakana": "モノ",
-    "romaji": "Mono",
-    "meaning": "Thing",
+    "id": 28,
+    "kanji": "十",
+    "reading_raw": "じゅう (Juu)",
+    "hiragana": "じゅう",
+    "katakana": "ジュウ",
+    "romaji": "Juu",
+    "meaning": "Ten",
     "jlpt": "N5",
     "examples": [
       {
-        "kanji_form": "物",
-        "reading": "もの",
-        "katakana": "モノ",
-        "romaji": "Mono",
-        "meaning": "Thing"
+        "kanji_form": "十日",
+        "reading": "とおか",
+        "katakana": "トオカ",
+        "romaji": "Tooka",
+        "meaning": "10th day / 10 days"
       },
       {
-        "kanji_form": "生物",
-        "reading": "せいぶつ",
-        "katakana": "セイブツ",
-        "romaji": "Seibutsu",
-        "meaning": "Living organism"
-      },
-      {
-        "kanji_form": "に物",
-        "reading": "にもつ",
-        "katakana": "ニモツ",
-        "romaji": "Nimotsu",
-        "meaning": "Luggage"
+        "kanji_form": "十",
+        "reading": "とお",
+        "katakana": "トオ",
+        "romaji": "Too",
+        "meaning": "Ten items"
       }
     ],
     "featured_word": {
-      "kanji_form": "物",
-      "reading": "もの",
-      "katakana": "モノ",
-      "romaji": "Mono",
-      "meaning": "Thing"
+      "kanji_form": "十日",
+      "reading": "とおか",
+      "katakana": "トオカ",
+      "romaji": "Tooka",
+      "meaning": "10th day / 10 days"
     },
-    "cycle_day": 46,
+    "cycle_day": 47,
     "cycle_total": 93
   },
-  "updated_at": "2026-11-21T03:17:30.767498+05:00"
+  "updated_at": "2026-11-22T01:59:11.874382+05:00"
 }
