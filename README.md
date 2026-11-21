@@ -32,10 +32,10 @@
 
 | Attribute | Details |
 | :--- | :--- |
-| **Gregorian Date** | November 21, 2026 (`2026-11-21`) |
-| **Japanese Date** | 2026年11月21日 |
-| **Reiwa Era** | 令和8年11月21日 (令和八年 十一月二十一日) |
-| **Weekday** | 土曜日（どようび · Saturday） |
+| **Gregorian Date** | November 22, 2026 (`2026-11-22`) |
+| **Japanese Date** | 2026年11月22日 |
+| **Reiwa Era** | 令和8年11月22日 (令和八年 十一月二十二日) |
+| **Weekday** | 日曜日（にちようび · Sunday） |
 | **Traditional Month** | 霜月（Shimotsuki — Month of Frost） |
 
 ---
@@ -46,27 +46,26 @@
   <img src="assets/daily-kanji.svg" alt="Today's Daily Kanji" width="680"/>
 </div>
 
-### 物 — Thing
+### 十 — Ten
 
-- **JLPT Level:** `N5` (Cycle Day 46 of 93)
-- **Reading:** `もの (Mono)`
-- **Hiragana:** `もの`
-- **Katakana:** `モノ`
-- **Romaji:** *Mono*
+- **JLPT Level:** `N5` (Cycle Day 47 of 93)
+- **Reading:** `じゅう (Juu)`
+- **Hiragana:** `じゅう`
+- **Katakana:** `ジュウ`
+- **Romaji:** *Juu*
 
 #### 📖 Related Vocabulary &amp; Studied Forms
-- **物** (`もの` / *Mono*): Thing
-- **生物** (`せいぶつ` / *Seibutsu*): Living organism
-- **に物** (`にもつ` / *Nimotsu*): Luggage
+- **十日** (`とおか` / *Tooka*): 10th day / 10 days
+- **十** (`とお` / *Too*): Ten items
 
 ---
 
 ## 📊 Learning Statistics
 
-- **Total Days Recorded:** `8`
-- **Unique Kanji Studied:** `8`
+- **Total Days Recorded:** `9`
+- **Unique Kanji Studied:** `9`
 - **Total Kanji Collection:** `93` (Foundation N5 Collection)
-- **Timezone Anchor:** `Asia/Karachi` (Last synchronized: `2026-11-21 03:17:31 PKT`)
+- **Timezone Anchor:** `Asia/Karachi` (Last synchronized: `2026-11-22 01:59:13 PKT`)
 
 ---
 
