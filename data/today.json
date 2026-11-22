@@ -1,51 +1,58 @@
 {
-  "date": "2026-11-22",
-  "gregorian": "November 22, 2026",
-  "japanese_date": "2026年11月22日",
-  "weekday": "日曜日",
-  "weekday_reading": "にちようび",
-  "weekday_en": "Sunday",
-  "era_date": "令和8年11月22日",
-  "era_traditional": "令和八年 十一月二十二日",
+  "date": "2026-11-23",
+  "gregorian": "November 23, 2026",
+  "japanese_date": "2026年11月23日",
+  "weekday": "月曜日",
+  "weekday_reading": "げつようび",
+  "weekday_en": "Monday",
+  "era_date": "令和8年11月23日",
+  "era_traditional": "令和八年 十一月二十三日",
   "wafuu_month": {
     "kanji": "霜月",
     "romaji": "Shimotsuki",
     "meaning": "Month of Frost"
   },
   "selected_kanji": {
-    "id": 28,
-    "kanji": "十",
-    "reading_raw": "じゅう (Juu)",
-    "hiragana": "じゅう",
-    "katakana": "ジュウ",
-    "romaji": "Juu",
-    "meaning": "Ten",
+    "id": 34,
+    "kanji": "中",
+    "reading_raw": "なか (Naka)",
+    "hiragana": "なか",
+    "katakana": "ナカ",
+    "romaji": "Naka",
+    "meaning": "Inside / Middle",
     "jlpt": "N5",
     "examples": [
       {
-        "kanji_form": "十日",
-        "reading": "とおか",
-        "katakana": "トオカ",
-        "romaji": "Tooka",
-        "meaning": "10th day / 10 days"
+        "kanji_form": "中",
+        "reading": "なか",
+        "katakana": "ナカ",
+        "romaji": "Naka",
+        "meaning": "Inside"
       },
       {
-        "kanji_form": "十",
-        "reading": "とお",
-        "katakana": "トオ",
-        "romaji": "Too",
-        "meaning": "Ten items"
+        "kanji_form": "一日中",
+        "reading": "いちにちじゅう",
+        "katakana": "イチニチジュウ",
+        "romaji": "Ichinichijuu",
+        "meaning": "All day long"
+      },
+      {
+        "kanji_form": "中しん",
+        "reading": "ちゅうしん",
+        "katakana": "チュウシン",
+        "romaji": "Chuushin",
+        "meaning": "Center"
       }
     ],
     "featured_word": {
-      "kanji_form": "十日",
-      "reading": "とおか",
-      "katakana": "トオカ",
-      "romaji": "Tooka",
-      "meaning": "10th day / 10 days"
+      "kanji_form": "中",
+      "reading": "なか",
+      "katakana": "ナカ",
+      "romaji": "Naka",
+      "meaning": "Inside"
     },
-    "cycle_day": 47,
+    "cycle_day": 48,
     "cycle_total": 93
   },
-  "updated_at": "2026-11-22T01:59:11.874382+05:00"
+  "updated_at": "2026-11-23T02:09:40.892461+05:00"
 }
