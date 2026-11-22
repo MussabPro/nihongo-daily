@@ -32,10 +32,10 @@
 
 | Attribute | Details |
 | :--- | :--- |
-| **Gregorian Date** | November 22, 2026 (`2026-11-22`) |
-| **Japanese Date** | 2026年11月22日 |
-| **Reiwa Era** | 令和8年11月22日 (令和八年 十一月二十二日) |
-| **Weekday** | 日曜日（にちようび · Sunday） |
+| **Gregorian Date** | November 23, 2026 (`2026-11-23`) |
+| **Japanese Date** | 2026年11月23日 |
+| **Reiwa Era** | 令和8年11月23日 (令和八年 十一月二十三日) |
+| **Weekday** | 月曜日（げつようび · Monday） |
 | **Traditional Month** | 霜月（Shimotsuki — Month of Frost） |
 
 ---
@@ -46,26 +46,27 @@
   <img src="assets/daily-kanji.svg" alt="Today's Daily Kanji" width="680"/>
 </div>
 
-### 十 — Ten
+### 中 — Inside / Middle
 
-- **JLPT Level:** `N5` (Cycle Day 47 of 93)
-- **Reading:** `じゅう (Juu)`
-- **Hiragana:** `じゅう`
-- **Katakana:** `ジュウ`
-- **Romaji:** *Juu*
+- **JLPT Level:** `N5` (Cycle Day 48 of 93)
+- **Reading:** `なか (Naka)`
+- **Hiragana:** `なか`
+- **Katakana:** `ナカ`
+- **Romaji:** *Naka*
 
 #### 📖 Related Vocabulary &amp; Studied Forms
-- **十日** (`とおか` / *Tooka*): 10th day / 10 days
-- **十** (`とお` / *Too*): Ten items
+- **中** (`なか` / *Naka*): Inside
+- **一日中** (`いちにちじゅう` / *Ichinichijuu*): All day long
+- **中しん** (`ちゅうしん` / *Chuushin*): Center
 
 ---
 
 ## 📊 Learning Statistics
 
-- **Total Days Recorded:** `9`
-- **Unique Kanji Studied:** `9`
+- **Total Days Recorded:** `10`
+- **Unique Kanji Studied:** `10`
 - **Total Kanji Collection:** `93` (Foundation N5 Collection)
-- **Timezone Anchor:** `Asia/Karachi` (Last synchronized: `2026-11-22 01:59:13 PKT`)
+- **Timezone Anchor:** `Asia/Karachi` (Last synchronized: `2026-11-23 02:09:42 PKT`)
 
 ---
 
