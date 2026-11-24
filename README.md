@@ -32,10 +32,10 @@
 
 | Attribute | Details |
 | :--- | :--- |
-| **Gregorian Date** | November 24, 2026 (`2026-11-24`) |
-| **Japanese Date** | 2026年11月24日 |
-| **Reiwa Era** | 令和8年11月24日 (令和八年 十一月二十四日) |
-| **Weekday** | 火曜日（かようび · Tuesday） |
+| **Gregorian Date** | November 25, 2026 (`2026-11-25`) |
+| **Japanese Date** | 2026年11月25日 |
+| **Reiwa Era** | 令和8年11月25日 (令和八年 十一月二十五日) |
+| **Weekday** | 水曜日（すいようび · Wednesday） |
 | **Traditional Month** | 霜月（Shimotsuki — Month of Frost） |
 
 ---
@@ -46,26 +46,27 @@
   <img src="assets/daily-kanji.svg" alt="Today's Daily Kanji" width="680"/>
 </div>
 
-### 百 — Hundred
+### 田 — Rice field
 
-- **JLPT Level:** `N5` (Cycle Day 49 of 93)
-- **Reading:** `ひゃく (Hyaku)`
-- **Hiragana:** `ひゃく`
-- **Katakana:** `ヒャク`
-- **Romaji:** *Hyaku*
+- **JLPT Level:** `N5` (Cycle Day 50 of 93)
+- **Reading:** `た (Ta)`
+- **Hiragana:** `た`
+- **Katakana:** `タ`
+- **Romaji:** *Ta*
 
 #### 📖 Related Vocabulary &amp; Studied Forms
-- **三百** (`さんびゃく` / *Sanbyaku*): 300
-- **八百** (`はっぴゃく` / *Happyaku*): 800
+- **田んぼ** (`たんぼ` / *Tanbo*): Rice field
+- **田中** (`たなか` / *Tanaka*): Tanaka (surname)
+- **山田** (`やまだ` / *Yamada*): Yamada (surname)
 
 ---
 
 ## 📊 Learning Statistics
 
-- **Total Days Recorded:** `11`
-- **Unique Kanji Studied:** `11`
+- **Total Days Recorded:** `12`
+- **Unique Kanji Studied:** `12`
 - **Total Kanji Collection:** `93` (Foundation N5 Collection)
-- **Timezone Anchor:** `Asia/Karachi` (Last synchronized: `2026-11-24 07:28:37 PKT`)
+- **Timezone Anchor:** `Asia/Karachi` (Last synchronized: `2026-11-25 04:59:52 PKT`)
 
 ---
 
