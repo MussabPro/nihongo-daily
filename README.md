@@ -32,10 +32,10 @@
 
 | Attribute | Details |
 | :--- | :--- |
-| **Gregorian Date** | November 23, 2026 (`2026-11-23`) |
-| **Japanese Date** | 2026年11月23日 |
-| **Reiwa Era** | 令和8年11月23日 (令和八年 十一月二十三日) |
-| **Weekday** | 月曜日（げつようび · Monday） |
+| **Gregorian Date** | November 24, 2026 (`2026-11-24`) |
+| **Japanese Date** | 2026年11月24日 |
+| **Reiwa Era** | 令和8年11月24日 (令和八年 十一月二十四日) |
+| **Weekday** | 火曜日（かようび · Tuesday） |
 | **Traditional Month** | 霜月（Shimotsuki — Month of Frost） |
 
 ---
@@ -46,27 +46,26 @@
   <img src="assets/daily-kanji.svg" alt="Today's Daily Kanji" width="680"/>
 </div>
 
-### 中 — Inside / Middle
+### 百 — Hundred
 
-- **JLPT Level:** `N5` (Cycle Day 48 of 93)
-- **Reading:** `なか (Naka)`
-- **Hiragana:** `なか`
-- **Katakana:** `ナカ`
-- **Romaji:** *Naka*
+- **JLPT Level:** `N5` (Cycle Day 49 of 93)
+- **Reading:** `ひゃく (Hyaku)`
+- **Hiragana:** `ひゃく`
+- **Katakana:** `ヒャク`
+- **Romaji:** *Hyaku*
 
 #### 📖 Related Vocabulary &amp; Studied Forms
-- **中** (`なか` / *Naka*): Inside
-- **一日中** (`いちにちじゅう` / *Ichinichijuu*): All day long
-- **中しん** (`ちゅうしん` / *Chuushin*): Center
+- **三百** (`さんびゃく` / *Sanbyaku*): 300
+- **八百** (`はっぴゃく` / *Happyaku*): 800
 
 ---
 
 ## 📊 Learning Statistics
 
-- **Total Days Recorded:** `10`
-- **Unique Kanji Studied:** `10`
+- **Total Days Recorded:** `11`
+- **Unique Kanji Studied:** `11`
 - **Total Kanji Collection:** `93` (Foundation N5 Collection)
-- **Timezone Anchor:** `Asia/Karachi` (Last synchronized: `2026-11-23 02:09:42 PKT`)
+- **Timezone Anchor:** `Asia/Karachi` (Last synchronized: `2026-11-24 07:28:37 PKT`)
 
 ---
 
