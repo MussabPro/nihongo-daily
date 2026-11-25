@@ -32,10 +32,10 @@
 
 | Attribute | Details |
 | :--- | :--- |
-| **Gregorian Date** | November 25, 2026 (`2026-11-25`) |
-| **Japanese Date** | 2026年11月25日 |
-| **Reiwa Era** | 令和8年11月25日 (令和八年 十一月二十五日) |
-| **Weekday** | 水曜日（すいようび · Wednesday） |
+| **Gregorian Date** | November 26, 2026 (`2026-11-26`) |
+| **Japanese Date** | 2026年11月26日 |
+| **Reiwa Era** | 令和8年11月26日 (令和八年 十一月二十六日) |
+| **Weekday** | 木曜日（もくようび · Thursday） |
 | **Traditional Month** | 霜月（Shimotsuki — Month of Frost） |
 
 ---
@@ -46,27 +46,27 @@
   <img src="assets/daily-kanji.svg" alt="Today's Daily Kanji" width="680"/>
 </div>
 
-### 田 — Rice field
+### 来 — Come
 
-- **JLPT Level:** `N5` (Cycle Day 50 of 93)
-- **Reading:** `た (Ta)`
-- **Hiragana:** `た`
-- **Katakana:** `タ`
-- **Romaji:** *Ta*
+- **JLPT Level:** `N5` (Cycle Day 51 of 93)
+- **Reading:** `くる (Kuru)`
+- **Hiragana:** `くる`
+- **Katakana:** `クル`
+- **Romaji:** *Kuru*
 
 #### 📖 Related Vocabulary &amp; Studied Forms
-- **田んぼ** (`たんぼ` / *Tanbo*): Rice field
-- **田中** (`たなか` / *Tanaka*): Tanaka (surname)
-- **山田** (`やまだ` / *Yamada*): Yamada (surname)
+- **来る** (`くる` / *Kuru*): To come
+- **来年** (`らいねん` / *Rainen*): Next year
+- **来月** (`らいげつ` / *Raigetsu*): Next month
 
 ---
 
 ## 📊 Learning Statistics
 
-- **Total Days Recorded:** `12`
-- **Unique Kanji Studied:** `12`
+- **Total Days Recorded:** `13`
+- **Unique Kanji Studied:** `13`
 - **Total Kanji Collection:** `93` (Foundation N5 Collection)
-- **Timezone Anchor:** `Asia/Karachi` (Last synchronized: `2026-11-25 04:59:52 PKT`)
+- **Timezone Anchor:** `Asia/Karachi` (Last synchronized: `2026-11-26 04:44:16 PKT`)
 
 ---
 
