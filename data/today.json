@@ -1,58 +1,58 @@
 {
-  "date": "2026-11-25",
-  "gregorian": "November 25, 2026",
-  "japanese_date": "2026年11月25日",
-  "weekday": "水曜日",
-  "weekday_reading": "すいようび",
-  "weekday_en": "Wednesday",
-  "era_date": "令和8年11月25日",
-  "era_traditional": "令和八年 十一月二十五日",
+  "date": "2026-11-26",
+  "gregorian": "November 26, 2026",
+  "japanese_date": "2026年11月26日",
+  "weekday": "木曜日",
+  "weekday_reading": "もくようび",
+  "weekday_en": "Thursday",
+  "era_date": "令和8年11月26日",
+  "era_traditional": "令和八年 十一月二十六日",
   "wafuu_month": {
     "kanji": "霜月",
     "romaji": "Shimotsuki",
     "meaning": "Month of Frost"
   },
   "selected_kanji": {
-    "id": 6,
-    "kanji": "田",
-    "reading_raw": "た (Ta)",
-    "hiragana": "た",
-    "katakana": "タ",
-    "romaji": "Ta",
-    "meaning": "Rice field",
+    "id": 83,
+    "kanji": "来",
+    "reading_raw": "くる (Kuru)",
+    "hiragana": "くる",
+    "katakana": "クル",
+    "romaji": "Kuru",
+    "meaning": "Come",
     "jlpt": "N5",
     "examples": [
       {
-        "kanji_form": "田んぼ",
-        "reading": "たんぼ",
-        "katakana": "タンボ",
-        "romaji": "Tanbo",
-        "meaning": "Rice field"
+        "kanji_form": "来る",
+        "reading": "くる",
+        "katakana": "クル",
+        "romaji": "Kuru",
+        "meaning": "To come"
       },
       {
-        "kanji_form": "田中",
-        "reading": "たなか",
-        "katakana": "タナカ",
-        "romaji": "Tanaka",
-        "meaning": "Tanaka (surname)"
+        "kanji_form": "来年",
+        "reading": "らいねん",
+        "katakana": "ライネン",
+        "romaji": "Rainen",
+        "meaning": "Next year"
       },
       {
-        "kanji_form": "山田",
-        "reading": "やまだ",
-        "katakana": "ヤマダ",
-        "romaji": "Yamada",
-        "meaning": "Yamada (surname)"
+        "kanji_form": "来月",
+        "reading": "らいげつ",
+        "katakana": "ライゲツ",
+        "romaji": "Raigetsu",
+        "meaning": "Next month"
       }
     ],
     "featured_word": {
-      "kanji_form": "田んぼ",
-      "reading": "たんぼ",
-      "katakana": "タンボ",
-      "romaji": "Tanbo",
-      "meaning": "Rice field"
+      "kanji_form": "来る",
+      "reading": "くる",
+      "katakana": "クル",
+      "romaji": "Kuru",
+      "meaning": "To come"
     },
-    "cycle_day": 50,
+    "cycle_day": 51,
     "cycle_total": 93
   },
-  "updated_at": "2026-11-25T04:59:51.123378+05:00"
+  "updated_at": "2026-11-26T04:44:15.410914+05:00"
 }
