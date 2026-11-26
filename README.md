@@ -32,10 +32,10 @@
 
 | Attribute | Details |
 | :--- | :--- |
-| **Gregorian Date** | November 26, 2026 (`2026-11-26`) |
-| **Japanese Date** | 2026年11月26日 |
-| **Reiwa Era** | 令和8年11月26日 (令和八年 十一月二十六日) |
-| **Weekday** | 木曜日（もくようび · Thursday） |
+| **Gregorian Date** | November 27, 2026 (`2026-11-27`) |
+| **Japanese Date** | 2026年11月27日 |
+| **Reiwa Era** | 令和8年11月27日 (令和八年 十一月二十七日) |
+| **Weekday** | 金曜日（きんようび · Friday） |
 | **Traditional Month** | 霜月（Shimotsuki — Month of Frost） |
 
 ---
@@ -46,27 +46,27 @@
   <img src="assets/daily-kanji.svg" alt="Today's Daily Kanji" width="680"/>
 </div>
 
-### 来 — Come
+### 長 — Long
 
-- **JLPT Level:** `N5` (Cycle Day 51 of 93)
-- **Reading:** `くる (Kuru)`
-- **Hiragana:** `くる`
-- **Katakana:** `クル`
-- **Romaji:** *Kuru*
+- **JLPT Level:** `N5` (Cycle Day 52 of 93)
+- **Reading:** `ながい (Nagai)`
+- **Hiragana:** `ながい`
+- **Katakana:** `ナガイ`
+- **Romaji:** *Nagai*
 
 #### 📖 Related Vocabulary &amp; Studied Forms
-- **来る** (`くる` / *Kuru*): To come
-- **来年** (`らいねん` / *Rainen*): Next year
-- **来月** (`らいげつ` / *Raigetsu*): Next month
+- **長い** (`ながい` / *Nagai*): Long
+- **しゃ長** (`しゃちょう` / *Shachou*): Company president
+- **長しょ** (`ちょうしょ` / *Chousho*): Strong point
 
 ---
 
 ## 📊 Learning Statistics
 
-- **Total Days Recorded:** `13`
-- **Unique Kanji Studied:** `13`
+- **Total Days Recorded:** `14`
+- **Unique Kanji Studied:** `14`
 - **Total Kanji Collection:** `93` (Foundation N5 Collection)
-- **Timezone Anchor:** `Asia/Karachi` (Last synchronized: `2026-11-26 04:44:16 PKT`)
+- **Timezone Anchor:** `Asia/Karachi` (Last synchronized: `2026-11-27 04:56:47 PKT`)
 
 ---
 
