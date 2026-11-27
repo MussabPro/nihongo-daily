@@ -1,58 +1,58 @@
 {
-  "date": "2026-11-27",
-  "gregorian": "November 27, 2026",
-  "japanese_date": "2026年11月27日",
-  "weekday": "金曜日",
-  "weekday_reading": "きんようび",
-  "weekday_en": "Friday",
-  "era_date": "令和8年11月27日",
-  "era_traditional": "令和八年 十一月二十七日",
+  "date": "2026-11-28",
+  "gregorian": "November 28, 2026",
+  "japanese_date": "2026年11月28日",
+  "weekday": "土曜日",
+  "weekday_reading": "どようび",
+  "weekday_en": "Saturday",
+  "era_date": "令和8年11月28日",
+  "era_traditional": "令和八年 十一月二十八日",
   "wafuu_month": {
     "kanji": "霜月",
     "romaji": "Shimotsuki",
     "meaning": "Month of Frost"
   },
   "selected_kanji": {
-    "id": 74,
-    "kanji": "長",
-    "reading_raw": "ながい (Nagai)",
-    "hiragana": "ながい",
-    "katakana": "ナガイ",
-    "romaji": "Nagai",
-    "meaning": "Long",
+    "id": 9,
+    "kanji": "車",
+    "reading_raw": "くるま (Kuruma)",
+    "hiragana": "くるま",
+    "katakana": "クルマ",
+    "romaji": "Kuruma",
+    "meaning": "Car",
     "jlpt": "N5",
     "examples": [
       {
-        "kanji_form": "長い",
-        "reading": "ながい",
-        "katakana": "ナガイ",
-        "romaji": "Nagai",
-        "meaning": "Long"
+        "kanji_form": "車",
+        "reading": "くるま",
+        "katakana": "クルマ",
+        "romaji": "Kuruma",
+        "meaning": "Car"
       },
       {
-        "kanji_form": "しゃ長",
-        "reading": "しゃちょう",
-        "katakana": "シャチョウ",
-        "romaji": "Shachou",
-        "meaning": "Company president"
+        "kanji_form": "でん車",
+        "reading": "でんしゃ",
+        "katakana": "デンシャ",
+        "romaji": "Densha",
+        "meaning": "Train"
       },
       {
-        "kanji_form": "長しょ",
-        "reading": "ちょうしょ",
-        "katakana": "チョウショ",
-        "romaji": "Chousho",
-        "meaning": "Strong point"
+        "kanji_form": "じてん車",
+        "reading": "じてんしゃ",
+        "katakana": "ジテンシャ",
+        "romaji": "Jidensha",
+        "meaning": "Bicycle"
       }
     ],
     "featured_word": {
-      "kanji_form": "長い",
-      "reading": "ながい",
-      "katakana": "ナガイ",
-      "romaji": "Nagai",
-      "meaning": "Long"
+      "kanji_form": "車",
+      "reading": "くるま",
+      "katakana": "クルマ",
+      "romaji": "Kuruma",
+      "meaning": "Car"
     },
-    "cycle_day": 52,
+    "cycle_day": 53,
     "cycle_total": 93
   },
-  "updated_at": "2026-11-27T04:56:46.699869+05:00"
+  "updated_at": "2026-11-28T04:38:35.749062+05:00"
 }
