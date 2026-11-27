@@ -32,10 +32,10 @@
 
 | Attribute | Details |
 | :--- | :--- |
-| **Gregorian Date** | November 27, 2026 (`2026-11-27`) |
-| **Japanese Date** | 2026年11月27日 |
-| **Reiwa Era** | 令和8年11月27日 (令和八年 十一月二十七日) |
-| **Weekday** | 金曜日（きんようび · Friday） |
+| **Gregorian Date** | November 28, 2026 (`2026-11-28`) |
+| **Japanese Date** | 2026年11月28日 |
+| **Reiwa Era** | 令和8年11月28日 (令和八年 十一月二十八日) |
+| **Weekday** | 土曜日（どようび · Saturday） |
 | **Traditional Month** | 霜月（Shimotsuki — Month of Frost） |
 
 ---
@@ -46,27 +46,27 @@
   <img src="assets/daily-kanji.svg" alt="Today's Daily Kanji" width="680"/>
 </div>
 
-### 長 — Long
+### 車 — Car
 
-- **JLPT Level:** `N5` (Cycle Day 52 of 93)
-- **Reading:** `ながい (Nagai)`
-- **Hiragana:** `ながい`
-- **Katakana:** `ナガイ`
-- **Romaji:** *Nagai*
+- **JLPT Level:** `N5` (Cycle Day 53 of 93)
+- **Reading:** `くるま (Kuruma)`
+- **Hiragana:** `くるま`
+- **Katakana:** `クルマ`
+- **Romaji:** *Kuruma*
 
 #### 📖 Related Vocabulary &amp; Studied Forms
-- **長い** (`ながい` / *Nagai*): Long
-- **しゃ長** (`しゃちょう` / *Shachou*): Company president
-- **長しょ** (`ちょうしょ` / *Chousho*): Strong point
+- **車** (`くるま` / *Kuruma*): Car
+- **でん車** (`でんしゃ` / *Densha*): Train
+- **じてん車** (`じてんしゃ` / *Jidensha*): Bicycle
 
 ---
 
 ## 📊 Learning Statistics
 
-- **Total Days Recorded:** `14`
-- **Unique Kanji Studied:** `14`
+- **Total Days Recorded:** `15`
+- **Unique Kanji Studied:** `15`
 - **Total Kanji Collection:** `93` (Foundation N5 Collection)
-- **Timezone Anchor:** `Asia/Karachi` (Last synchronized: `2026-11-27 04:56:47 PKT`)
+- **Timezone Anchor:** `Asia/Karachi` (Last synchronized: `2026-11-28 04:38:36 PKT`)
 
 ---
 
